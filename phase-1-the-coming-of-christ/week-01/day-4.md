@@ -51,4 +51,4 @@ Matthew then provides his first of many "fulfillment quotations," citing Isaiah 
 God of Abraham, David, and Joseph, you have been faithful across every generation. You preserved your promises through exile and silence, through scandal and suffering, through the quiet obedience of forgotten men and women. Thank you for the reminder that your plans do not depend on our perfection but on your faithfulness. Give us the courage of Joseph -- the willingness to obey even when we do not fully understand. And remind us today that you are Emmanuel, God with us, now and to the end of the age. Through Jesus Christ our Lord. Amen.
 
 ---
-*Previous: [[day-3]] | Next: [[day-5]] -- Tomorrow's Reading: Luke 2:1-20*
+*Previous: [day-3](day-3.md) | Next: [day-5](day-5.md) -- Tomorrow's Reading: Luke 2:1-20*

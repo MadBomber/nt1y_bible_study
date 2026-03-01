@@ -51,4 +51,4 @@ The chapter concludes: if those who refused the voice at Sinai did not escape, "
 Lord Jesus, pioneer and perfecter of our faith, help us to run the race set before us with endurance, throwing off every weight and entangling sin. When the course is long and the pain is great, fix our eyes on you -- the one who endured the cross for joy and now sits at the right hand of the throne of God. Teach us to receive the Father's discipline not as punishment but as the mark of beloved children being shaped for holiness. Guard us from Esau's folly of trading the eternal for the immediate. And as we approach Mount Zion, the heavenly Jerusalem, fill us with both reverent awe and overflowing joy, for you are the mediator whose blood speaks forgiveness and whose kingdom can never be shaken. Amen.
 
 ---
-*Previous: [[day-4]] | Next: [[../week-48/day-1|Week 48, Day 1]]*
+*Previous: [day-4](day-4.md) | Next: [Week 48, Day 1](../week-48/day-1.md)*

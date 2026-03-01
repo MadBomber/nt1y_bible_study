@@ -83,4 +83,4 @@ Close your time together by praying through John 3:16-17. Thank God for the dept
 
 ---
 
-*Back to [[overview|Week 3 Overview]] | Next: [[../week-04/overview|Week 4]]*
+*Back to [Week 3 Overview](overview.md) | Next: [Week 4](../week-04/overview.md)*

@@ -54,4 +54,4 @@ Chapter 7 brings emotional resolution. The godly sorrow that Paul's tearful lett
 > -- 2 Corinthians 4:7
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-32/overview|Week 32]] | Next: [[../week-34/overview|Week 34]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 32](../week-32/overview.md) | Next: [Week 34](../week-34/overview.md)*

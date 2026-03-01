@@ -57,4 +57,4 @@ Philippians 1 introduces the theme of gospel partnership and Paul's famous dilem
 > -- Philippians 2:5-8
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-40/overview|Week 40]] | Next: [[../week-42/overview|Week 42]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 40](../week-40/overview.md) | Next: [Week 42](../week-42/overview.md)*

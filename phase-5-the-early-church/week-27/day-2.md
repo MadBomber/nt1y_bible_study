@@ -49,4 +49,4 @@ The chapter closes with what many scholars consider a primitive Christian creeda
 Father, we thank you for the faith of those who came before us and who became models of your grace under pressure. Produce in us the same work of faith, labor of love, and steadfastness of hope that marked the Thessalonian church. When affliction comes, grant us the joy that only your Spirit can give -- a joy that does not deny the pain but transcends it. Turn our hearts fully to you, away from every idol that competes for our worship. We wait for your Son from heaven. Come, Lord Jesus. Amen.
 
 ---
-*[[overview|Week 27 Overview]] | Previous: [[day-1|Day 1 - Paul in Corinth]] | Next: [[day-3|Day 3 - Paul's Ministry Among Them]] | [[discussion|Discussion Guide]]*
+*[Week 27 Overview](overview.md) | Previous: [Day 1 - Paul in Corinth](day-1.md) | Next: [Day 3 - Paul's Ministry Among Them](day-3.md) | [Discussion Guide](discussion.md)*

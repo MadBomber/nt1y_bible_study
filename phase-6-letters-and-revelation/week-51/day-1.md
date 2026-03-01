@@ -49,4 +49,4 @@ The title "Alpha and Omega" (1:8) — the first and last letters of the Greek al
 Lord Jesus Christ, Alpha and Omega, First and Last, Living One who was dead and is alive forevermore — we fall before you in awe. Forgive us for domesticating your glory, for reducing you to a manageable figure. Open the eyes of our hearts to see you as you truly are: the radiant Lord of the cosmos who walks among your churches and holds the keys of death itself. Let this vision of your glory sustain us through every trial and silence every fear. Amen.
 
 ---
-*[[../week-50/day-5|<-- Day 5 (Week 50)]] | [[./overview|Overview]] | [[./day-2|Day 2 -->]]*
+*[<-- Day 5 (Week 50)](../week-50/day-5.md) | [Overview](./overview.md) | [Day 2 -->](./day-2.md)*

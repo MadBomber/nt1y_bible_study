@@ -50,4 +50,4 @@ Begin by reading John 10:27-30 aloud together. Let the promise of the Shepherd's
 - **For gratitude**: That we would be like the one leper who returned, not the nine who walked away healed but thankless.
 
 ---
-*Back to [[overview|Week 13 Overview]] | Next: [[../week-14/overview|Week 14]]*
+*Back to [Week 13 Overview](overview.md) | Next: [Week 14](../week-14/overview.md)*

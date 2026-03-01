@@ -51,4 +51,4 @@ The closing of the letter (verses 16-18) includes a personal authenticating note
 Faithful God, you established work as a gift before the fall and as a calling after it. Forgive us when we use spiritual enthusiasm as an excuse for neglecting our responsibilities. Give us the discipline to work honestly, the generosity to share freely, and the wisdom to know the difference between genuine need and lazy presumption. Where our communities need correction, give us the courage to speak the truth and the love to always treat one another as brothers and sisters, not enemies. Guard us against the evil one, and establish us in every good work. Amen.
 
 ---
-*[[overview|Week 28 Overview]] | Previous: [[day-3|Day 3 - Man of Lawlessness]] | Next: [[day-5|Day 5 - Paul Returns to Antioch]] | [[discussion|Discussion Guide]]*
+*[Week 28 Overview](overview.md) | Previous: [Day 3 - Man of Lawlessness](day-3.md) | Next: [Day 5 - Paul Returns to Antioch](day-5.md) | [Discussion Guide](discussion.md)*

@@ -52,4 +52,4 @@ Binding these readings together is the theme of authority. In Mark 3, Jesus demo
 > "But seek first the kingdom of God and his righteousness, and all these things will be added to you." -- Matthew 6:33 (ESV)
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../../phase-1-the-coming-of-christ/week-04/overview|Week 4]] | Next: [[../week-06/overview|Week 6]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 4](../../phase-1-the-coming-of-christ/week-04/overview.md) | Next: [Week 6](../week-06/overview.md)*

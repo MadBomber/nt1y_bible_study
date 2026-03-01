@@ -58,4 +58,4 @@ Or:
 > -- Mark 8:34-35
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-09/overview|Week 9]] | Next: [[../week-11/overview|Week 11]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 9](../week-09/overview.md) | Next: [Week 11](../week-11/overview.md)*

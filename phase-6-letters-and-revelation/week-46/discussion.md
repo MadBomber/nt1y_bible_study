@@ -86,4 +86,4 @@ This week's readings challenge us in three practical areas:
 Lord Jesus, great High Priest after the order of Melchizedek, this week you have shown us your superiority over every figure and system of the old covenant -- not to diminish what came before, but to reveal the reality that the shadows always pointed toward. You are greater than Moses, provider of a deeper rest than Joshua, a priest of a higher order than Aaron. Your word lays us bare, yet your sympathy draws us near. Your warnings shake us, yet your oath anchors us. Move us past spiritual infancy into the maturity you desire. Keep our hearts soft to your voice today, this very day, before another "today" passes and our hearts harden against your call. Save us completely -- to the uttermost and forever -- because you always live to intercede for us. Amen.
 
 ---
-*Back to [[overview|Week 46 Overview]] | Next: [[../week-47/overview|Week 47]]*
+*Back to [Week 46 Overview](overview.md) | Next: [Week 47](../week-47/overview.md)*

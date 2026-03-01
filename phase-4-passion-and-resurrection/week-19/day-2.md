@@ -47,4 +47,4 @@ What strikes the careful reader is the complete collapse of every institution me
 Lord Jesus, we stand among the crowd that chose Barabbas. We are the guilty ones set free while you bore our sentence. Forgive us for the times we treat your sacrifice as entertainment, as Herod did, or as an inconvenient truth, as Pilate did. Open our eyes to see the magnitude of what happened in that courtyard -- that the just died for the unjust to bring us to God. Amen.
 
 ---
-*Previous: [[day-1]] | Next: [[day-3]]*
+*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md)*

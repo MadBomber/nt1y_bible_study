@@ -66,4 +66,4 @@ This week's readings through 1 Timothy 1-5 challenge us in three practical areas
 3. **Church as family** — Choose one person in your faith community who is vulnerable, overlooked, or underserved. Take a specific action this week to care for them as you would a family member.
 
 ---
-*Back to [[overview|Week 43 Overview]] | Next: [[../week-44/overview|Week 44]]*
+*Back to [Week 43 Overview](overview.md) | Next: [Week 44](../week-44/overview.md)*

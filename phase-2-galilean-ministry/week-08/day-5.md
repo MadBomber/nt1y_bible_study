@@ -55,4 +55,4 @@ Jesus closes this portion with a promise that grounds all of salvation in the wi
 Lord Jesus, Bread of Life, you fed five thousand in the wilderness and walked upon the sea, yet we confess that we are often more interested in the bread than in the Baker. Forgive our shallow appetites. Teach us to labor not for food that perishes but for the food that endures to eternal life. Draw us to yourself by the Father's grace, and hold us fast by your faithfulness, that nothing given to you may be lost. Satisfy our deepest hunger with yourself alone. Amen.
 
 ---
-*Previous: [[day-4]] | Next: [[discussion]] -- Weekly Discussion Guide*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md) -- Weekly Discussion Guide*

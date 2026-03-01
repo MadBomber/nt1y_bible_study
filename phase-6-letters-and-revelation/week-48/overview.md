@@ -52,4 +52,4 @@ The transition from Hebrews 13 to 1 Peter is thematically seamless. Hebrews clos
 > "But you are a chosen people, a royal priesthood, a holy nation, God's special possession, that you may declare the praises of him who called you out of darkness into his wonderful light." -- 1 Peter 2:9
 
 ---
-*[[../week-47/overview|← Week 47]] | [[./day-1|Day 1 →]] | [[../week-49/overview|Week 49 →]]*
+*[← Week 47](../week-47/overview.md) | [Day 1 →](./day-1.md) | [Week 49 →](../week-49/overview.md)*

@@ -42,4 +42,4 @@ Paul's theology of weakness runs counter to nearly every instinct of contemporar
 Pray for a church that embraces the paradox of power in weakness. Pray for leaders who are honest about their clay-jar fragility and who trust the treasure of the gospel to do its own work. Pray for the gift of godly sorrow -- the kind that leads to life, not death -- in every area where your community needs to repent and grow. Pray for generosity that overflows from gratitude rather than guilt, modeled on the self-giving Christ who became poor so that we might become rich. And pray for the eternal perspective that Paul describes: "this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison" (4:17).
 
 ---
-*Back to [[overview|Week 33 Overview]] | Next: [[../week-34/overview|Week 34]]*
+*Back to [Week 33 Overview](overview.md) | Next: [Week 34](../week-34/overview.md)*

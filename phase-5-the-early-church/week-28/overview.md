@@ -53,4 +53,4 @@ The week closes with Acts 18:18-28, which narrates Paul's departure from Corinth
 > -- 2 Thessalonians 3:3
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-27/overview|Week 27]] | Next: [[../week-29/overview|Week 29]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 27](../week-27/overview.md) | Next: [Week 29](../week-29/overview.md)*

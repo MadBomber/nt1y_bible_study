@@ -47,4 +47,4 @@ But first, Paul must go to Jerusalem with the collection he has gathered from th
 God of hope, fill us with all joy and peace in believing, so that by the power of your Holy Spirit we may abound in hope. Give us Paul's global vision -- a passion to see your name praised where it has never been spoken. Teach us the humility of Christ, who did not please himself but bore the burdens of others. And when we are called to sacrificial generosity that crosses ethnic and cultural lines, make us willing instruments of the unity you have purchased with the blood of your Son. Amen.
 
 ---
-*Previous: [[../week-37/day-5|Week 37, Day 5]] | Next: [[day-2]]*
+*Previous: [Week 37, Day 5](../week-37/day-5.md) | Next: [day-2](day-2.md)*

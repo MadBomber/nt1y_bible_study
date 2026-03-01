@@ -57,4 +57,4 @@ Jesus' response -- "Did you not know that I must be in my Father's house?" -- is
 
 ---
 
-*Previous: [[../week-01/day-5]] | Next: [[day-2]] -- Tomorrow's Reading: Matthew 2*
+*Previous: [../week-01/day-5](../week-01/day-5.md) | Next: [day-2](day-2.md) -- Tomorrow's Reading: Matthew 2*

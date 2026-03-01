@@ -63,4 +63,4 @@ Together, these two accounts form a breathtaking composite. We see the full huma
 > "Therefore when Jesus had received the sour wine, He said, 'It is finished!' And He bowed His head and gave up His spirit." -- John 19:30 (NASB)
 
 ---
-*Previous: [[../week-18/overview|Week 18]] | [[discussion|Weekly Discussion Guide]] | Next: [[../week-20/overview|Week 20]]*
+*Previous: [Week 18](../week-18/overview.md) | [Weekly Discussion Guide](discussion.md) | Next: [Week 20](../week-20/overview.md)*

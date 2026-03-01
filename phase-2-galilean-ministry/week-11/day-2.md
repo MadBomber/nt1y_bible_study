@@ -51,4 +51,4 @@ The chapter's final section (vv. 46-62) presents three encounters that define th
 Lord Jesus, you sent your disciples out with nothing but your authority, and they returned with more than they needed. Teach us the freedom of radical dependence on you. When we are tempted to build shelters on mountaintops, remind us that there is a road to Jerusalem still ahead. When the cost of following you frightens us -- the homelessness, the break with convention, the refusal to look back -- strengthen our resolve with the vision of your glory and the promise of your presence. You are the Christ of God; may we follow you without reservation. Amen.
 
 ---
-*Previous: [[day-1]] | Next: [[day-3]]*
+*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md)*

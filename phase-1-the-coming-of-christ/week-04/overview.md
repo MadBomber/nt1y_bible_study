@@ -54,4 +54,4 @@ This week bridges Phase 1 and Phase 2 of our study. The coming of Christ -- his 
 > "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel." -- Mark 1:15 (ESV)
 
 ---
-*[[discussion|Weekly Discussion Guide]] | Previous: [[../week-03/overview|Week 3]] | Next: [[../../phase-2-galilean-ministry/week-05/overview|Week 5]]*
+*[Weekly Discussion Guide](discussion.md) | Previous: [Week 3](../week-03/overview.md) | Next: [Week 5](../../phase-2-galilean-ministry/week-05/overview.md)*

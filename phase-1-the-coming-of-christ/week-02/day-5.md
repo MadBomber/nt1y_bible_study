@@ -58,4 +58,4 @@ The combination of voice, Spirit, and Son creates one of the New Testament's cle
 
 ---
 
-*Previous: [[day-4]] | Next: [[discussion]] -- Weekly Discussion Guide*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md) -- Weekly Discussion Guide*

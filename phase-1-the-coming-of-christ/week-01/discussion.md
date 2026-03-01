@@ -41,4 +41,4 @@ John's prologue says "the light shines in the darkness, and the darkness has not
 This week, pray about the mystery of the incarnation -- that the God who created the universe chose to enter it as a vulnerable infant. Ask God to deepen your wonder at this truth and to show you where he is present in humble, unexpected places in your own life. Pray for the faith of Mary: "Let it be to me according to your word."
 
 ---
-*Back to [[overview|Week 1 Overview]] | Next: [[../week-02/overview|Week 2]]*
+*Back to [Week 1 Overview](overview.md) | Next: [Week 2](../week-02/overview.md)*

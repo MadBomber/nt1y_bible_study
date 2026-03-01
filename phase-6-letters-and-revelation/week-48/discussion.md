@@ -65,4 +65,4 @@ Think about a time when you felt like an outsider — in a workplace, a social g
 God of peace, who raised our Lord Jesus from the dead and who calls us out of darkness into your wonderful light — we praise you for the living hope that sustains us and the tested faith that refines us. Make us living stones in your spiritual house, a royal priesthood that declares your praises in word and deed. When the fiery ordeal comes, help us not to be surprised but to rejoice in sharing Christ's sufferings. Give us the imperishable beauty of a gentle and quiet spirit, the courage to go outside the camp, and the trust to entrust our souls to you, our faithful Creator, while doing good. Through Jesus Christ, to whom be glory and dominion forever and ever. Amen.
 
 ---
-*[[overview|Week 48 Overview]] | Previous: [[../week-47/discussion|Week 47 Discussion]] | Next: [[../week-49/discussion|Week 49 Discussion]]*
+*[Week 48 Overview](overview.md) | Previous: [Week 47 Discussion](../week-47/discussion.md) | Next: [Week 49 Discussion](../week-49/discussion.md)*

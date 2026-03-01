@@ -55,4 +55,4 @@ The final two chapters move from theology to ethics. Christian freedom is not a 
 > -- Galatians 5:22-23
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-24/overview|Week 24]] | Next: [[../week-26/overview|Week 26]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 24](../week-24/overview.md) | Next: [Week 26](../week-26/overview.md)*

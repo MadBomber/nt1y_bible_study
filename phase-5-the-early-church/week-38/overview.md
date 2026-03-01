@@ -55,4 +55,4 @@ Acts 21-22 then plunges us into crisis. Despite repeated prophetic warnings -- A
 > -- Acts 20:24
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-37/overview|Week 37]] | Next: [[../week-39/overview|Week 39]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 37](../week-37/overview.md) | Next: [Week 39](../week-39/overview.md)*

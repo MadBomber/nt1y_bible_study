@@ -55,4 +55,4 @@ By the end of the week, we encounter the full spectrum of responses to Jesus: th
 > -- Matthew 11:28-30
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-06/overview|Week 6]] | Next: [[../week-08/overview|Week 8]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 6](../week-06/overview.md) | Next: [Week 8](../week-08/overview.md)*

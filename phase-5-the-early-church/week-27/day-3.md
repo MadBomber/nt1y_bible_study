@@ -51,4 +51,4 @@ The chapter closes with an outpouring of personal emotion. Paul describes his fo
 Father, we thank you for leaders who have loved us not for what they could get from us but for what they could give. Guard your church from flattery, greed, and selfish ambition in ministry. Make us people of integrity whose words match our lives. Let your Word be at work in us -- not as dead letters on a page but as living power that transforms us from the inside out. And give us the joy of investing in others so deeply that they become our crown of rejoicing when Jesus returns. Amen.
 
 ---
-*[[overview|Week 27 Overview]] | Previous: [[day-2|Day 2 - Thanksgiving for Thessalonians' Faith]] | Next: [[day-4|Day 4 - Timothy's Encouraging Report]] | [[discussion|Discussion Guide]]*
+*[Week 27 Overview](overview.md) | Previous: [Day 2 - Thanksgiving for Thessalonians' Faith](day-2.md) | Next: [Day 4 - Timothy's Encouraging Report](day-4.md) | [Discussion Guide](discussion.md)*

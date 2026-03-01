@@ -53,4 +53,4 @@ The thread connecting these diverse chapters is hope -- the certain hope of bodi
 > -- 1 Corinthians 15:55-57
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-31/overview|Week 31]] | Next: [[../week-33/overview|Week 33]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 31](../week-31/overview.md) | Next: [Week 33](../week-33/overview.md)*

@@ -56,4 +56,4 @@ Then we turn to Acts 9-10, and the pace shifts from pastoral instruction to dram
 > — James 4:8
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-22/overview|Week 22]] | Next: [[../week-24/overview|Week 24]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 22](../week-22/overview.md) | Next: [Week 24](../week-24/overview.md)*

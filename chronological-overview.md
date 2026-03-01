@@ -72,4 +72,4 @@ This study divides the New Testament story into six phases that follow its natur
 
 ---
 
-*Back to [[index|Master Index]] | Begin: [[phase-1-the-coming-of-christ/week-01/overview|Week 1]]*
+*Back to [Master Index](index.md) | Begin: [Week 1](phase-1-the-coming-of-christ/week-01/overview.md)*

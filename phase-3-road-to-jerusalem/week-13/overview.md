@@ -55,4 +55,4 @@ Together, these readings paint a picture of a God who defies every category we c
 > "The thief comes only to steal and kill and destroy; I came so that they would have life, and have it abundantly." -- John 10:10 (NASB)
 
 ---
-*Previous: [[../week-12/overview|Week 12]] | [[discussion|Weekly Discussion Guide]] | Next: [[../week-14/overview|Week 14]]*
+*Previous: [Week 12](../week-12/overview.md) | [Weekly Discussion Guide](discussion.md) | Next: [Week 14](../week-14/overview.md)*

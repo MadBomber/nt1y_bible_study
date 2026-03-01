@@ -50,4 +50,4 @@ Consider also the trajectory of authority in these passages. The religious leade
 Pray this week for discernment and integrity. Ask God to search your heart as Jesus searched the Temple -- exposing what is corrupt, affirming what is genuine, and giving you the courage to respond when his scrutiny reveals uncomfortable truth. Pray for the humility to acknowledge where you have been a "full-leafed fig tree" and the faith to trust that the God who judges also restores. Pray especially for anyone in the group who is wrestling with questions of authority -- Jesus' or their own -- and for the scribe's willingness to recognize truth even when it overturns long-held assumptions.
 
 ---
-*[[overview|Overview]] | Previous: [[../week-14/discussion|Week 14 Discussion]] | Next: [[../week-16/overview|Week 16]]*
+*[Overview](overview.md) | Previous: [Week 14 Discussion](../week-14/discussion.md) | Next: [Week 16](../week-16/overview.md)*

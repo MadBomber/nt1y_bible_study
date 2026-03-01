@@ -56,4 +56,4 @@ The week closes in Jericho with Zacchaeus, the chief tax collector who climbed a
 > -- John 11:25-26
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-13/overview|Week 13]] | Next: [[../week-15/overview|Week 15]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 13](../week-13/overview.md) | Next: [Week 15](../week-15/overview.md)*

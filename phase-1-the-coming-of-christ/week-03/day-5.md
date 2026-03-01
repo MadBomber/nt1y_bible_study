@@ -71,4 +71,4 @@ Thank God that the gospel breaks every human barrier -- ethnic, social, moral, r
 
 ---
 
-*Previous: [[day-4]] | Next: [[discussion]] -- Weekly Discussion Guide*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md) -- Weekly Discussion Guide*

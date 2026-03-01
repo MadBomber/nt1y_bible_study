@@ -67,4 +67,4 @@ Thank God that Jesus was tested in every way as we are, yet without sin. Ask the
 
 ---
 
-*Previous: [[../week-02/day-5]] | Next: [[day-2]] -- Tomorrow's Reading: John 1:19-51*
+*Previous: [../week-02/day-5](../week-02/day-5.md) | Next: [day-2](day-2.md) -- Tomorrow's Reading: John 1:19-51*

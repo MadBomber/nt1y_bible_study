@@ -75,4 +75,4 @@ This is the culmination of four weeks in the Passion narrative. Take extended ti
 - **Commission**: Close by praying the Great Commission over your group. "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age." Amen.
 
 ---
-*Back to [[overview|Week 20 Overview]] | Next: [[../../phase-5-the-early-church/week-21/overview|Week 21]]*
+*Back to [Week 20 Overview](overview.md) | Next: [Week 21](../../phase-5-the-early-church/week-21/overview.md)*

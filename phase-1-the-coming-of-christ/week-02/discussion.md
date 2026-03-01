@@ -96,4 +96,4 @@ Next week we will follow Jesus from the waters of baptism into the wilderness, w
 
 ---
 
-*Back to [[overview|Week 2 Overview]] | Next: [[../week-03/overview|Week 3]]*
+*Back to [Week 2 Overview](overview.md) | Next: [Week 3](../week-03/overview.md)*

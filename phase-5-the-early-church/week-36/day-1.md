@@ -49,4 +49,4 @@ For the Roman house churches, divided between Jewish and Gentile believers, this
 Father, we stand in awe of a grace that does not merely match our sin but floods over it with superabundant mercy. Thank you for the peace we have with you through Jesus Christ -- a peace we did not earn, could not deserve, and cannot lose. When suffering presses in, remind us that you are forging endurance, character, and a hope that will never put us to shame. May the love you have poured into our hearts by your Spirit overflow to everyone we meet today. Through Christ our Lord, amen.
 
 ---
-*[[overview|Week 36 Overview]] | Next: [[day-2|Day 2 - Dead to Sin Alive in Christ]] | [[discussion|Discussion Guide]]*
+*[Week 36 Overview](overview.md) | Next: [Day 2 - Dead to Sin Alive in Christ](day-2.md) | [Discussion Guide](discussion.md)*

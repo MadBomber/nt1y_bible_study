@@ -52,4 +52,4 @@ This week we encounter Paul at his most direct and his most pastoral. In chapter
 > -- 1 Corinthians 6:19-20
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-29/overview|Week 29]] | Next: [[../week-31/overview|Week 31]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 29](../week-29/overview.md) | Next: [Week 31](../week-31/overview.md)*

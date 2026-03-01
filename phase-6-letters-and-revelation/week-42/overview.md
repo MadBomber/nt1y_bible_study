@@ -55,4 +55,4 @@ Colossians then takes us into the cosmic dimensions of Christology. The Christ H
 > "The Son is the image of the invisible God, the firstborn over all creation. For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him." — Colossians 1:15-16
 
 ---
-*[[../../phase-5-the-early-church/week-41/overview|Week 41]] | [[./day-1|Day 1 →]] | [[../week-43/overview|Week 43 →]]*
+*[Week 41](../../phase-5-the-early-church/week-41/overview.md) | [Day 1 →](./day-1.md) | [Week 43 →](../week-43/overview.md)*

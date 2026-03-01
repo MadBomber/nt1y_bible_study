@@ -51,4 +51,4 @@ The chapter closes with Jesus' most demanding statements about discipleship (14:
 Lord Jesus, you expose our tendency to assume we deserve a place at your table while making excuses for why we cannot fully commit. Forgive us for half-hearted discipleship and for the comfortable priorities that crowd out your call. Give us the courage to count the cost honestly and then to follow you without reservation. And open our eyes to those around us whom we have overlooked -- the poor, the outcast, the unlikely -- whom you are eagerly inviting to your banquet. In your name. Amen.
 
 ---
-*Previous: [[day-3]] | Next: [[day-5]]*
+*Previous: [day-3](day-3.md) | Next: [day-5](day-5.md)*

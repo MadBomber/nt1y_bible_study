@@ -52,4 +52,4 @@ It is during this Corinthian stay, around 50-51 AD, that Paul writes his two let
 > -- 1 Thessalonians 4:16-17
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-26/overview|Week 26]] | Next: [[../week-28/overview|Week 28]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 26](../week-26/overview.md) | Next: [Week 28](../week-28/overview.md)*

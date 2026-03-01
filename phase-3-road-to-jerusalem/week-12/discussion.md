@@ -41,4 +41,4 @@ The "I AM" statement in John 8:58 ("Before Abraham was, I am") is one of the mos
 Spend time in prayer focusing on God's dual nature as both holy judge and compassionate father. Thank him that his authority is exercised not to crush us but to seek and save us. Pray for those in your group or community who may be experiencing one of the two forms of lostness -- either far from God in open rebellion or close to God in outward behavior but far from him in heart. Ask the Father to run to them.
 
 ---
-*[[overview|Week 12 Overview]] | Next: [[../week-13/discussion|Week 13 Discussion]]*
+*[Week 12 Overview](overview.md) | Next: [Week 13 Discussion](../week-13/discussion.md)*

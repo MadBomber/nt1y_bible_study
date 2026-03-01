@@ -42,4 +42,4 @@ The apparent contradiction between Paul ("a person is justified by faith apart f
 Pray for the courage of Stephen, who spoke truth even when it cost him everything. Pray for the flexibility of Philip, who followed the Spirit from Samaria to a desert road without hesitation. Pray for the wisdom of James, who knew that faith without works is a corpse -- and for the grace of Paul, who knew that works without faith are a prison. Ask God to give your community a faith that is both deeply rooted in grace and visibly expressed in action, so that the world can see the difference the gospel makes.
 
 ---
-*Back to [[overview|Week 22 Overview]] | Next: [[../week-23/overview|Week 23]]*
+*Back to [Week 22 Overview](overview.md) | Next: [Week 23](../week-23/overview.md)*

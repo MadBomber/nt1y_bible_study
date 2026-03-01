@@ -57,4 +57,4 @@ These five chapters are not merely academic theology. They are pastoral pleading
 > "For we do not have a high priest who is unable to empathize with our weaknesses, but we have one who has been tempted in every way, just as we are -- yet he did not sin. Let us then approach God's throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need." -- Hebrews 4:15-16
 
 ---
-*[[../week-45/overview|<-- Week 45]] | [[./day-1|Day 1 -->]] | [[../week-47/overview|Week 47 -->]]*
+*[<-- Week 45](../week-45/overview.md) | [Day 1 -->](./day-1.md) | [Week 47 -->](../week-47/overview.md)*

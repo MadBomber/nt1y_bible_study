@@ -42,4 +42,4 @@ The first missionary journey raises profound questions about the relationship be
 Pray this week for missionaries and church planters who are working in hostile or unfamiliar cultural environments. Pray for the courage to preach the gospel without addition or subtraction. Pray for the discernment to distinguish between the unchanging core of the faith and the cultural forms in which we express it. And pray for the kind of community that Antioch embodied -- diverse, Spirit-led, and generous in sending its best for the sake of the world.
 
 ---
-*[[overview|Week Overview]] | Previous: [[../week-23/discussion|Week 23 Discussion]] | Next: [[../week-25/discussion|Week 25 Discussion]]*
+*[Week Overview](overview.md) | Previous: [Week 23 Discussion](../week-23/discussion.md) | Next: [Week 25 Discussion](../week-25/discussion.md)*

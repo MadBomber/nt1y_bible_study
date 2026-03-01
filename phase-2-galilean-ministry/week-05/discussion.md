@@ -46,4 +46,4 @@ Choose one of the following practices to implement this week:
 Pray together that the Holy Spirit would move the teaching of Jesus from your heads to your hearts to your hands. Pray for the courage to live out the upside-down values of the Kingdom in a world that celebrates the opposite. Pray specifically for anyone in the group who is struggling with anxiety, conflict with an enemy, or the temptation to perform their faith for human approval rather than for God alone. Close by praying the Lord's Prayer together slowly, pausing after each petition.
 
 ---
-*Back to [[overview|Week 5 Overview]] | Next: [[../week-06/overview|Week 6]]*
+*Back to [Week 5 Overview](overview.md) | Next: [Week 6](../week-06/overview.md)*

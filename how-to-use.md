@@ -57,8 +57,8 @@ If studying alone, use the Discussion Guide as a weekly review. The "Going Deepe
 
 ## Navigation
 
-- **[[index|Master Index]]** — Links to every week at a glance
-- **[[chronological-overview|Chronological Overview]]** — Why this order matters
+- **[Master Index](index.md)** — Links to every week at a glance
+- **[Chronological Overview](chronological-overview.md)** — Why this order matters
 - **Phase folders** — Browse by phase (1-6) to see groups of related weeks
 - **Obsidian links** — Every daily study links to the next day, and every weekly overview links to adjacent weeks
 
@@ -75,4 +75,4 @@ If studying alone, use the Discussion Guide as a weekly review. The "Going Deepe
 
 ---
 
-*Ready to begin? [[phase-1-the-coming-of-christ/week-01/overview|Start Week 1]]*
+*Ready to begin? [Start Week 1](phase-1-the-coming-of-christ/week-01/overview.md)*

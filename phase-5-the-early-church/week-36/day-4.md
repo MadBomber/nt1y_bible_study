@@ -51,4 +51,4 @@ The chapter's climax (verses 31-39) is a series of rhetorical questions that rea
 Abba, Father, we hear your Spirit within us, assuring us that we are your children -- heirs of God and co-heirs with Christ. There is no condemnation for us because your Son bore it all. When we do not know how to pray, your Spirit intercedes with groanings too deep for words. We confess that trouble, hardship, and uncertainty sometimes make us wonder if we have been abandoned. But you declare that nothing -- nothing in death or life, nothing in all creation -- can separate us from your love in Christ Jesus our Lord. We believe. Help our unbelief. Through Christ, who loved us and gave himself for us, amen.
 
 ---
-*[[overview|Week 36 Overview]] | Previous: [[day-3|Day 3 - Released from the Law]] | Next: [[day-5|Day 5 - God's Sovereign Choice]] | [[discussion|Discussion Guide]]*
+*[Week 36 Overview](overview.md) | Previous: [Day 3 - Released from the Law](day-3.md) | Next: [Day 5 - God's Sovereign Choice](day-5.md) | [Discussion Guide](discussion.md)*

@@ -51,4 +51,4 @@ The teaching culminates in three extended parables -- the Ten Virgins, the Talen
 > -- Matthew 25:40
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-15/overview|Week 15]] | Next: [[../../phase-4-passion-and-resurrection/week-17/overview|Week 17]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 15](../week-15/overview.md) | Next: [Week 17](../../phase-4-passion-and-resurrection/week-17/overview.md)*

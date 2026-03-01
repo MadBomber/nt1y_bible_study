@@ -54,4 +54,4 @@ By the end of the week, we see the pattern that will define the early church's e
 > -- Acts 1:8
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../../phase-4-passion-and-resurrection/week-20/overview|Week 20]] | Next: [[../week-22/overview|Week 22]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 20](../../phase-4-passion-and-resurrection/week-20/overview.md) | Next: [Week 22](../week-22/overview.md)*

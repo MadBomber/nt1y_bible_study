@@ -60,4 +60,4 @@ After Herod's death in 4 BC, fear of his son Archelaus (eventually deposed by Ro
 
 ---
 
-*Previous: [[day-1]] | Next: [[day-3]] -- Tomorrow's Reading: Mark 1:1-8*
+*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md) -- Tomorrow's Reading: Mark 1:1-8*

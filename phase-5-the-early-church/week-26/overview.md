@@ -58,4 +58,4 @@ The week concludes in two of the great intellectual centers of the ancient world
 > -- Acts 17:28
 
 ---
-*[[discussion|Discussion Guide]] | Previous: [[../week-25/overview|Week 25]] | Next: [[../week-27/overview|Week 27]]*
+*[Discussion Guide](discussion.md) | Previous: [Week 25](../week-25/overview.md) | Next: [Week 27](../week-27/overview.md)*

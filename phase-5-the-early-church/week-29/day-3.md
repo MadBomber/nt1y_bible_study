@@ -51,4 +51,4 @@ The chapter concludes with one of Paul's most audacious claims: "we have the min
 Spirit of the living God, you alone can illuminate the depths of God's wisdom. Without you, we are blind to the glory of the cross. Open the eyes of our hearts to see what no eye has seen and no ear has heard -- the astonishing things God has prepared for those who love him. Free us from dependence on human eloquence and intellectual sophistication. Give us the mind of Christ, so that we see the world as he sees it: the last as first, the weak as strong, the cross as the power of God. Teach us your wisdom in the hidden places of our hearts. Amen.
 
 ---
-*[[overview|Week 29 Overview]] | Previous: [[day-2|Day 2 - Divisions in Corinth]] | Next: [[day-4|Day 4 - Spiritual Immaturity, God's Temple]] | [[discussion|Discussion Guide]]*
+*[Week 29 Overview](overview.md) | Previous: [Day 2 - Divisions in Corinth](day-2.md) | Next: [Day 4 - Spiritual Immaturity, God's Temple](day-4.md) | [Discussion Guide](discussion.md)*

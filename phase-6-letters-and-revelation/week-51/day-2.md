@@ -47,4 +47,4 @@ Christ identifies himself with "eyes like a flame of fire, and whose feet are li
 Lord Jesus, who walks among the lampstands and holds the stars in your hand — search us and know us as you know each of your churches. Where we have abandoned our first love, restore it. Where we are suffering for your name, sustain us with the promise of the crown of life. Where we have tolerated compromise and called it freedom, convict us and call us to repentance. Give us ears to hear what the Spirit is saying to the churches, and give us the courage to obey. To the one who conquers, you have promised the tree of life, the hidden manna, and the morning star. Make us overcomers by the power of your grace. Amen.
 
 ---
-*[[./day-1|← Day 1]] | [[./overview|Overview]] | [[./day-3|Day 3 →]]*
+*[← Day 1](./day-1.md) | [Overview](./overview.md) | [Day 3 →](./day-3.md)*

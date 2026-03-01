@@ -53,4 +53,4 @@ If Mark intended to end at verse 8, the question is: why? Why end a Gospel with 
 Lord Jesus, Son of God, we confess that we see most clearly who you are when we look at your cross. A Roman centurion understood what the scholars and priests could not: that your death was not defeat but revelation, not weakness but glory. We confess that we, like the women at the tomb, are sometimes seized by fear when we should be seized by joy. Give us courage to do what Mark's ending demands -- to go and tell, to speak what we have seen, to proclaim that the tomb is empty and the stone is rolled away. The story does not end with silence. Let it continue through us. Amen.
 
 ---
-*Previous: [[day-2]] | Next: [[day-4]] -- Tomorrow's Reading: Luke 24*
+*Previous: [day-2](day-2.md) | Next: [day-4](day-4.md) -- Tomorrow's Reading: Luke 24*

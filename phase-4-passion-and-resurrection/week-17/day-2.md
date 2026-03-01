@@ -45,4 +45,4 @@ Peter's response to the prediction of his denial closes the chapter with painful
 Lord Jesus, you knelt before your disciples with a towel and a basin, making yourself the servant of those who should have served you. Wash us again -- not only the dust of the road but the pride that keeps us from kneeling before one another. Give us the courage to love as you loved, without condition, without limit, without counting the cost. Amen.
 
 ---
-*Previous: [[day-1]] | Next: [[day-3]]*
+*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md)*

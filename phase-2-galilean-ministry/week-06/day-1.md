@@ -51,4 +51,4 @@ The Gadarene demoniac episode (8:28-34) takes Jesus into Gentile territory on th
 Lord Jesus, you touched the untouchable, healed with a word, silenced the storm, and liberated the captive. We confess that our faith often falls short of the centurion's. We want your presence when a word would suffice. We panic in storms when you are in the boat. We resist your work when it disrupts our comfortable arrangements. Increase our faith. Help us to trust your authority over every realm of our lives -- our bodies, our fears, and the spiritual battles we cannot see. You are the Lord of all creation, and we choose to trust you. Amen.
 
 ---
-*Previous: [[../week-05/day-5]] | Next: [[day-2]]*
+*Previous: [../week-05/day-5](../week-05/day-5.md) | Next: [day-2](day-2.md)*

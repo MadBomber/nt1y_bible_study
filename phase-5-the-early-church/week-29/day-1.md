@@ -49,4 +49,4 @@ The chapter climaxes with the riot of the silversmiths (verses 23-41). Demetrius
 Almighty God, you are the Lord of all powers, seen and unseen. In Ephesus you demonstrated that no magic, no formula, and no occult practice can stand against the name of your Son. Forgive us when we treat your name as a technique rather than a relationship. Break the hold of anything in our lives that competes with your authority -- whether it is superstition, materialism, or the comfortable idols of our culture. Give us the courage of those Ephesian believers who burned their scrolls at great cost, choosing your kingdom over the security of the powers they had always known. In the mighty name of Jesus, who is known in heaven and on earth, amen.
 
 ---
-*[[overview|Week 29 Overview]] | Next: [[day-2|Day 2 - Divisions in Corinth]] | [[discussion|Discussion Guide]]*
+*[Week 29 Overview](overview.md) | Next: [Day 2 - Divisions in Corinth](day-2.md) | [Discussion Guide](discussion.md)*

@@ -14,8 +14,8 @@ Welcome to a year-long journey through the entire New Testament in chronological
 
 ## Getting Started
 
-- [[how-to-use|How to Use This Study]]
-- [[chronological-overview|Why Chronological Order?]]
+- [How to Use This Study](how-to-use.md)
+- [Why Chronological Order?](chronological-overview.md)
 
 ---
 
@@ -25,10 +25,10 @@ The story begins before Bethlehem — with eternity. John's cosmic prologue, the
 
 | Week | Title | Overview |
 |------|-------|----------|
-| 1 | The Word Became Flesh | [[phase-1-the-coming-of-christ/week-01/overview\|Week 1]] |
-| 2 | A Child Is Born | [[phase-1-the-coming-of-christ/week-02/overview\|Week 2]] |
-| 3 | Tested and Called | [[phase-1-the-coming-of-christ/week-03/overview\|Week 3]] |
-| 4 | Ministry Begins | [[phase-1-the-coming-of-christ/week-04/overview\|Week 4]] |
+| 1 | The Word Became Flesh | [Week 1](phase-1-the-coming-of-christ/week-01/overview.md) |
+| 2 | A Child Is Born | [Week 2](phase-1-the-coming-of-christ/week-02/overview.md) |
+| 3 | Tested and Called | [Week 3](phase-1-the-coming-of-christ/week-03/overview.md) |
+| 4 | Ministry Begins | [Week 4](phase-1-the-coming-of-christ/week-04/overview.md) |
 
 ---
 
@@ -38,13 +38,13 @@ Jesus bursts onto the scene in Galilee — teaching with authority, healing the 
 
 | Week | Title | Overview |
 |------|-------|----------|
-| 5 | Authority Revealed | [[phase-2-galilean-ministry/week-05/overview\|Week 5]] |
-| 6 | Words of Power | [[phase-2-galilean-ministry/week-06/overview\|Week 6]] |
-| 7 | Parables of the Kingdom | [[phase-2-galilean-ministry/week-07/overview\|Week 7]] |
-| 8 | Miracles and Mission | [[phase-2-galilean-ministry/week-08/overview\|Week 8]] |
-| 9 | Bread of Life | [[phase-2-galilean-ministry/week-09/overview\|Week 9]] |
-| 10 | Who Do You Say I Am? | [[phase-2-galilean-ministry/week-10/overview\|Week 10]] |
-| 11 | Life in the Kingdom | [[phase-2-galilean-ministry/week-11/overview\|Week 11]] |
+| 5 | Authority Revealed | [Week 5](phase-2-galilean-ministry/week-05/overview.md) |
+| 6 | Words of Power | [Week 6](phase-2-galilean-ministry/week-06/overview.md) |
+| 7 | Parables of the Kingdom | [Week 7](phase-2-galilean-ministry/week-07/overview.md) |
+| 8 | Miracles and Mission | [Week 8](phase-2-galilean-ministry/week-08/overview.md) |
+| 9 | Bread of Life | [Week 9](phase-2-galilean-ministry/week-09/overview.md) |
+| 10 | Who Do You Say I Am? | [Week 10](phase-2-galilean-ministry/week-10/overview.md) |
+| 11 | Life in the Kingdom | [Week 11](phase-2-galilean-ministry/week-11/overview.md) |
 
 ---
 
@@ -54,11 +54,11 @@ Jesus turns his face toward Jerusalem. Conflict with the religious leaders inten
 
 | Week | Title | Overview |
 |------|-------|----------|
-| 12 | Conflict and Compassion | [[phase-3-road-to-jerusalem/week-12/overview\|Week 12]] |
-| 13 | Parables of Grace | [[phase-3-road-to-jerusalem/week-13/overview\|Week 13]] |
-| 14 | Signs and Confrontations | [[phase-3-road-to-jerusalem/week-14/overview\|Week 14]] |
-| 15 | The Final Week Begins | [[phase-3-road-to-jerusalem/week-15/overview\|Week 15]] |
-| 16 | Olivet Discourse | [[phase-3-road-to-jerusalem/week-16/overview\|Week 16]] |
+| 12 | Conflict and Compassion | [Week 12](phase-3-road-to-jerusalem/week-12/overview.md) |
+| 13 | Parables of Grace | [Week 13](phase-3-road-to-jerusalem/week-13/overview.md) |
+| 14 | Signs and Confrontations | [Week 14](phase-3-road-to-jerusalem/week-14/overview.md) |
+| 15 | The Final Week Begins | [Week 15](phase-3-road-to-jerusalem/week-15/overview.md) |
+| 16 | Olivet Discourse | [Week 16](phase-3-road-to-jerusalem/week-16/overview.md) |
 
 ---
 
@@ -68,10 +68,10 @@ The climax of human history. The Last Supper, Gethsemane, the trials, the cross,
 
 | Week | Title | Overview |
 |------|-------|----------|
-| 17 | The Upper Room | [[phase-4-passion-and-resurrection/week-17/overview\|Week 17]] |
-| 18 | Gethsemane and Trial | [[phase-4-passion-and-resurrection/week-18/overview\|Week 18]] |
-| 19 | The Cross | [[phase-4-passion-and-resurrection/week-19/overview\|Week 19]] |
-| 20 | He Is Risen | [[phase-4-passion-and-resurrection/week-20/overview\|Week 20]] |
+| 17 | The Upper Room | [Week 17](phase-4-passion-and-resurrection/week-17/overview.md) |
+| 18 | Gethsemane and Trial | [Week 18](phase-4-passion-and-resurrection/week-18/overview.md) |
+| 19 | The Cross | [Week 19](phase-4-passion-and-resurrection/week-19/overview.md) |
+| 20 | He Is Risen | [Week 20](phase-4-passion-and-resurrection/week-20/overview.md) |
 
 ---
 
@@ -81,27 +81,27 @@ The risen Christ ascends. The Spirit falls at Pentecost. The church explodes acr
 
 | Week | Title | Overview |
 |------|-------|----------|
-| 21 | Birth of the Church | [[phase-5-the-early-church/week-21/overview\|Week 21]] |
-| 22 | Stephen and Scattering | [[phase-5-the-early-church/week-22/overview\|Week 22]] |
-| 23 | Faith That Works | [[phase-5-the-early-church/week-23/overview\|Week 23]] |
-| 24 | The Gospel to the Gentiles | [[phase-5-the-early-church/week-24/overview\|Week 24]] |
-| 25 | Gospel of Freedom | [[phase-5-the-early-church/week-25/overview\|Week 25]] |
-| 26 | The Jerusalem Council | [[phase-5-the-early-church/week-26/overview\|Week 26]] |
-| 27 | Paul in Corinth | [[phase-5-the-early-church/week-27/overview\|Week 27]] |
-| 28 | The Day of the Lord | [[phase-5-the-early-church/week-28/overview\|Week 28]] |
-| 29 | Paul in Ephesus | [[phase-5-the-early-church/week-29/overview\|Week 29]] |
-| 30 | Church Problems | [[phase-5-the-early-church/week-30/overview\|Week 30]] |
-| 31 | Worship and Gifts | [[phase-5-the-early-church/week-31/overview\|Week 31]] |
-| 32 | Resurrection Hope | [[phase-5-the-early-church/week-32/overview\|Week 32]] |
-| 33 | Treasure in Jars of Clay | [[phase-5-the-early-church/week-33/overview\|Week 33]] |
-| 34 | Paul's Defense | [[phase-5-the-early-church/week-34/overview\|Week 34]] |
-| 35 | The Letter to Rome (Part 1) | [[phase-5-the-early-church/week-35/overview\|Week 35]] |
-| 36 | The Letter to Rome (Part 2) | [[phase-5-the-early-church/week-36/overview\|Week 36]] |
-| 37 | The Letter to Rome (Part 3) | [[phase-5-the-early-church/week-37/overview\|Week 37]] |
-| 38 | To Jerusalem | [[phase-5-the-early-church/week-38/overview\|Week 38]] |
-| 39 | Trials and Imprisonment | [[phase-5-the-early-church/week-39/overview\|Week 39]] |
-| 40 | Paul in Rome | [[phase-5-the-early-church/week-40/overview\|Week 40]] |
-| 41 | Prison Letters | [[phase-5-the-early-church/week-41/overview\|Week 41]] |
+| 21 | Birth of the Church | [Week 21](phase-5-the-early-church/week-21/overview.md) |
+| 22 | Stephen and Scattering | [Week 22](phase-5-the-early-church/week-22/overview.md) |
+| 23 | Faith That Works | [Week 23](phase-5-the-early-church/week-23/overview.md) |
+| 24 | The Gospel to the Gentiles | [Week 24](phase-5-the-early-church/week-24/overview.md) |
+| 25 | Gospel of Freedom | [Week 25](phase-5-the-early-church/week-25/overview.md) |
+| 26 | The Jerusalem Council | [Week 26](phase-5-the-early-church/week-26/overview.md) |
+| 27 | Paul in Corinth | [Week 27](phase-5-the-early-church/week-27/overview.md) |
+| 28 | The Day of the Lord | [Week 28](phase-5-the-early-church/week-28/overview.md) |
+| 29 | Paul in Ephesus | [Week 29](phase-5-the-early-church/week-29/overview.md) |
+| 30 | Church Problems | [Week 30](phase-5-the-early-church/week-30/overview.md) |
+| 31 | Worship and Gifts | [Week 31](phase-5-the-early-church/week-31/overview.md) |
+| 32 | Resurrection Hope | [Week 32](phase-5-the-early-church/week-32/overview.md) |
+| 33 | Treasure in Jars of Clay | [Week 33](phase-5-the-early-church/week-33/overview.md) |
+| 34 | Paul's Defense | [Week 34](phase-5-the-early-church/week-34/overview.md) |
+| 35 | The Letter to Rome (Part 1) | [Week 35](phase-5-the-early-church/week-35/overview.md) |
+| 36 | The Letter to Rome (Part 2) | [Week 36](phase-5-the-early-church/week-36/overview.md) |
+| 37 | The Letter to Rome (Part 3) | [Week 37](phase-5-the-early-church/week-37/overview.md) |
+| 38 | To Jerusalem | [Week 38](phase-5-the-early-church/week-38/overview.md) |
+| 39 | Trials and Imprisonment | [Week 39](phase-5-the-early-church/week-39/overview.md) |
+| 40 | Paul in Rome | [Week 40](phase-5-the-early-church/week-40/overview.md) |
+| 41 | Prison Letters | [Week 41](phase-5-the-early-church/week-41/overview.md) |
 
 ---
 
@@ -111,17 +111,17 @@ The final phase covers Paul's pastoral letters, the great theological treatise o
 
 | Week | Title | Overview |
 |------|-------|----------|
-| 42 | Joy and Faithfulness | [[phase-6-letters-and-revelation/week-42/overview\|Week 42]] |
-| 43 | Pastoral Guidance | [[phase-6-letters-and-revelation/week-43/overview\|Week 43]] |
-| 44 | Guarding the Faith | [[phase-6-letters-and-revelation/week-44/overview\|Week 44]] |
-| 45 | Paul's Final Words | [[phase-6-letters-and-revelation/week-45/overview\|Week 45]] |
-| 46 | A Better Covenant | [[phase-6-letters-and-revelation/week-46/overview\|Week 46]] |
-| 47 | The New and Living Way | [[phase-6-letters-and-revelation/week-47/overview\|Week 47]] |
-| 48 | Living Faith | [[phase-6-letters-and-revelation/week-48/overview\|Week 48]] |
-| 49 | Stand Firm | [[phase-6-letters-and-revelation/week-49/overview\|Week 49]] |
-| 50 | Walking in the Light | [[phase-6-letters-and-revelation/week-50/overview\|Week 50]] |
-| 51 | Revelation: Visions of Glory | [[phase-6-letters-and-revelation/week-51/overview\|Week 51]] |
-| 52 | Revelation: All Things New | [[phase-6-letters-and-revelation/week-52/overview\|Week 52]] |
+| 42 | Joy and Faithfulness | [Week 42](phase-6-letters-and-revelation/week-42/overview.md) |
+| 43 | Pastoral Guidance | [Week 43](phase-6-letters-and-revelation/week-43/overview.md) |
+| 44 | Guarding the Faith | [Week 44](phase-6-letters-and-revelation/week-44/overview.md) |
+| 45 | Paul's Final Words | [Week 45](phase-6-letters-and-revelation/week-45/overview.md) |
+| 46 | A Better Covenant | [Week 46](phase-6-letters-and-revelation/week-46/overview.md) |
+| 47 | The New and Living Way | [Week 47](phase-6-letters-and-revelation/week-47/overview.md) |
+| 48 | Living Faith | [Week 48](phase-6-letters-and-revelation/week-48/overview.md) |
+| 49 | Stand Firm | [Week 49](phase-6-letters-and-revelation/week-49/overview.md) |
+| 50 | Walking in the Light | [Week 50](phase-6-letters-and-revelation/week-50/overview.md) |
+| 51 | Revelation: Visions of Glory | [Week 51](phase-6-letters-and-revelation/week-51/overview.md) |
+| 52 | Revelation: All Things New | [Week 52](phase-6-letters-and-revelation/week-52/overview.md) |
 
 ---
 
@@ -135,7 +135,7 @@ The final phase covers Paul's pastoral letters, the great theological treatise o
 
 ---
 
-*Begin your journey: [[phase-1-the-coming-of-christ/week-01/overview|Start Week 1]]*
+*Begin your journey: [Start Week 1](phase-1-the-coming-of-christ/week-01/overview.md)*
 
 ---
 

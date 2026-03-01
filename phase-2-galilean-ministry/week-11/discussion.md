@@ -51,4 +51,4 @@ Begin by reading Luke 12:6-7 aloud: "Are not five sparrows sold for two pennies?
 - **For integrity**: Against the leaven of hypocrisy -- that the inside of the cup would match the outside, that private life would match public profession, and that religion would be a pathway to God rather than a barrier.
 
 ---
-*Back to [[overview|Week 11 Overview]] | Next: [[../../phase-3-road-to-jerusalem/week-12/overview|Week 12]]*
+*Back to [Week 11 Overview](overview.md) | Next: [Week 12](../../phase-3-road-to-jerusalem/week-12/overview.md)*

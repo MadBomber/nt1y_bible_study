@@ -60,4 +60,4 @@ The heavenly voice -- "You are my beloved Son; with you I am well pleased" -- co
 
 ---
 
-*Previous: [[day-3]] | Next: [[day-5]] -- Tomorrow's Reading: Matthew 3*
+*Previous: [day-3](day-3.md) | Next: [day-5](day-5.md) -- Tomorrow's Reading: Matthew 3*

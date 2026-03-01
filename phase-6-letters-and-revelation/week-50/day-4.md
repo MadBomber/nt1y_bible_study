@@ -49,4 +49,4 @@ The chapter concludes with a practical test that has lost none of its force acro
 God who is love -- not merely loving but love itself -- we bow before a mystery too deep for words. You loved us before we loved you. You sent your Son while we were still in darkness. You absorbed the full penalty of our sin so that we might face the day of judgment with confidence rather than terror. Drive out our fear -- cast it out as forcefully as you cast out demons -- and fill the space it occupied with the certainty of your love. And because you first loved us, empower us to love the visible brothers and sisters you have placed in our lives, especially the ones who are hardest to love. For if we cannot love them, we do not truly love you. Amen.
 
 ---
-*[[./day-3|<- Day 3]] | [[./overview|Overview]] | [[./day-5|Day 5 ->]]*
+*[<- Day 3](./day-3.md) | [Overview](./overview.md) | [Day 5 ->](./day-5.md)*
