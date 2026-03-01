@@ -136,3 +136,7 @@ The final phase covers Paul's pastoral letters, the great theological treatise o
 ---
 
 *Begin your journey: [[phase-1-the-coming-of-christ/week-01/overview|Start Week 1]]*
+
+---
+
+Copyright 2026 Dewayne VanHoozer. This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
