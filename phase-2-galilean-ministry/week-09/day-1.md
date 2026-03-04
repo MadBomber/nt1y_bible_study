@@ -51,4 +51,4 @@ The theological implications of this passage are immense. Jesus is claiming to b
 Lord Jesus, you are the bread of life, and your words are spirit and life. We confess that your teaching is sometimes hard -- that you make demands on our understanding and our allegiance that we cannot fully comprehend. Give us the faith of Peter, who stayed not because he understood everything but because he knew there was nowhere else to go. Draw us by the Father's power to feed on you, the true bread from heaven, that we might have life -- not the temporary satisfaction the crowds sought, but the eternal life that comes from knowing you, the Holy One of God. Amen.
 
 ---
-*Previous: [Week 8, Day 5](../week-08/day-5.md) | Next: [day-2](day-2.md)*
+*Previous: [../week-08/day-5](../week-08/day-5.md) | Next: [day-2](day-2.md)*

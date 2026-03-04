@@ -51,4 +51,4 @@ The personal notes at the end (13:22-25) provide tantalizing clues about the let
 God of peace, who brought again from the dead our Lord Jesus, the great Shepherd of the sheep, by the blood of the eternal covenant -- equip us with everything good that we may do your will. Give us courage to go outside the camp, bearing whatever reproach comes from following the crucified Christ. Free us from the love of money and fill us with contentment rooted in your unbreakable promise never to leave or forsake us. Amen.
 
 ---
-*[← Day 5 (Week 47)](../week-47/day-5.md) | [Overview](./overview.md) | [Day 2 →](./day-2.md)*
+*Previous: [../week-47/day-5](../week-47/day-5.md) | Next: [day-2](day-2.md)*

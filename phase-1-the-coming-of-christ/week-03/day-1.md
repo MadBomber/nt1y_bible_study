@@ -5,6 +5,7 @@ reading: "Luke 4:1-13"
 title: "Temptation in the Wilderness"
 parallel_passages: ["Matthew 4:1-11", "Mark 1:12-13"]
 tags: [phase-1, temptation, wilderness, satan, deuteronomy, week-3]
+phase: "The Coming of Christ"
 ---
 
 # Day 1: Temptation in the Wilderness — Luke 4:1-13

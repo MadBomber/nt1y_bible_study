@@ -5,6 +5,7 @@ title: "Presentation at Temple & Boy Jesus"
 reading: "Luke 2:21-52"
 tags: [phase-1, birth-narratives, temple, simeon, anna, jesus-childhood]
 parallel_passages: ["Leviticus 12:1-8", "Exodus 13:2", "1 Samuel 1:24-28", "Malachi 3:1"]
+phase: "The Coming of Christ"
 ---
 
 # Day 1: Presentation at Temple & Boy Jesus
