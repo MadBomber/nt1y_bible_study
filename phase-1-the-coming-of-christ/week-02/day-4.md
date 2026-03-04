@@ -5,6 +5,7 @@ title: "John's Preaching & Jesus' Baptism"
 reading: "Luke 3:1-22"
 tags: [phase-1, john-the-baptist, baptism, holy-spirit, jesus-identity]
 parallel_passages: ["Isaiah 40:3-5", "Mark 1:1-11", "Matthew 3:1-17", "John 1:29-34", "Psalm 2:7", "Isaiah 42:1"]
+phase: "The Coming of Christ"
 ---
 
 # Day 4: John's Preaching & Jesus' Baptism

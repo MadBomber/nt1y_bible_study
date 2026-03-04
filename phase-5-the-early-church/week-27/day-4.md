@@ -49,4 +49,4 @@ This prayer also reveals Paul's eschatological ethics: holiness is not merely a 
 God and Father, we thank you for the faithfulness of those who care enough to check on our souls. When we are anxious about those we love, teach us to entrust them to you while still doing everything we can to encourage them. Increase our love until it overflows -- not just for the people who are easy to love, but for all people. Establish our hearts in holiness so that when Jesus comes, we will be found blameless before you. We live for that day. Amen.
 
 ---
-*[Week 27 Overview](overview.md) | Previous: [Day 3 - Paul's Ministry Among Them](day-3.md) | Next: [Day 5 - Live to Please God](day-5.md) | [Discussion Guide](discussion.md)*
+*Previous: [day-3](day-3.md) | Next: [day-5](day-5.md)*

@@ -5,6 +5,7 @@ reading: "John 3"
 title: "Nicodemus, Born Again, John's Final Witness"
 parallel_passages: ["John 7:50-52", "John 19:39"]
 tags: [phase-1, nicodemus, born-again, spirit, john-the-baptist, eternal-life, week-3]
+phase: "The Coming of Christ"
 ---
 
 # Day 4: Nicodemus, "You Must Be Born Again", John's Final Witness — John 3

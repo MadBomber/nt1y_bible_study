@@ -51,4 +51,4 @@ The chapter closes with a return to the wisdom theme (verses 18-23). "Let no one
 Holy God, you have made us your temple -- the very place where your Spirit dwells on earth. Forgive us for the ways we desecrate your temple through division, jealousy, and petty rivalry. Expose our spiritual immaturity so that we can grow past it. Show us where we have been building with wood, hay, and straw -- impressive structures that will not survive your testing fire. Teach us to build with gold, with silver, with precious stones -- the durable materials of genuine love, faithful teaching, and sacrificial service. All things are ours because we are Christ's and Christ is yours. Let us live in the freedom and generosity of that truth. Amen.
 
 ---
-*[Week 29 Overview](overview.md) | Previous: [Day 3 - God's Wisdom Revealed by the Spirit](day-3.md) | Next: [Day 5 - Servants of Christ, Fools for Christ](day-5.md) | [Discussion Guide](discussion.md)*
+*Previous: [day-3](day-3.md) | Next: [day-5](day-5.md)*

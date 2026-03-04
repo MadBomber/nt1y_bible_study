@@ -51,4 +51,4 @@ Peter then connects this cosmic proclamation to baptism: "Baptism, which corresp
 Lord Jesus Christ, who suffered once for sins — the righteous for the unrighteous — to bring us to God: thank you that your victory extends to every corner of creation, even to the spirits in prison, even to the powers that oppose your reign. Clothe us with the imperishable beauty of a gentle and quiet spirit. Teach us to bless when we are reviled, to do good when we are harmed, and to give a reason for our hope with gentleness and respect. In our marriages, our workplaces, and our neighborhoods, may our conduct speak louder than our words — and may both point to you. Amen.
 
 ---
-*[← Day 3](./day-3.md) | [Overview](./overview.md) | [Day 5 →](./day-5.md)*
+*Previous: [day-3](day-3.md) | Next: [day-5](day-5.md)*
