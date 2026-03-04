@@ -42,4 +42,4 @@ The feeding of the five thousand is the only miracle (aside from the resurrectio
 Spend time this week praying for eyes that see signs, not just miracles -- eyes that perceive the identity of the one behind the act. Ask God to soften the hardened places in your heart where familiarity with the gospel has dulled your wonder. Pray for the faith of the hemorrhaging woman, who risked everything on a single touch, and for the honesty of the invalid at Bethesda, who admitted he had no one to help him. Ask the Bread of Life to satisfy the hunger that no earthly bread can fill.
 
 ---
-*Back to [Week 8 Overview](overview.md) | Next: [Week 9](../week-09/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 9](../week-09/overview.md)*

@@ -40,4 +40,4 @@ This week's readings present the kingdom as hidden but infinitely valuable, dema
 Spend time in prayer this week focusing on receptivity. Ask God to break up the hardened paths in your heart (places of indifference), to deepen the shallow soil (areas of superficial enthusiasm), and to uproot the thorns (distractions and competing allegiances). Pray for the joy of the man who found hidden treasure -- the kind of joy that makes surrender feel like gain. Pray also for those in your life who, like the people of Nazareth or the Gerasenes, have encountered Jesus and turned away. Ask the Spirit to soften their resistance and yours.
 
 ---
-*Back to [Week 7 Overview](overview.md) | Next: [Week 8](../week-08/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 8](../week-08/overview.md)*

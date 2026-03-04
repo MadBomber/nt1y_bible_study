@@ -47,4 +47,4 @@ Pray this week for the transformation of speech — that the words spoken in you
 > — James 4:8
 
 ---
-*Back to [Week 23 Overview](overview.md) | Next: [Week 24](../week-24/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 24](../week-24/overview.md)*

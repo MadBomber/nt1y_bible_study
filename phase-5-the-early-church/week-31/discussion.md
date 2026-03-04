@@ -88,4 +88,4 @@ Paul's overarching principle in chapters 10-14 is that everything in worship and
 Father, Son, and Holy Spirit -- you are the source, the direction, and the energy of every gift your people possess. This week we have seen ourselves in the mirror of the Corinthian church: gifted but competitive, spiritual but self-centered, worshipping but not edifying. Forgive us for treating worship as a performance and gifts as trophies. Teach us that love is the more excellent way -- the only way that gives meaning to every gift, every act of service, every word we speak. Make us a body where every member is valued, every voice is heard, and every gathering makes your presence undeniable to those who enter. Until we see you face to face, let us build one another up in love. Through Christ, the head of the body and the lover of our souls. Amen.
 
 ---
-*[Week 31 Overview](overview.md) | Previous: [Week 30 Discussion](../week-30/discussion.md) | Next: [Week 32](../week-32/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 32](../week-32/overview.md)*

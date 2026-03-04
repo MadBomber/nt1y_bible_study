@@ -92,4 +92,4 @@ Now send us out. Not as those who have merely completed a reading plan but as th
 Amen. Come, Lord Jesus.
 
 ---
-*Back to [Week 52 Overview](overview.md) | [Return to Master Index](../../index.md)*
+*Previous: [Day 5](day-5.md)*

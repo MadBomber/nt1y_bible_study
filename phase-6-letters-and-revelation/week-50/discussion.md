@@ -74,4 +74,4 @@ This week's readings present three interconnected challenges:
 3. **Test and discern** -- Evaluate one teaching, practice, or spiritual influence in your life against John's threefold test: Does it confess Christ incarnate? Does it produce obedience? Does it generate love? If it fails any of these tests, reconsider its place in your life.
 
 ---
-*Back to [Week 50 Overview](overview.md) | Next: [Week 51](../week-51/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 51](../week-51/overview.md)*

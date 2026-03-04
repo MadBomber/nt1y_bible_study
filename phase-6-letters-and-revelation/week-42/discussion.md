@@ -66,4 +66,4 @@ This week's readings present us with three interconnected challenges:
 3. **Philemon** — Consider one relationship where social categories (status, background, past failures) have defined how you treat someone. Take a concrete step to treat them "as a dear brother or sister."
 
 ---
-*[← Day 5](./day-5.md) | [Overview](./overview.md) | [Week 43 →](../week-43/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 43](../week-43/overview.md)*

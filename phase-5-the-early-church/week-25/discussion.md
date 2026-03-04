@@ -47,4 +47,4 @@ Pray this week for the freedom that Paul describes — not freedom from responsi
 > — Galatians 5:22-23
 
 ---
-*Back to [Week 25 Overview](overview.md) | Next: [Week 26](../week-26/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 26](../week-26/overview.md)*

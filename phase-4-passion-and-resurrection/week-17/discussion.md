@@ -47,4 +47,4 @@ The Farewell Discourse (John 13-16) is unique to John's Gospel and has no parall
 Spend time in prayer thanking God for the Holy Spirit -- the "other Paraclete" who continues Jesus' presence among us. Ask the Spirit to teach you what you have not yet understood, to remind you of what you have forgotten, and to convict you wherever unbelief or self-reliance has replaced trust in Christ. Pray for one another's fruitfulness, that each person in the group would experience what it means to abide in the vine and bear much fruit. Close by reading John 16:33 together as a declaration of hope: "In the world you will have tribulation. But take heart; I have overcome the world."
 
 ---
-*[Week 17 Overview](overview.md) | Previous: [Week 16 Discussion](../../phase-3-road-to-jerusalem/week-16/discussion.md) | Next: [Week 18 Discussion](../week-18/discussion.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 18](../week-18/overview.md)*

@@ -50,4 +50,4 @@ Spend time in silent reflection before praying together. Read Luke 23:34 and Joh
 - **Commitment**: To live as people for whom the curtain has been torn -- approaching God boldly, extending forgiveness freely, and resting in the completed work of the cross.
 
 ---
-*Previous: [day-5](day-5.md) | [Week 19 Overview](overview.md) | Next: [Week 20](../week-20/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 20](../week-20/overview.md)*

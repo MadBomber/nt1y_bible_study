@@ -51,4 +51,4 @@ Begin by reading John 11:25-26 aloud: "I am the resurrection and the life. Whoev
 - **For faithful stewardship**: For the courage to invest rather than bury, to risk rather than hide, to use the time before the king's return as an opportunity for faithfulness rather than fear.
 
 ---
-*Back to [Week 14 Overview](overview.md) | Next: [Week 15](../week-15/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 15](../week-15/overview.md)*

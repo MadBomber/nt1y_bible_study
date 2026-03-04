@@ -46,4 +46,4 @@ Choose one of the following practices to implement this week:
 Pray for boldness in sharing the gospel, remembering that the same Jesus who empowered the Twelve empowers his church today. Pray for anyone in the group who is experiencing a "John the Baptist moment" -- imprisoned by circumstances, struggling with doubts, wondering if God is truly at work. Pray for the laborers Jesus asked us to pray for: pastors, missionaries, everyday believers who carry the word of the Kingdom into their workplaces, schools, and neighborhoods. Close by reading aloud Matthew 10:29-31 and sitting in silence for one minute, letting the Father's care settle over the group.
 
 ---
-*Back to [Week 6 Overview](overview.md) | Next: [Week 7](../week-07/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 7](../week-07/overview.md)*

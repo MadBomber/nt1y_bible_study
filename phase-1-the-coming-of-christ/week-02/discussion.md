@@ -95,5 +95,4 @@ Alternate:
 Next week we will follow Jesus from the waters of baptism into the wilderness, where he will face forty days of testing by Satan. We will then witness the beginning of his public ministry as he calls his first disciples and performs his first miracle. The identity declared at the Jordan will now be tested and demonstrated in action.
 
 ---
-
-*Back to [Week 2 Overview](overview.md) | Next: [Week 3](../week-03/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 3](../week-03/overview.md)*

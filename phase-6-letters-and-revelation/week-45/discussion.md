@@ -68,4 +68,4 @@ This week's readings challenge us in three interconnected ways:
 3. **Hebrews 2** -- Notice where you may be drifting. Not rebelling, not running -- just drifting. Name one practice you will reinstate or begin this week to anchor yourself more firmly to what you have heard.
 
 ---
-*Back to [Week 45 Overview](overview.md) | Next: [Week 46](../week-46/overview.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 46](../week-46/overview.md)*

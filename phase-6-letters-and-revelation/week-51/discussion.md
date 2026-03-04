@@ -69,4 +69,4 @@ Alpha and Omega, First and Last, Living One who was dead and is alive forevermor
 And lift our eyes to the throne room, where you reign in holiness and splendor. You are the Lion who conquered as the Lamb. You are worthy — worthy because you were slain, worthy because your blood ransomed the world. We join the song of every creature in heaven and on earth: to you who sit on the throne and to the Lamb be blessing and honor and glory and might forever and ever. Amen.
 
 ---
-*[Week 51 Overview](overview.md) | Previous: [Week 50 Discussion](../week-50/discussion.md) | Next: [Week 52 Discussion](../week-52/discussion.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 52](../week-52/overview.md)*

@@ -65,4 +65,4 @@ Have you ever witnessed a community make a decision that changed its identity an
 God of all nations, who made from one man every people on the face of the earth and who determined the times and boundaries of their dwelling — we praise you that you are not far from any of us. Thank you for the Jerusalem Council, which opened the door of faith to the Gentiles. Thank you for closed doors that redirect us to your purposes, for earthquakes that shake open prisons, for Berean communities that search the Scriptures with eagerness and integrity. Give us Paul's adaptability without compromising the gospel's content, and give us the courage to proclaim the resurrection even when we know some will mock. May the unknown God become known in our generation. Amen.
 
 ---
-*[Week 26 Overview](overview.md) | Previous: [Week 25 Discussion](../week-25/discussion.md) | Next: [Week 27 Discussion](../week-27/discussion.md)*
+*Previous: [Day 5](day-5.md) | Next: [Week 27](../week-27/overview.md)*
