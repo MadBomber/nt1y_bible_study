@@ -12,6 +12,8 @@ tags: [phase-2, miracles, feeding-5000, walking-on-water, compassion, provision]
 
 ## Reading: Mark 6:30-56
 
+Listen to: [Mark chapter 6](https://www.biblegateway.com/audio/mclean/esv/Mark.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 6:30-56 records two of the most celebrated miracles in the Gospels -- the feeding of the five thousand and the walking on water -- events so foundational that the feeding is the only miracle (aside from the resurrection) recorded in all four Gospels. These are not merely demonstrations of supernatural power; they are densely layered theological events that draw on the deepest currents of Israel's story and force the question of Jesus' identity into the open with an urgency that will dominate the rest of the Gospel narrative.

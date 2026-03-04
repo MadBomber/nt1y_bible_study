@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, faith, wrath, righteousness, abraham, gos
 
 ## Reading: Romans 3
 
+Listen to: [Romans chapter 3](https://www.biblegateway.com/audio/mclean/esv/Rom.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 3 is the theological fulcrum of the letter and one of the most important chapters in the history of Christian theology. Having demonstrated in chapters 1-2 that both Gentile and Jew stand under God's righteous judgment, Paul now draws the devastating conclusion and then -- in one of the most dramatic reversals in all of literature -- presents the gospel solution. The chapter moves from universal condemnation (vv. 1-20) to universal justification (vv. 21-31), and the pivot between them is the phrase that has defined Protestant theology for five centuries: "But now, apart from the law, the righteousness of God has been made known" (v. 21).

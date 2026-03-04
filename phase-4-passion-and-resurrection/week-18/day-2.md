@@ -12,6 +12,8 @@ tags: [phase-4, gethsemane, anointing, last-supper, agony, submission]
 
 ## Reading: Matthew 26:1-46
 
+Listen to: [Matthew chapter 26](https://www.biblegateway.com/audio/mclean/esv/Matt.26){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 26 opens with Jesus making his fourth and final Passion prediction: "You know that after two days the Passover is coming, and the Son of Man will be delivered up to be crucified" (26:2). The calm precision of this statement is remarkable. Jesus names the time (two days), the occasion (Passover), and the method of death (crucifixion). He is not a passive victim overtaken by events; he is a sovereign actor who knows exactly what is coming and walks toward it with open eyes. Meanwhile, in a grim counterpoint, the chief priests and elders gather in the palace of Caiaphas to plot his arrest "by stealth" -- they want him dead, but not during the feast, "lest there be an uproar among the people." The irony is that Jesus will die precisely during the feast, because God's timing overrides human scheming. The Passover lamb must die at Passover.

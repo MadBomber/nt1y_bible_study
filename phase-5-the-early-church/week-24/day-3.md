@@ -12,6 +12,8 @@ tags: [phase-5, first-missionary-journey, antioch, paul, barnabas, gentile-missi
 
 ## Reading: Acts 13
 
+Listen to: [Acts chapter 13](https://www.biblegateway.com/audio/mclean/esv/Acts.13){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 13 marks one of the great turning points in the history of Christianity. For the first time, the church deliberately commissions and sends out missionaries to take the gospel beyond the regions where persecution had scattered believers. The initiative comes not from apostolic decree or institutional planning but from the Holy Spirit speaking directly to the worshipping community at Antioch. The five prophets and teachers named in verse 1 represent an astonishing cross-section of the ancient world: Barnabas, a Jewish Levite from Cyprus; Simeon called Niger (a Latin nickname meaning "black," suggesting African origin); Lucius of Cyrene (from modern Libya); Manaen, described as a syntrophos ("foster brother" or "childhood companion") of Herod Antipas, indicating aristocratic connections; and Saul of Tarsus, a former Pharisee. This leadership team itself embodies the multiethnic, multicultural character of the Antioch church that would have been unthinkable in the Jerusalem congregation a few years earlier.

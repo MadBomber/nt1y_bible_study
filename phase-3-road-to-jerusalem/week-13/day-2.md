@@ -12,6 +12,8 @@ tags: [phase-3, faith, gratitude, ten-lepers, kingdom-of-god, luke]
 
 ## Reading: Luke 17
 
+Listen to: [Luke chapter 17](https://www.biblegateway.com/audio/mclean/esv/Luke.17){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 17 is a collection of Jesus' teachings that, while appearing loosely connected on the surface, form a coherent meditation on four dimensions of kingdom life: responsibility toward others (vv. 1-4), the nature of faith (vv. 5-6), the posture of service (vv. 7-10), the centrality of gratitude (vv. 11-19), and the coming of the Kingdom (vv. 20-37). This chapter sits in the latter portion of Luke's travel narrative, as Jesus draws closer to Jerusalem and the shadow of the cross grows longer. The teachings become more urgent, more direct, and more concerned with the essential qualities of those who will constitute his community after he is gone.

@@ -12,6 +12,8 @@ tags: [phase-5, day-of-the-lord, eschatology, thessalonians, idleness, apollos]
 
 ## Reading: 2 Thessalonians 2
 
+Listen to: [2 Thessalonians chapter 2](https://www.biblegateway.com/audio/mclean/esv/2Thess.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Thessalonians 2 is one of the most debated and difficult chapters in the Pauline corpus. It addresses a specific pastoral crisis: someone has told the Thessalonians, either through a prophetic utterance ("by a spirit"), an oral teaching ("by a spoken word"), or a forged letter ("by a letter seeming to be from us"), that "the Day of the Lord has already come" (verse 2). The Greek phrase enesteken means "has come" or "is present" -- the claim was not merely that the Day was near but that it had already arrived. This would have been deeply disorienting for a community already suffering persecution. If the Day of the Lord had come and they were still suffering, what had gone wrong? Had they been left behind? Had God's promises failed?

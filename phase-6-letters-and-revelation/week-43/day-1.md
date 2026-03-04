@@ -12,6 +12,8 @@ tags: [phase-6, 1-timothy, false-teaching, grace, testimony, sound-doctrine]
 
 ## Reading: 1 Timothy 1
 
+Listen to: [1 Timothy chapter 1](https://www.biblegateway.com/audio/mclean/esv/1Tim.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Timothy opens a distinctive section of the New Testament known as the Pastoral Epistles — 1 Timothy, 2 Timothy, and Titus — letters addressed not to churches but to individual pastors charged with leading congregations. The authorship of these letters has been debated more intensely than any other Pauline correspondence. Since the early nineteenth century, many scholars have argued that the vocabulary, style, and church structures described in the Pastorals differ significantly from Paul's undisputed letters. The Pastorals contain 306 words not found elsewhere in the Pauline corpus, and terms central to Paul's earlier theology (justification, the cross, the Spirit's work) appear less frequently. The church offices described — overseers, deacons, an enrolled widows' list — seem more developed than the charismatic, loosely organized communities of 1 Corinthians.

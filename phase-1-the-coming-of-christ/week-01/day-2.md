@@ -12,6 +12,8 @@ tags: [luke, annunciation, gabriel, zechariah, mary, phase-1]
 
 ## Reading: Luke 1:1-38
 
+Listen to: [Luke chapter 1](https://www.biblegateway.com/audio/mclean/esv/Luke.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke opens his Gospel unlike any other New Testament writer: with a formal literary preface addressed to a patron named Theophilus. In verses 1-4, Luke positions himself as a careful historian and researcher, noting that "many have undertaken to compile a narrative" about the events of Jesus' life, and that he has "followed all things closely for some time past" in order to write "an orderly account." The Greek word *asphaleia* ("certainty" or "security") in verse 4 reveals Luke's purpose -- he wants Theophilus (and all subsequent readers) to have a firm, reliable foundation for their faith. Luke was likely a Gentile, a physician and travel companion of the apostle Paul (Colossians 4:14, Philemon 24), writing sometime between 60 and 85 AD. His Gospel and its sequel, the book of Acts, together form the largest single literary contribution to the New Testament.

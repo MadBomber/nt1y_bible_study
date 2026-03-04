@@ -12,6 +12,8 @@ tags: [phase-6, 1-timothy, godliness, training, youth, spiritual-gifts, false-te
 
 ## Reading: 1 Timothy 4
 
+Listen to: [1 Timothy chapter 4](https://www.biblegateway.com/audio/mclean/esv/1Tim.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Timothy 4 pivots from church structure back to the urgent threat of false teaching, and then delivers some of the most personal and practical pastoral counsel in the entire letter. The chapter opens with a prophetic warning — "The Spirit clearly says that in later times some will abandon the faith" (4:1) — and closes with a ringing exhortation that has inspired young leaders for centuries: "Don't let anyone look down on you because you are young" (4:12).

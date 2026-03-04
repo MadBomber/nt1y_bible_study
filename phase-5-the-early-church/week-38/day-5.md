@@ -12,6 +12,8 @@ tags: [phase-5, acts, paul-defense, testimony, conversion, roman-citizenship, ge
 
 ## Reading: Acts 22
 
+Listen to: [Acts chapter 22](https://www.biblegateway.com/audio/mclean/esv/Acts.22){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 22 is the second of three accounts of Paul's conversion in Acts (cf. 9:1-19 and 26:1-23), and it is the most strategically positioned. Paul stands on the steps of the Antonia Fortress -- the Roman garrison that loomed over the northwest corner of the Temple Mount -- addressing a Jewish crowd that moments earlier had been beating him to death. He speaks in Hebrew (or Aramaic -- Luke uses the word Hebraidi dialekto, which could mean either), and the choice of language is itself a rhetorical act. The crowd, which had been shouting in confusion, falls into stunned silence when they hear their own sacred tongue from a man they had assumed was a law-breaking, Temple-defiling Hellenist. Paul is not merely defending himself; he is reclaiming his identity as a son of Israel who has not abandoned his people but has been commissioned by the God of their fathers.

@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, spiritual-gifts, love-chapter, worship, lords-suppe
 
 ## Reading: 1 Corinthians 13
 
+Listen to: [1 Corinthians chapter 13](https://www.biblegateway.com/audio/mclean/esv/1Cor.13){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 13 is perhaps the most beloved chapter in all of Paul's letters, read at weddings the world over and quoted by people who could not name another verse in the Bible. Yet its familiarity can obscure its original context and its devastating force. This is not a freestanding poem about romantic love inserted into the middle of a treatise on spiritual gifts. It is the theological heart of that treatise -- the "more excellent way" Paul promised at the end of chapter 12. Removed from its context, chapter 13 becomes a sentimental meditation on kindness. Read within its context, it is a prophetic indictment of the Corinthian church and a radical redefinition of what it means to be truly spiritual.

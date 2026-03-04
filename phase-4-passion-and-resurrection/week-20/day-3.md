@@ -12,6 +12,8 @@ tags: [phase-4, crucifixion, resurrection, mark, simon-of-cyrene, centurion, wom
 
 ## Reading: Mark 15:21-47, Mark 16
 
+Listen to: [Mark chapter 15](https://www.biblegateway.com/audio/mclean/esv/Mark.15){:target="_blank" rel="noopener"} | [Mark chapter 16](https://www.biblegateway.com/audio/mclean/esv/Mark.16){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark's crucifixion narrative is the earliest written account of the death and resurrection of Jesus, and it carries the raw, compressed energy of a story told by people who were still trembling from what they had witnessed. Mark writes with an urgency that befits his entire Gospel -- no parables, no extended discourses, just the relentless forward momentum of a narrative racing toward the cross and then, with breathtaking brevity, the empty tomb.

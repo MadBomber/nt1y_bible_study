@@ -12,6 +12,8 @@ tags: [phase-5, galatians, burden-bearing, sowing-reaping, new-creation]
 
 ## Reading: Galatians 6
 
+Listen to: [Galatians chapter 6](https://www.biblegateway.com/audio/mclean/esv/Gal.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Galatians 6 brings Paul's most passionate letter to its conclusion with a series of practical exhortations that translate the theology of freedom and the Spirit into the daily life of the Christian community. If chapters 3-5 answered the question "How are we saved?" (by faith, not works of the law), chapter 6 answers the follow-up: "What does a saved community look like?" Paul's answer is a community that bears one another's burdens, refuses to grow weary in doing good, sows to the Spirit rather than the flesh, and understands that the only thing that ultimately matters is new creation. The chapter is short but extraordinarily dense, containing some of the most quoted and most misunderstood verses in the Pauline corpus.

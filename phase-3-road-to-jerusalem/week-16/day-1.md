@@ -12,6 +12,8 @@ tags: [phase-3, olivet-discourse, eschatology, parables, judgment, woes]
 
 ## Reading: Matthew 22
 
+Listen to: [Matthew chapter 22](https://www.biblegateway.com/audio/mclean/esv/Matt.22){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 22 is one of the most densely packed chapters in the Gospels, weaving together a parable of judgment, three trap questions from rival factions, and Jesus' own unanswerable counter-question. The chapter takes place in the Temple courts during the final days before Jesus' arrest, and every exchange crackles with the tension of a confrontation that both sides know is heading toward a violent climax.

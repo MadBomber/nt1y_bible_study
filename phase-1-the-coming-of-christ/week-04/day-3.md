@@ -12,6 +12,8 @@ tags: [luke, miraculous-catch, peter, levi, calling-disciples, forgiveness, new-
 
 ## Reading: Luke 5
 
+Listen to: [Luke chapter 5](https://www.biblegateway.com/audio/mclean/esv/Luke.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 5 is a chapter of dramatic encounters and escalating conflict, held together by a single theological thread: the overwhelming authority of Jesus meets the deep inadequacy of human beings, and grace bridges the gap. Luke structures the chapter in three movements -- the calling of Simon Peter after a miraculous catch, a series of healings and controversies, and the parable of new wine -- each building on the last to reveal the shape of the Kingdom Jesus is inaugurating.

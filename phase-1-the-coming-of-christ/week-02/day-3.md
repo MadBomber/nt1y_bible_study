@@ -12,6 +12,8 @@ parallel_passages: ["Isaiah 40:3", "Malachi 3:1", "Malachi 4:5-6", "2 Kings 1:8"
 
 ## Reading: Mark 1:1-8
 
+Listen to: [Mark chapter 1](https://www.biblegateway.com/audio/mclean/esv/Mark.1){:target="_blank" rel="noopener"}
+
 > *"I have baptized you with water, but he will baptize you with the Holy Spirit."* -- Mark 1:8 (ESV)
 
 ---

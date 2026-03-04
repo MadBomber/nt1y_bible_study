@@ -12,6 +12,8 @@ tags: [phase-3, i-am-sayings, light-of-the-world, woman-caught-in-adultery, john
 
 ## Reading: John 8
 
+Listen to: [John chapter 8](https://www.biblegateway.com/audio/mclean/esv/John.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 8 is one of the most theologically explosive chapters in the entire New Testament, containing two of Jesus' most provocative encounters: his defense of the woman caught in adultery and his declaration "Before Abraham was, I am." The chapter begins with a passage (7:53-8:11) that has a complicated textual history -- it is absent from the earliest Greek manuscripts of John and appears in different locations in various manuscript traditions. Most scholars believe it is an authentic tradition about Jesus that circulated independently before being inserted into the Gospel. Whether originally Johannine or not, the church has overwhelmingly recognized its canonical authority, and its theological resonance with the rest of John's Gospel is striking.

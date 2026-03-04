@@ -12,6 +12,8 @@ tags: [matthew, genealogy, joseph, emmanuel, davidic-line, phase-1]
 
 ## Reading: Matthew 1
 
+Listen to: [Matthew chapter 1](https://www.biblegateway.com/audio/mclean/esv/Matt.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew's Gospel opens with what many modern readers are tempted to skip: a genealogy. The very first words are *Biblos geneseos Iesou Christou* -- "The book of the genealogy of Jesus Christ." The phrase *biblos geneseos* ("book of origins" or "book of genesis") deliberately echoes Genesis 2:4 and 5:1 in the Septuagint, where it introduces the origins of creation and the line of Adam. Matthew is announcing that in Jesus, God is beginning something as significant as creation itself. This is not a dusty list of names; it is a theological argument compressed into a family tree.

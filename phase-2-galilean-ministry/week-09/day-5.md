@@ -12,6 +12,8 @@ tags: [phase-2, bread-of-life, feeding-miracles, faith, mark, healing]
 
 ## Reading: Mark 8:1-26
 
+Listen to: [Mark chapter 8](https://www.biblegateway.com/audio/mclean/esv/Mark.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 8:1-26 brings the first half of Mark's Gospel to a pivotal conclusion. Scholars have long recognized that Mark's narrative divides roughly in half at Peter's confession in 8:27-30 (which we will study next week). Everything before that confession moves toward the question of Jesus' identity; everything after it moves toward the cross. Today's passage sits at the hinge, pressing the question of understanding with increasing urgency: Can anyone see who Jesus truly is?

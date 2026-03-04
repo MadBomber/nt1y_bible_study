@@ -12,6 +12,8 @@ tags: [phase-6, revelation, bowls, babylon, marriage-supper, second-coming, mill
 
 ## Reading: Revelation 15-22
 
+Listen to: [Revelation chapter 15](https://www.biblegateway.com/audio/mclean/esv/Rev.15){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 We have come to the end. This is the final reading of our year-long journey through the New Testament -- a journey that began with the Word becoming flesh in John 1:1 and now concludes with the whole creation becoming new in Revelation 22. Every path we have walked this year -- through the Gospels, through Acts, through Paul's letters and the General Epistles -- has been leading here. Every thread gathers. Every promise finds its answer. Every tear is wiped away. What John sees in these final chapters is nothing less than the consummation of everything God has been doing since he first spoke light into darkness, since he first breathed life into dust, since he first walked with Adam and Eve in the cool of the garden.

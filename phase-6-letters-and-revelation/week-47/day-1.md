@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, new-covenant, heavenly-tabernacle, jeremiah, obsolete]
 
 ## Reading: Hebrews 8
 
+Listen to: [Hebrews chapter 8](https://www.biblegateway.com/audio/mclean/esv/Heb.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 8 represents a decisive turning point in the letter's argument. The author has spent seven chapters establishing Christ's superiority -- over angels (chs 1-2), over Moses (chs 3-4), and over the Aaronic priesthood through the order of Melchizedek (chs 5-7). Now the argument shifts from the person of the priest to the place of his ministry and the covenant under which he serves. The conclusion is breathtaking: Jesus ministers in the true tabernacle, the heavenly sanctuary that God himself erected, and he mediates a better covenant established on better promises.

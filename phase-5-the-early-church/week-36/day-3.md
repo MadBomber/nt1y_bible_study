@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, sanctification, spirit, sovereignty, adam
 
 ## Reading: Romans 7
 
+Listen to: [Romans chapter 7](https://www.biblegateway.com/audio/mclean/esv/Rom.7){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 7 is among the most debated chapters in the entire Pauline corpus, and the debate centers on a single question: Who is the "I" speaking in verses 14-25? Is Paul describing his present experience as a mature apostle, his past experience as a Pharisee under the law, or a universal human experience that transcends both? The answer matters enormously for how we understand the Christian life, the role of the law, and the nature of sanctification. Before diving into the debate, however, it is essential to see how the chapter fits into Paul's larger argument.

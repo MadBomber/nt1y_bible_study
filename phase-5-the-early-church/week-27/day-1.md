@@ -12,6 +12,8 @@ tags: [phase-5, corinth, thessalonians, paul, second-coming, hope]
 
 ## Reading: Acts 18:1-17
 
+Listen to: [Acts chapter 18](https://www.biblegateway.com/audio/mclean/esv/Acts.18){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Paul's arrival in Corinth, likely in late 49 or early 50 AD, came after a discouraging experience in Athens. Luke's account in Acts 17 records that Paul's Areopagus sermon yielded only "some" converts, including Dionysius and a woman named Damaris. Corinth presented an altogether different kind of challenge. Where Athens was a city of fading intellectual glory, Corinth was a city of rising commercial power. The old Greek Corinth had been utterly destroyed by the Roman general Lucius Mummius in 146 BC, and the site lay desolate for a century until Julius Caesar refounded it as a Roman colony in 44 BC. By Paul's day, the new Corinth had rapidly grown into one of the most prosperous and cosmopolitan cities in the Mediterranean world.

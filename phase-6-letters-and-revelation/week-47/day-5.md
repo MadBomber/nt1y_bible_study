@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, endurance, discipline, cloud-of-witnesses, sinai, zion,
 
 ## Reading: Hebrews 12
 
+Listen to: [Hebrews chapter 12](https://www.biblegateway.com/audio/mclean/esv/Heb.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 12 is the great practical summons of the entire letter. After ten chapters of theological argument establishing Christ's superiority and one chapter surveying the faith of the patriarchs, prophets, and martyrs, the author now turns directly to the audience: given all of this, here is what you must do. The chapter moves from athletic metaphor (running the race) to parental metaphor (divine discipline) to geographic metaphor (two mountains), building toward one of the most awe-inspiring conclusions in the New Testament.

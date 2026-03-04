@@ -12,6 +12,8 @@ tags: [phase-6, 1-peter, suffering, fiery-ordeal, judgment, stewardship, christi
 
 ## Reading: 1 Peter 4
 
+Listen to: [1 Peter chapter 4](https://www.biblegateway.com/audio/mclean/esv/1Pet.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Peter 4 is one of the most urgent and pastorally direct chapters in the New Testament. As Peter's letter nears its conclusion, the tone shifts from instruction to exhortation, from theological reflection to battlefield encouragement. The chapter divides into two major sections — a call to live for God's will rather than human desires (4:1-11) and a theology of suffering that reframes persecution as participation in Christ's own sufferings (4:12-19). Together, they provide the practical and spiritual resources that Peter's readers needed to survive and even thrive in a culture increasingly hostile to their faith.

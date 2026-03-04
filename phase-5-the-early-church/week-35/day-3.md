@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, faith, wrath, righteousness, abraham, gos
 
 ## Reading: Romans 2
 
+Listen to: [Romans chapter 2](https://www.biblegateway.com/audio/mclean/esv/Rom.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 2 springs the trap that Paul carefully set in chapter 1. Having painted a devastating portrait of Gentile moral degradation, Paul now turns on the reader who was nodding in self-righteous agreement: "Therefore you have no excuse, O man, every one of you who judges. For in passing judgment on another you condemn yourself, because you, the judge, practice the very same things" (v. 1). The identity of this interlocutor has been debated, but the most natural reading is that Paul is addressing the morally serious person -- specifically the Jewish person who possesses the law and uses it as the standard by which to condemn the Gentile world. Paul's rhetorical strategy is that of the prophet Nathan confronting David: "You are the man!" (2 Samuel 12:7).

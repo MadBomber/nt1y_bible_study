@@ -12,6 +12,8 @@ tags: [phase-6, colossians, new-self, sanctification, household-code, put-off-pu
 
 ## Reading: Colossians 3
 
+Listen to: [Colossians chapter 3](https://www.biblegateway.com/audio/mclean/esv/Col.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Colossians 3 represents one of the most important transitions in Paul's theology — the movement from doctrine to ethics, from what is true about the believer's position in Christ to how that position should reshape daily life. Having demolished the Colossian heresy by establishing Christ's supremacy (chapter 1) and the believer's complete fullness in him (chapter 2), Paul now answers the practical question: if we are not to follow the false teachers' rules and ascetic practices, how then should we live? His answer is one of the most comprehensive ethical passages in the New Testament.

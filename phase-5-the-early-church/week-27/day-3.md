@@ -12,6 +12,8 @@ tags: [phase-5, corinth, thessalonians, paul, second-coming, hope]
 
 ## Reading: 1 Thessalonians 2
 
+Listen to: [1 Thessalonians chapter 2](https://www.biblegateway.com/audio/mclean/esv/1Thess.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Thessalonians 2 is one of the most personally revealing chapters in all of Paul's correspondence. In it, the apostle opens his heart about how he conducted himself among the Thessalonians and why it matters. The chapter reads like a defense, though scholars debate whether Paul is responding to actual accusations or proactively establishing his integrity before his opponents can slander him. Given the environment in which Paul operated, the concern was well founded.

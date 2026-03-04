@@ -12,6 +12,8 @@ tags: [phase-2, bread-of-life, feeding-miracles, john-the-baptist, walking-on-wa
 
 ## Reading: Matthew 14
 
+Listen to: [Matthew chapter 14](https://www.biblegateway.com/audio/mclean/esv/Matt.14){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 14 is one of the most dramatically varied chapters in the Gospels, moving from a sordid palace banquet to a miraculous hillside feast to a storm-tossed encounter with divine power on the sea. The chapter opens with a flashback: Herod Antipas, the tetrarch of Galilee and Perea, hears reports about Jesus and is troubled. He concludes that Jesus must be John the Baptist raised from the dead, and Matthew uses this as the occasion to narrate John's execution. The political dynamics behind John's death illuminate the world in which Jesus conducted his ministry. Herod Antipas had divorced his first wife (the daughter of the Nabatean king Aretas IV) to marry Herodias, who was both his niece and the wife of his half-brother Philip. John had publicly denounced this marriage as a violation of Levitical law (Leviticus 18:16; 20:21), and Herodias bore a deep grudge against him for it.

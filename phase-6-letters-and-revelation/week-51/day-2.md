@@ -12,6 +12,8 @@ tags: [phase-6, revelation, seven-churches, ephesus, smyrna, pergamum, thyatira,
 
 ## Reading: Revelation 2
 
+Listen to: [Revelation chapter 2](https://www.biblegateway.com/audio/mclean/esv/Rev.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Revelation 2 contains four of the seven letters to the churches of Asia Minor, and each letter follows a precise literary pattern: an identification of the speaker (drawn from the vision of the risen Christ in chapter 1), a commendation ("I know your works"), a complaint or exhortation, a warning or promise, and a call to hear what the Spirit says. These are not generic pastoral letters but surgically precise diagnoses of specific congregations, revealing an intimate knowledge of each church's spiritual condition, local circumstances, and particular dangers. To read them well requires some understanding of the cities in which these churches existed, because the imagery of each letter is drawn from the local environment its original recipients would have immediately recognized.

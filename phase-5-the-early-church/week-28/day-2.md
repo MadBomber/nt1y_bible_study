@@ -12,6 +12,8 @@ tags: [phase-5, day-of-the-lord, eschatology, thessalonians, idleness, apollos]
 
 ## Reading: 2 Thessalonians 1
 
+Listen to: [2 Thessalonians chapter 1](https://www.biblegateway.com/audio/mclean/esv/2Thess.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Thessalonians was likely written within weeks or at most a few months after 1 Thessalonians, probably still from Corinth around 51 AD. The letter addresses a situation that has deteriorated since the first letter. The persecution of the Thessalonian believers has intensified, and a new theological confusion has emerged: someone has told the Thessalonians that the Day of the Lord has already come (2:2). The combination of escalating suffering and eschatological confusion has created a pastoral crisis that Paul must address urgently.

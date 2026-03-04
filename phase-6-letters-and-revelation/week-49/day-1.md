@@ -12,6 +12,8 @@ tags: [phase-6, 1-peter, elders, humility, anxiety, devil, shepherd, suffering]
 
 ## Reading: 1 Peter 5
 
+Listen to: [1 Peter chapter 5](https://www.biblegateway.com/audio/mclean/esv/1Pet.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Peter 5 is the closing chapter of a letter written to scattered, suffering Christian communities across Asia Minor -- modern-day Turkey. The congregations were composed primarily of Gentile converts (1:14, 18; 2:10; 4:3) who had experienced dramatic social dislocation upon becoming Christians, expelled from the trade guilds, civic festivals, and family celebrations that constituted Roman provincial life. The letter has been building toward this final chapter, having already addressed the theology of suffering (1:6-7; 2:19-25; 3:13-18; 4:12-19). Now Peter turns to the practical question of how the community should organize itself to flourish under pressure.

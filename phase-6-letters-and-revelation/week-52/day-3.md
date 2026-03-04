@@ -12,6 +12,8 @@ tags: [phase-6, revelation, little-scroll, two-witnesses, seventh-trumpet, kingd
 
 ## Reading: Revelation 10-11
 
+Listen to: [Revelation chapter 10](https://www.biblegateway.com/audio/mclean/esv/Rev.10){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Revelation 10-11 forms a crucial interlude between the sixth and seventh trumpets, much as chapter 7 formed an interlude between the sixth and seventh seals. This structural pattern -- pause before the climax -- builds tension while providing theological commentary on the meaning of the judgments. These chapters focus on the role of prophetic witness during the period of tribulation, culminating in the sounding of the seventh trumpet and one of the most triumphant declarations in the entire Bible.

@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, mutual-love, contentment, sacrifice, outside-the-camp]
 
 ## Reading: Hebrews 13
 
+Listen to: [Hebrews chapter 13](https://www.biblegateway.com/audio/mclean/esv/Heb.13){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 13 brings to a close one of the most theologically sophisticated documents in the New Testament. After twelve chapters of sustained argument demonstrating Christ's superiority over angels, Moses, the Levitical priesthood, and the old covenant itself, the author now turns to the practical implications of this theology. The shift from doctrinal exposition to ethical exhortation follows a pattern seen throughout the Pauline corpus (Romans 1-11 to Romans 12-16, for example), but in Hebrews the transition is particularly sharp -- as if the author suddenly remembers that soaring Christology must land in the soil of everyday life.

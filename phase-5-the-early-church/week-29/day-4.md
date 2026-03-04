@@ -12,6 +12,8 @@ tags: [phase-5, ephesus, corinthians, divisions, wisdom, cross, spiritual-maturi
 
 ## Reading: 1 Corinthians 3
 
+Listen to: [1 Corinthians chapter 3](https://www.biblegateway.com/audio/mclean/esv/1Cor.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 3 is the chapter where Paul's argument about wisdom and the cross lands with full force on the specific problem plaguing the Corinthian church: their divisions. In chapters 1 and 2, Paul laid the theological foundation -- the cross overturns human wisdom, and God's wisdom is revealed only through the Spirit. Now he applies this directly to the Corinthians' behavior. The chapter is structured around three metaphors -- infants who need milk, a field with multiple workers, and a building on a foundation -- each of which illuminates a different aspect of what has gone wrong in Corinth and how it can be corrected.

@@ -12,6 +12,8 @@ tags: [phase-5, acts, shipwreck, storm, paul-voyage, divine-providence, malta]
 
 ## Reading: Acts 27
 
+Listen to: [Acts chapter 27](https://www.biblegateway.com/audio/mclean/esv/Acts.27){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 27 is one of the most remarkable chapters in ancient literature. Scholars of maritime history, navigation, and Mediterranean seamanship regard it as the most detailed and technically accurate account of an ancient sea voyage that has survived from antiquity. Every detail -- the names of ports, the direction of winds, the seasonal sailing calendar, the procedures for undergirding a ship, the casting of anchors from the stern, the jettisoning of cargo and tackle -- has been verified by archaeological and historical research. James Smith, a nineteenth-century yachtsman and classicist, sailed the same route and published "The Voyage and Shipwreck of St. Paul" (1848), concluding that Luke's account could only have been written by an eyewitness. The vivid "we" narrative, which resumes at Acts 20:5, confirms Luke's personal presence on the ship.

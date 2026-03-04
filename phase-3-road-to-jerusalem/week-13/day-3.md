@@ -12,6 +12,8 @@ tags: [phase-3, parables, prayer, humility, rich-ruler, children, luke]
 
 ## Reading: Luke 18
 
+Listen to: [Luke chapter 18](https://www.biblegateway.com/audio/mclean/esv/Luke.18){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 18 is a richly layered chapter that moves from parables about prayer to encounters that illustrate what it means to enter the Kingdom of God. The thread connecting these seemingly diverse episodes is a single question: what kind of person does God receive? The answer, given through story after story, is consistent and countercultural: God receives the persistent, the humble, the childlike, and the emptied -- not the self-satisfied, the proud, the credential-bearing, or the rich. Luke has been building toward this conclusion throughout his travel narrative, and here it reaches crystalline clarity.

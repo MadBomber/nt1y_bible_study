@@ -12,6 +12,8 @@ tags: [phase-5, resurrection, corinthians, hope, new-covenant, comfort, glory]
 
 ## Reading: 1 Corinthians 15
 
+Listen to: [1 Corinthians chapter 15](https://www.biblegateway.com/audio/mclean/esv/1Cor.15){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 15 is the longest and most systematic treatment of the resurrection in the New Testament, and it addresses a crisis that struck at the very foundation of the Christian faith. "How can some of you say that there is no resurrection of the dead?" Paul asks with undisguised astonishment (v. 12). The Corinthian denial of the resurrection was not a rejection of life after death in general -- Greek culture offered various views of the soul's survival -- but a rejection of bodily resurrection in particular. For educated Greeks raised on Platonic dualism, the body (*sōma*) was the soul's prison (*sēma*), and salvation meant liberation from the material world, not its transformation. The idea that God would raise decaying corpses struck them as not merely incredible but undesirable. When Paul preached the resurrection in Athens, the Areopagus philosophers "mocked" him (Acts 17:32). The same philosophical resistance had infiltrated the Corinthian church.

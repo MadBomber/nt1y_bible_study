@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, faith, wrath, righteousness, abraham, gos
 
 ## Reading: Romans 4
 
+Listen to: [Romans chapter 4](https://www.biblegateway.com/audio/mclean/esv/Rom.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 4 is Paul's scriptural proof for the doctrine of justification by faith, and he constructs it around the single most important figure in Jewish identity: Abraham, the father of the nation, the friend of God, the paradigm of faith. If Paul can demonstrate that Abraham himself was justified by faith and not by works, his argument is effectively won. The chapter is a masterpiece of rabbinic argumentation deployed in service of a revolutionary theological conclusion -- one that opens the door of Abraham's family to every person, regardless of ethnicity, who shares Abraham's faith.

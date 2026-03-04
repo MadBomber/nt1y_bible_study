@@ -12,6 +12,8 @@ tags: [phase-5, acts, paul-trials, festus, agrippa, appeal-to-caesar, roman-law]
 
 ## Reading: Acts 25
 
+Listen to: [Acts chapter 25](https://www.biblegateway.com/audio/mclean/esv/Acts.25){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 25 marks a turning point in both Paul's legal ordeal and the broader narrative of Acts. When Porcius Festus replaced Felix as governor of Judea -- probably in 59 AD, though the exact date is debated -- he inherited a province seething with unrest and a prisoner who had been languishing for two years without a verdict. Festus was by most accounts a more competent and honorable administrator than his predecessor, but he faced the same impossible political pressures: maintaining Rome's authority while managing the explosive tensions between the Jewish establishment and the various factions that threatened public order. Paul's case landed on his desk as an immediate problem.

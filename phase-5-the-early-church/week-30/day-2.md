@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, church-discipline, marriage, body-as-temple, christ
 
 ## Reading: 1 Corinthians 6
 
+Listen to: [1 Corinthians chapter 6](https://www.biblegateway.com/audio/mclean/esv/1Cor.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 6 contains two distinct but theologically connected arguments: the problem of believers suing one another in pagan courts (vv. 1-11) and a sweeping statement about sexual morality and the body (vv. 12-20). Both address the same underlying issue: the Corinthians have failed to grasp the implications of their identity in Christ for their everyday behavior.

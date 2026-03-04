@@ -12,6 +12,8 @@ tags: [phase-2, matthew, mission, twelve-apostles, persecution, discipleship, au
 
 ## Reading: Matthew 10
 
+Listen to: [Matthew chapter 10](https://www.biblegateway.com/audio/mclean/esv/Matt.10){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 10 is the second of five major discourse sections in Matthew's Gospel (the first being the Sermon on the Mount in chapters 5-7). It is the Mission Discourse, and it represents a watershed moment in the Gospel narrative: the authority that has been concentrated in Jesus alone is now extended to the Twelve. They are sent out (*apostellō*, from which we get "apostle") as his authorized representatives, carrying his message, his power, and his vulnerability into the towns and villages of Galilee.

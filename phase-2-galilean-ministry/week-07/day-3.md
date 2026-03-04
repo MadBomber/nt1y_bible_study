@@ -12,6 +12,8 @@ tags: [phase-2, parables, kingdom-of-god, sower, wheat-and-weeds, mustard-seed]
 
 ## Reading: Matthew 13:1-30
 
+Listen to: [Matthew chapter 13](https://www.biblegateway.com/audio/mclean/esv/Matt.13){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 13 marks one of the great structural turning points in Matthew's Gospel. Jesus leaves the house, sits beside the Sea of Galilee, and begins teaching the crowds from a boat -- a practical measure, since the natural amphitheater formed by the shoreline at places like the Cove of the Sower (Sower's Bay) near Tabgha would have provided excellent acoustics for a large audience. But the shift from house to boat is also symbolic. Jesus is now addressing the multitudes with a new method: the parable. The Greek word "parabole" derives from "para" (alongside) and "ballo" (to throw) -- a parable throws one thing alongside another for comparison. In the Hebrew tradition, the corresponding term "mashal" covers a broader range: proverbs, riddles, allegories, and extended metaphors. Jesus' parables draw on the rich mashal tradition of the Hebrew Bible (see Ezekiel 17; Judges 9:7-15; 2 Samuel 12:1-7) while transforming it into something unprecedented.

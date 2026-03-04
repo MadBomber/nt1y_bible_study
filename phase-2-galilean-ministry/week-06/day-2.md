@@ -12,6 +12,8 @@ tags: [phase-2, luke, miracles, centurion, widow-nain, john-baptist, faith, resu
 
 ## Reading: Luke 7
 
+Listen to: [Luke chapter 7](https://www.biblegateway.com/audio/mclean/esv/Luke.7){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 7 is one of the richest chapters in the Third Gospel, weaving together three distinct episodes that collectively explore the question of who Jesus is and what his coming means. Luke's version of these events provides details absent from the other Gospels, giving us a fuller and more nuanced picture of Jesus' ministry and its reception.

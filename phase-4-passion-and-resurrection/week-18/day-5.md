@@ -12,6 +12,8 @@ tags: [phase-4, trial, pilate, barabbas, mocking, roman-justice]
 
 ## Reading: Mark 15:1-20
 
+Listen to: [Mark chapter 15](https://www.biblegateway.com/audio/mclean/esv/Mark.15){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 15 opens with the transition from Jewish to Roman jurisdiction that was legally necessary for the execution the Sanhedrin desired. Under the Roman provincial system, the Jewish authorities retained significant autonomy in religious matters, but the ius gladii -- the right of the sword, the authority to impose capital punishment -- was reserved to the Roman governor. The Sanhedrin could condemn, but they could not execute. This is confirmed by John 18:31, where the Jewish leaders tell Pilate, "It is not lawful for us to put anyone to death." Scholars have debated the extent of this restriction, noting the stoning of Stephen (Acts 7) and the execution of James the brother of John (Acts 12) as possible exceptions, but the general principle stands: for a formal, state-sanctioned execution by crucifixion, Roman authority was required. The Sanhedrin's overnight deliberation was thus a preliminary proceeding; the binding legal decision would be Pilate's.

@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, warning, incarnation, pioneer, solidarity, brothers, de
 
 ## Reading: Hebrews 2
 
+Listen to: [Hebrews chapter 2](https://www.biblegateway.com/audio/mclean/esv/Heb.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 2 opens with the first of five warning passages that punctuate this letter like alarm bells, each one escalating in urgency and severity. The author has just demonstrated in chapter 1 that the Son is infinitely superior to angels. Now comes the inescapable logical consequence: "Therefore we must pay much closer attention to what we have heard, lest we drift away from it" (2:1). The word for "drift away" (pararreo) is a nautical term -- it describes a ship that slips past the harbor because the pilot was inattentive, or a ring that slides off a finger unnoticed. The image is chilling precisely because it is so undramatic. The author is not warning against a violent, deliberate rejection of the faith but against something far more common and far more insidious: a gradual, almost imperceptible sliding away. No one wakes up one morning and decides to abandon Christ. They simply stop paying attention, stop anchoring themselves in the truth, and the current of the world carries them past safety.

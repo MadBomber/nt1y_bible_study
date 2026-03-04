@@ -12,6 +12,8 @@ tags: [phase-4, crucifixion, cross, trial, arrest, peter, denial, pilate, sovere
 
 ## Reading: John 18
 
+Listen to: [John chapter 18](https://www.biblegateway.com/audio/mclean/esv/John.18){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John's account of the arrest and trials of Jesus differs dramatically in tone from the Synoptic Gospels. Where Luke emphasizes Jesus' compassion and Matthew and Mark stress the fulfillment of prophecy, John portrays Jesus as the sovereign Lord who controls every moment of his own Passion. The differences are not contradictions but complementary perspectives, like four witnesses describing the same event from different vantage points. John wrote last, likely in the 90s AD, and his account reflects decades of theological reflection on what he had seen with his own eyes as the disciple "whom Jesus loved."

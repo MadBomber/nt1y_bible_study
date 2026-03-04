@@ -12,6 +12,8 @@ tags: [phase-3, marriage, divorce, children, rich-young-man, discipleship-cost]
 
 ## Reading: Matthew 19
 
+Listen to: [Matthew chapter 19](https://www.biblegateway.com/audio/mclean/esv/Matt.19){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 19 marks a geographical and theological transition. Jesus leaves Galilee for the last time and enters the region of Judea "beyond the Jordan" (Perea), moving steadily toward Jerusalem and the cross. The chapter contains three encounters -- the Pharisees' test about divorce, the blessing of children, and the rich young man's question -- that together address the most fundamental dimensions of human life: marriage, family, and possessions. In each case, Jesus overturns conventional wisdom and replaces it with the radical ethic of the kingdom.

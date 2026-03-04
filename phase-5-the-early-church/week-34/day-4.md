@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, apostolic-authority, suffering, weakness, false-t
 
 ## Reading: 2 Corinthians 12
 
+Listen to: [2 Corinthians chapter 12](https://www.biblegateway.com/audio/mclean/esv/2Cor.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 12 is the theological summit of Paul's most personal letter and arguably the most important passage in all of Scripture on the relationship between divine power and human weakness. The chapter contains Paul's account of a mystical experience so extraordinary that he waited fourteen years to mention it, followed immediately by the revelation of his "thorn in the flesh" -- a mysterious affliction that became the occasion for what may be the single most transformative sentence God ever spoke to a human being: "My grace is sufficient for you, for my power is made perfect in weakness" (12:9).

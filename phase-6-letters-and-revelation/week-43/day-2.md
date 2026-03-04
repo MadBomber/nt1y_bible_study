@@ -12,6 +12,8 @@ tags: [phase-6, 1-timothy, prayer, mediator, worship, authorities]
 
 ## Reading: 1 Timothy 2
 
+Listen to: [1 Timothy chapter 2](https://www.biblegateway.com/audio/mclean/esv/1Tim.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Timothy 2 moves from combating false teaching to establishing positive guidelines for congregational worship. This chapter has generated more controversy in the modern church than perhaps any other passage in the Pastoral Epistles, particularly regarding Paul's instructions about women in worship. To interpret it faithfully, we must first understand the cultural and religious environment of first-century Ephesus and the specific problems Timothy was facing.

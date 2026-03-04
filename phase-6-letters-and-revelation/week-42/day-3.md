@@ -12,6 +12,8 @@ tags: [phase-6, colossians, fullness-of-deity, philosophy, legalism, freedom-in-
 
 ## Reading: Colossians 2
 
+Listen to: [Colossians chapter 2](https://www.biblegateway.com/audio/mclean/esv/Col.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Colossians 2 is the polemical heart of Paul's letter, where he directly confronts the false teaching threatening the Colossian church. Having established Christ's absolute supremacy in chapter 1, Paul now applies that truth defensively, warning the Colossians against being "taken captive" by rival systems and demonstrating that believers already possess complete spiritual fullness in Christ. Understanding what Paul opposes illuminates why he opposes it.

@@ -12,6 +12,8 @@ tags: [phase-2, parables, kingdom-of-god, rejection, nazareth, hidden-treasure, 
 
 ## Reading: Matthew 13:31-58
 
+Listen to: [Matthew chapter 13](https://www.biblegateway.com/audio/mclean/esv/Matt.13){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The second half of Matthew 13 completes Jesus' great discourse on the kingdom's mysteries and concludes with a jarring return to the concrete reality of human rejection. The parables in this section shift from agricultural imagery to the worlds of commerce, fishing, and domestic life, revealing that the kingdom of God touches every sphere of human existence. Together, they paint a comprehensive picture: the kingdom is hidden but infinitely valuable, it demands total commitment, and its final reckoning is certain.

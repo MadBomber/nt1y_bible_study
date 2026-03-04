@@ -12,6 +12,8 @@ tags: [phase-3, discipleship, cost-of-discipleship, great-banquet, sabbath-heali
 
 ## Reading: Luke 14
 
+Listen to: [Luke chapter 14](https://www.biblegateway.com/audio/mclean/esv/Luke.14){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 14 takes place at a Sabbath meal in the home of a prominent Pharisee, one of the most socially significant settings in first-century Jewish life. Sabbath meals were not merely family dinners but semi-public events where social status was displayed, alliances were formed, and religious teachers were evaluated. The text notes that "they were watching him carefully" (14:1) -- the Greek *paratereo* implies hostile surveillance, not casual observation. Jesus is under scrutiny, and he knows it. What follows is a masterclass in turning a social occasion into a series of penetrating lessons about the Kingdom of God.

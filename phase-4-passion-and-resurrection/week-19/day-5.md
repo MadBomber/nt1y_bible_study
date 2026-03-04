@@ -12,6 +12,8 @@ tags: [phase-4, crucifixion, cross, burial, atonement, seven-last-words, it-is-f
 
 ## Reading: John 19
 
+Listen to: [John chapter 19](https://www.biblegateway.com/audio/mclean/esv/John.19){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 19 is the theological summit of the Fourth Gospel. Everything in John has been building toward this hour -- the signs, the discourses, the "I am" statements, the mounting conflict with the authorities. Now the Lamb of God, identified by John the Baptist at the very beginning of the narrative (John 1:29), is led to the slaughter. John writes as an eyewitness who stood at the foot of the cross (19:26, 35), and his account carries the weight of someone who watched his closest friend die and then spent six decades reflecting on what it meant.

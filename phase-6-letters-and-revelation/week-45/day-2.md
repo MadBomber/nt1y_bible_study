@@ -12,6 +12,8 @@ tags: [phase-6, 2-timothy, scripture, last-days, evil, god-breathed, sufficiency
 
 ## Reading: 2 Timothy 3
 
+Listen to: [2 Timothy chapter 3](https://www.biblegateway.com/audio/mclean/esv/2Tim.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Timothy 3 contains one of the most sobering descriptions of moral decay in the entire New Testament, and it is set against the backdrop of Paul's own lived experience of that decay. Writing from prison around 66-67 AD, Paul had watched the Roman Empire descend into the moral chaos of Nero's reign. Nero, who had ascended to the throne in 54 AD as a promising young ruler guided by the philosopher Seneca, had by the mid-60s murdered his own mother Agrippina, kicked his pregnant wife Poppaea to death, castrated and "married" a young freedman named Sporus, and orchestrated the systematic persecution of Christians following the Great Fire of 64 AD. The culture Paul describes in verses 2-5 -- people who are lovers of self, lovers of money, boastful, arrogant, abusive, ungrateful, unholy, without love, unforgiving, slanderous, without self-control, brutal, treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God -- was not a distant prophetic vision. It was the daily reality of the Roman world pressing in on the church from every side.

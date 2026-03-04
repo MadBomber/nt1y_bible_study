@@ -12,6 +12,8 @@ tags: [phase-6, revelation, trumpets, silence, wrath, locusts, plagues]
 
 ## Reading: Revelation 8-9
 
+Listen to: [Revelation chapter 8](https://www.biblegateway.com/audio/mclean/esv/Rev.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The opening of the seventh seal in Revelation 8:1 produces one of the most startling moments in the entire book: "When he opened the seventh seal, there was silence in heaven for about half an hour." Throughout Revelation, heaven has been a place of ceaseless worship -- the four living creatures cry "Holy, holy, holy" day and night, the twenty-four elders fall on their faces, the multitude roars like the sound of many waters. Now, suddenly, silence. The entire heavenly court holds its breath. Jewish apocalyptic tradition associated silence with the moment before creation (4 Ezra 7:30) -- as if heaven is about to witness a new creative act, or perhaps an act of uncreation. The silence is the hushed reverence that precedes the most solemn moment in the liturgical drama of judgment.

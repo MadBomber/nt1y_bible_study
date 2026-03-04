@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, apostolic-authority, suffering, weakness, false-t
 
 ## Reading: 2 Corinthians 10
 
+Listen to: [2 Corinthians chapter 10](https://www.biblegateway.com/audio/mclean/esv/2Cor.10){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 10 marks one of the most dramatic shifts in tone in all of Paul's letters. The warm pastoral encouragement and theological depth of chapters 1-9 gives way to a sharp, combative defense of Paul's apostolic authority that continues through chapter 13. This abrupt change has led some scholars to propose that chapters 10-13 were originally a separate letter -- possibly the "tearful letter" Paul mentions in 2:4 -- that was later attached to chapters 1-9. However, others argue persuasively that the shift is intentional: having reestablished rapport with the repentant majority in chapters 1-9, Paul now turns his attention to the unrepentant minority still under the influence of the false "super-apostles."

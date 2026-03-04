@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, sanctification, spirit, sovereignty, adam
 
 ## Reading: Romans 8
 
+Listen to: [Romans chapter 8](https://www.biblegateway.com/audio/mclean/esv/Rom.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 8 is widely regarded as the summit of Pauline theology and one of the most exalted chapters in all of Scripture. It begins with "no condemnation" (verse 1) and ends with "no separation" (verse 39), and between those two towering declarations stretches the full panorama of the believer's life in the Spirit -- from present suffering to future glory, from the groaning of creation to the intercession of the Spirit, from the golden chain of salvation to the cosmic triumph of God's love. If Romans 7 is the valley of struggle, Romans 8 is the mountain of assurance.

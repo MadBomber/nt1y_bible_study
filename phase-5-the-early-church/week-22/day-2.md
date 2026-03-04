@@ -12,6 +12,8 @@ tags: [phase-5, stephen, speech, martyrdom, israel-history, resistance-to-spirit
 
 ## Reading: Acts 7
 
+Listen to: [Acts chapter 7](https://www.biblegateway.com/audio/mclean/esv/Acts.7){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 7 contains the longest speech in the entire book of Acts -- fifty-three verses of sustained theological argument delivered by a man who knows he is about to die. Stephen stands before the Sanhedrin, the seventy-one-member supreme court of the Jewish nation, accused of blasphemy against Moses and God, against the temple and the law. His face, Luke has told us, shines like the face of an angel. The high priest asks the standard judicial question: "Are these things so?" (7:1). Stephen's answer is a masterpiece of prosecutorial rhetoric disguised as a history lesson. He does not deny the charges so much as reframe the entire narrative of Israel's story to demonstrate that his accusers, not he, stand in the long tradition of resisting God's purposes.

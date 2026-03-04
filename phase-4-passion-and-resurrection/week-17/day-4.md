@@ -12,6 +12,8 @@ tags: [phase-4, upper-room-discourse, farewell-discourse, vine, abiding, worlds-
 
 ## Reading: John 15
 
+Listen to: [John chapter 15](https://www.biblegateway.com/audio/mclean/esv/John.15){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 15 contains the last and in many ways the most intimate of Jesus' "I am" declarations: "I am the true vine, and my Father is the vinedresser." To grasp the full force of this metaphor, we must understand how deeply the vine was embedded in Israel's identity. The vine was not merely an agricultural staple of the Palestinian landscape; it was a national symbol. The prophet Isaiah composed an elaborate "Song of the Vineyard" (Isaiah 5:1-7) in which God planted Israel as a choice vine, cultivated it with every advantage, and then waited for good grapes -- only to find wild, sour fruit. The vineyard became a symbol of Israel's failure to produce the righteousness God expected. Psalm 80:8-16 uses the same image: "You brought a vine out of Egypt; you drove out the nations and planted it." Jeremiah 2:21 records God's lament: "I planted you a choice vine, wholly of pure seed. How then have you turned degenerate and become a wild vine?" Ezekiel 15 and 19 continue the theme. By the first century, the vine had become so central to Jewish identity that Herod the Great adorned the entrance to the temple with an enormous golden vine, its clusters as tall as a man, symbolizing Israel as God's planting.

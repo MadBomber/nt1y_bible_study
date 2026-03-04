@@ -12,6 +12,8 @@ tags: [phase-5, james, trials, wisdom, word, doers, perseverance]
 
 ## Reading: James 1
 
+Listen to: [James chapter 1](https://www.biblegateway.com/audio/mclean/esv/Jas.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The letter of James is almost certainly the earliest document in the New Testament, written probably in the mid-40s AD -- possibly as early as 44-48 AD, before the Jerusalem Council of Acts 15 (c. 49 AD). Its author identifies himself simply as "James, a servant of God and of the Lord Jesus Christ" (1:1), and the early church uniformly identified him as James the half-brother of Jesus, who became the leader of the Jerusalem church. This James did not believe in Jesus during Jesus' earthly ministry (John 7:5), but the risen Christ appeared to him personally (1 Corinthians 15:7), and by the time of the Jerusalem Council he had become the acknowledged head of the mother church. Paul calls him one of the "pillars" (Galatians 2:9). When Peter was freed from prison, his first instruction was "Tell James" (Acts 12:17). This is a man whose authority rested not on theological credentials but on a lifetime of proximity to Jesus and decades of faithful pastoral leadership.

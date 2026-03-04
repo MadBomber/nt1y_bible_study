@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, suffering, reconciliation, generosity, ministry]
 
 ## Reading: 2 Corinthians 5
 
+Listen to: [2 Corinthians chapter 5](https://www.biblegateway.com/audio/mclean/esv/2Cor.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 5 moves from the physical suffering discussed in chapter 4 to the ultimate horizon of Christian hope: what happens when the jar of clay finally breaks. Paul's meditation on death, resurrection, judgment, and reconciliation in this chapter has shaped Christian theology for two millennia, and nearly every verse has generated intense scholarly discussion. The chapter divides naturally into three movements: the believer's hope beyond death (vv. 1-10), the love of Christ as the motive for ministry (vv. 11-15), and the ministry of reconciliation (vv. 16-21).

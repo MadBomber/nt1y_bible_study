@@ -12,6 +12,8 @@ tags: [phase-5, ephesus, corinthians, divisions, wisdom, cross, spiritual-maturi
 
 ## Reading: 1 Corinthians 4
 
+Listen to: [1 Corinthians chapter 4](https://www.biblegateway.com/audio/mclean/esv/1Cor.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 4 concludes the opening section of the letter (chapters 1-4) that has addressed the problem of divisions and the theology of the cross. Having demolished the Corinthians' wisdom-based factionalism in the previous three chapters, Paul now addresses the personal dimension: how should the Corinthians view Paul and Apollos, and how should spiritual leaders relate to those they serve? The chapter moves from theological argument to deeply personal testimony, from careful pastoral instruction to the raw emotion of a father confronting wayward children. It is one of the most powerful and self-revealing chapters in all of Paul's correspondence.

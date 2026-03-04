@@ -12,6 +12,8 @@ tags: [phase-2, kingdom-ethics, forgiveness, humility, church-discipline, matthe
 
 ## Reading: Matthew 18
 
+Listen to: [Matthew chapter 18](https://www.biblegateway.com/audio/mclean/esv/Matt.18){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 18 is the fourth of five major discourses in Matthew's Gospel, and it is devoted entirely to the internal life of the kingdom community. While the Sermon on the Mount (chapters 5-7) describes the character of kingdom citizens, and the parables discourse (chapter 13) describes how the kingdom grows and what it is like, this discourse addresses how members of the community are to relate to one another. The setting is Capernaum (Mark 9:33 clarifies this), and the occasion is a question from the disciples: "Who is the greatest in the kingdom of heaven?" (v. 1). The question is painfully revealing. Jesus has just predicted his suffering and death for the second time (Matthew 17:22-23), and the disciples' response is not grief or reflection but a power struggle over rank. They are still operating within the value system of the world, where greatness is measured by status, influence, and proximity to power.

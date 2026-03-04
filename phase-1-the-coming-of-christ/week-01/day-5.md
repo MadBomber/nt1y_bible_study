@@ -12,6 +12,8 @@ tags: [luke, birth-of-jesus, bethlehem, shepherds, angels, glory, phase-1]
 
 ## Reading: Luke 2:1-20
 
+Listen to: [Luke chapter 2](https://www.biblegateway.com/audio/mclean/esv/Luke.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke sets the birth of Jesus within the framework of world history with a precision that no other Gospel writer attempts. "In those days a decree went out from Caesar Augustus that all the world should be registered" (v. 1). Caesar Augustus, born Gaius Octavius, was the first Roman emperor, ruling from 27 BC to 14 AD. He had brought an end to decades of civil war and established the *Pax Romana* -- the Roman Peace -- a period of relative stability across the Mediterranean world. Augustus was celebrated as a savior and a bringer of peace; inscriptions called him *soter* ("savior") and proclaimed his birth as "good news" (*euangelia*) for the world. Luke's language in this chapter -- savior, peace, good news -- is a deliberate counter-narrative. The true Savior, the real bringer of peace, the authentic good news is not the emperor in Rome but an infant in Bethlehem.

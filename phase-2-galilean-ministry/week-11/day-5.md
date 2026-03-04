@@ -12,6 +12,8 @@ tags: [phase-2, fearless-confession, rich-fool, anxiety, watchfulness, division]
 
 ## Reading: Luke 12
 
+Listen to: [Luke chapter 12](https://www.biblegateway.com/audio/mclean/esv/Luke.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 12 is a chapter of extremes -- extreme courage, extreme folly, extreme trust, extreme vigilance, and extreme division. Jesus addresses an enormous crowd ("so many thousands of the people had gathered together that they were trampling one another," v. 1) and delivers a sustained discourse that strips away every false source of security and replaces it with a single, sufficient one: the Father's sovereign, generous, watchful care. The chapter is organized around a series of contrasts: fear of humans versus fear of God, earthly wealth versus heavenly treasure, anxiety versus trust, readiness versus negligence, peace versus division. Each contrast forces the listener to choose between two ways of living, and no middle ground is permitted.

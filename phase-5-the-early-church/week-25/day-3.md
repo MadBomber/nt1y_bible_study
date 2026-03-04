@@ -12,6 +12,8 @@ tags: [phase-5, galatians, adoption, sonship, hagar-sarah, slavery-freedom, abba
 
 ## Reading: Galatians 4
 
+Listen to: [Galatians chapter 4](https://www.biblegateway.com/audio/mclean/esv/Gal.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Galatians 4 is where Paul's theological argument becomes deeply personal and his scriptural reasoning reaches its most creative. Having demonstrated in chapter 3 that the law was a temporary guardian preparing the way for faith, Paul now develops the implications of that argument through the metaphors of childhood, slavery, adoption, and — in one of the most daring interpretive moves in the New Testament — an allegorical reading of the story of Hagar and Sarah. The chapter is a masterwork of pastoral theology: rigorous in its logic, passionate in its appeal, and aimed at awakening the Galatians from the spiritual stupor into which they have fallen by returning to the very bondage from which Christ has set them free.

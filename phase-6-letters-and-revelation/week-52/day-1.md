@@ -12,6 +12,8 @@ tags: [phase-6, revelation, seals, four-horsemen, martyrs, 144000, great-multitu
 
 ## Reading: Revelation 6-7
 
+Listen to: [Revelation chapter 6](https://www.biblegateway.com/audio/mclean/esv/Rev.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 We have arrived at the final week of our year-long journey through the New Testament. In the preceding chapter (Revelation 5), the Lamb who was slain received the scroll from the right hand of the One seated on the throne -- the scroll sealed with seven seals that no one else in heaven or earth was worthy to open. Now, beginning in chapter 6, the Lamb breaks the seals one by one, and the scroll's contents begin to unfold in a series of increasingly dramatic visions.

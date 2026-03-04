@@ -12,6 +12,8 @@ tags: [phase-2, matthew, miracles, centurion, storm, demoniacs, faith, authority
 
 ## Reading: Matthew 8
 
+Listen to: [Matthew chapter 8](https://www.biblegateway.com/audio/mclean/esv/Matt.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 8 marks a dramatic transition in the Gospel's structure. Having presented Jesus' authoritative words in the Sermon on the Mount (chapters 5-7), Matthew now presents his authoritative deeds. The chapter collects a series of miracle stories that demonstrate Jesus' power over disease, nature, and the demonic world -- the three realms that most vividly represent the brokenness of creation. The arrangement is deliberate: Matthew is building the case that the one who teaches with authority also acts with authority, and that his words and deeds together reveal the arriving Kingdom of God.

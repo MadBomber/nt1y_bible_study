@@ -12,6 +12,8 @@ parallel_passages: ["Numbers 24:17", "Micah 5:2", "Hosea 11:1", "Jeremiah 31:15"
 
 ## Reading: Matthew 2
 
+Listen to: [Matthew chapter 2](https://www.biblegateway.com/audio/mclean/esv/Matt.2){:target="_blank" rel="noopener"}
+
 > *"And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh."* -- Matthew 2:11 (ESV)
 
 ---

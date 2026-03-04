@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, faith, heroes, abel, enoch, noah, abraham, moses, rahab
 
 ## Reading: Hebrews 11
 
+Listen to: [Hebrews chapter 11](https://www.biblegateway.com/audio/mclean/esv/Heb.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 11 is one of the most beloved and rhetorically brilliant chapters in the entire Bible. After ten chapters of dense theological argument about Christ's superiority, the author suddenly shifts to narrative -- and the effect is like stepping from a lecture hall into an amphitheater. This is the "Hall of Faith," a sweeping survey of the entire Old Testament through a single lens: faith as the defining characteristic of those who pleased God.

@@ -12,6 +12,8 @@ tags: [phase-5, galatians, freedom, fruit-of-spirit, flesh-vs-spirit, love]
 
 ## Reading: Galatians 5
 
+Listen to: [Galatians chapter 5](https://www.biblegateway.com/audio/mclean/esv/Gal.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Galatians 5 is the pivot point of the entire letter, where Paul moves from theological argument to ethical application with a declaration that has echoed through the centuries: "For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery" (5:1). The verse functions as a bridge between the doctrinal case Paul has been building since chapter 1 and the practical exhortations that carry the letter to its conclusion. But it is more than a transition; it is the thesis statement of Christian ethics. Freedom is not incidental to the gospel; it is the gospel's purpose and fruit. And the chapter that follows answers the question that inevitably arises whenever freedom is proclaimed: if we are free from the law, what prevents moral chaos?

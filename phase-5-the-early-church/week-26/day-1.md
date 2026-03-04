@@ -12,6 +12,8 @@ tags: [phase-5, jerusalem-council, second-missionary-journey, timothy, philippi,
 
 ## Reading: Acts 15
 
+Listen to: [Acts chapter 15](https://www.biblegateway.com/audio/mclean/esv/Acts.15){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 15 records what is arguably the most important ecclesiastical gathering in the history of Christianity. The Jerusalem Council, convened around 49 AD, addressed a question that had been simmering since the conversion of Cornelius in Acts 10 and had now reached a boiling point: must Gentile believers be circumcised and observe the Mosaic law in order to be saved? The stakes could not have been higher. If the answer was yes, Christianity would remain a sect within Judaism, accessible to Gentiles only through full proselyte conversion. If the answer was no, the church would be declaring that the covenant markers that had defined Jewish identity for nearly two millennia were not prerequisites for belonging to the people of God. Either answer carried enormous theological, social, and practical consequences.

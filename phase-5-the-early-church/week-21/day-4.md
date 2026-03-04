@@ -12,6 +12,8 @@ tags: [phase-5, acts, peter, john, sanhedrin, boldness, community, early-church]
 
 ## Reading: Acts 4
 
+Listen to: [Acts chapter 4](https://www.biblegateway.com/audio/mclean/esv/Acts.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 4 records the first direct collision between the infant church and the institutional power of Judaism -- the Sanhedrin. This was inevitable. The apostles were proclaiming in the temple precincts that the man the Sanhedrin had condemned to death just weeks earlier had been raised from the dead by God. The theological and political implications were staggering. If Jesus was alive, then the Sanhedrin had executed an innocent man -- worse, they had killed the Messiah. The resurrection was not merely a miracle claim; it was an indictment.

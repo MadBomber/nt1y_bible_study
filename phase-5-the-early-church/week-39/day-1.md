@@ -12,6 +12,8 @@ tags: [phase-5, acts, paul-trials, sanhedrin, roman-law, conspiracy]
 
 ## Reading: Acts 23
 
+Listen to: [Acts chapter 23](https://www.biblegateway.com/audio/mclean/esv/Acts.23){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 23 is a chapter of sharp contrasts -- between the farcical breakdown of a Sanhedrin hearing and the deadly seriousness of an assassination conspiracy, between human plots that seem unstoppable and divine promises that cannot be broken. The chapter begins with Paul standing before the Sanhedrin, the supreme Jewish council that consisted of seventy-one members drawn from the priestly aristocracy (Sadducees), the scribal class (largely Pharisees), and influential elders. This was the same body that had tried Jesus, condemned Stephen, and repeatedly attempted to suppress the apostolic movement. Paul now faces them not as a defendant groveling for mercy but as a man profoundly confident in his calling.

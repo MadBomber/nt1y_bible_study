@@ -12,6 +12,8 @@ tags: [phase-5, romans, greetings, phoebe, priscilla, early-church-network, wome
 
 ## Reading: Romans 16
 
+Listen to: [Romans chapter 16](https://www.biblegateway.com/audio/mclean/esv/Rom.16){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 16 is the most relational chapter in Paul's most theological letter, and its significance is easily underestimated. What appears at first glance to be a list of greetings -- the ancient equivalent of a social media tag -- is actually one of our most important windows into the structure, diversity, and vitality of the early Christian movement. Paul names or refers to more than twenty-six individuals in this chapter, and virtually every name tells a story about the surprising social composition of the first-century church. This is not a footnote to the theology of Romans 1-15; it is the theology of Romans made flesh and blood. The gospel of grace that justifies Jew and Gentile alike, that tears down the dividing wall between slave and free, that creates a new humanity in Christ -- here are the actual human beings who embody it.

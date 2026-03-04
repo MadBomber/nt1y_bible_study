@@ -12,6 +12,8 @@ tags: [phase-5, acts, cornelius, peter, gentile-inclusion, vision, holy-spirit, 
 
 ## Reading: Acts 10
 
+Listen to: [Acts chapter 10](https://www.biblegateway.com/audio/mclean/esv/Acts.10){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 10 is the Pentecost of the Gentile world. If Acts 2 records the birth of the church through the outpouring of the Spirit on Jewish believers, Acts 10 records the moment when the Spirit breaks through the most entrenched boundary in the ancient world — the division between Jew and Gentile — and claims the nations as God's own people. The chapter is the longest single narrative in Acts, a fact that reveals its importance to Luke's theological project. Luke is not merely reporting an interesting missionary episode; he is documenting the event that redefined the people of God.

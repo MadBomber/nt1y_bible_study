@@ -12,6 +12,8 @@ tags: [phase-5, james, wealth, patience, prayer, healing, restoration]
 
 ## Reading: James 5
 
+Listen to: [James chapter 5](https://www.biblegateway.com/audio/mclean/esv/Jas.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 James 5 brings the letter to a powerful conclusion that moves from prophetic denunciation to pastoral tenderness. The chapter divides naturally into four sections: a scorching indictment of wealthy oppressors (5:1-6), a call to patient endurance (5:7-12), instructions about prayer and healing (5:13-18), and a brief exhortation to restore the wanderer (5:19-20). The range of material is remarkable — from the rhetoric of an Amos or Isaiah thundering against economic injustice to the gentle pastoral care of a shepherd seeking lost sheep. Together, these sections demonstrate that authentic faith expresses itself in justice, patience, prayer, and mutual accountability.

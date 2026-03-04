@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, sanctification, spirit, sovereignty, adam
 
 ## Reading: Romans 6
 
+Listen to: [Romans chapter 6](https://www.biblegateway.com/audio/mclean/esv/Rom.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 6 addresses a question that must have been circulating wherever Paul's gospel of grace was preached: "Shall we go on sinning so that grace may increase?" (verse 1). This was not merely a hypothetical objection. Paul's enemies had apparently accused him of promoting moral license (see Romans 3:8, where Paul mentions people who slanderously report him as saying "Let us do evil that good may come"). The charge had a superficial logic: if grace superabounds where sin increases (5:20), then more sinning should produce more grace. Paul's response is one of the most emphatic negatives in his entire vocabulary: me genoito -- "May it never be!" or as older translations rendered it, "God forbid!"

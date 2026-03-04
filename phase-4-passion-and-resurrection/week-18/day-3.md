@@ -12,6 +12,8 @@ tags: [phase-4, betrayal, sanhedrin-trial, denial, arrest, peter]
 
 ## Reading: Matthew 26:47-75
 
+Listen to: [Matthew chapter 26](https://www.biblegateway.com/audio/mclean/esv/Matt.26){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The arrest of Jesus in the Garden of Gethsemane is a scene of carefully orchestrated treachery. Judas arrives with "a great crowd with swords and clubs, from the chief priests and the elders of the people" (26:47). This was not a Roman cohort but a temple police force, supplemented perhaps by armed servants of the priestly families. The weapons are significant: swords (machaira, short swords) and clubs (xylon, wooden staffs) -- the equipment of a militia expecting resistance, not of officials serving a routine warrant. Judas had given them a prearranged signal: "The one I will kiss is the man; seize him." In the ancient Jewish world, a disciple greeted his rabbi with a kiss on the hand or cheek as a mark of respect and affection. Judas weaponized this gesture of intimacy. The Greek verb used here (katephilesen) is an intensified form meaning "to kiss fervently, repeatedly" -- suggesting not a perfunctory peck but an effusive, lingering embrace designed to eliminate any ambiguity about the target's identity. Jesus' response -- "Friend, do what you came to do" -- uses the Greek word hetaire, a formal, somewhat distant term ("companion") rather than the intimate philos. Even in this moment, Jesus maintains both composure and compassion.

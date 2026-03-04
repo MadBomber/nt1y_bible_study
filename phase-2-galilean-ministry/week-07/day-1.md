@@ -12,6 +12,8 @@ tags: [phase-2, parables, kingdom-of-god, john-the-baptist, invitation, judgment
 
 ## Reading: Matthew 11
 
+Listen to: [Matthew chapter 11](https://www.biblegateway.com/audio/mclean/esv/Matt.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 11 is one of the most emotionally complex and theologically dense chapters in the Gospels, weaving together doubt, denunciation, and one of the most tender invitations ever spoken. To understand its force, we must reconstruct the situation of John the Baptist as he languished in Herod Antipas' fortress at Machaerus, a bleak stronghold perched on a ridge east of the Dead Sea. Josephus confirms the location and the political motivations behind John's imprisonment: Herod feared John's influence over the crowds and arrested him under the pretext of preventing sedition (Antiquities 18.5.2). John had also publicly condemned Herod's marriage to Herodias, his brother Philip's wife, a union that violated Levitical law (Leviticus 18:16; 20:21).

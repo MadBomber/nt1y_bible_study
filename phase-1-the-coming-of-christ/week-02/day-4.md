@@ -12,6 +12,8 @@ phase: "The Coming of Christ"
 
 ## Reading: Luke 3:1-22
 
+Listen to: [Luke chapter 3](https://www.biblegateway.com/audio/mclean/esv/Luke.3){:target="_blank" rel="noopener"}
+
 > *"And the Holy Spirit descended on him in bodily form, like a dove; and a voice came from heaven, 'You are my beloved Son; with you I am well pleased.'"* -- Luke 3:22 (ESV)
 
 ---

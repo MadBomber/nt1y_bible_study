@@ -12,6 +12,8 @@ tags: [phase-2, gospel-of-john, healing, sabbath-controversy, son-of-god]
 
 ## Reading: John 5
 
+Listen to: [John chapter 5](https://www.biblegateway.com/audio/mclean/esv/John.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 5 marks a decisive turning point in the Fourth Gospel. Up to this point, opposition to Jesus has been muted -- murmuring at Cana, puzzlement from Nicodemus, tension with the Samaritan woman's community. After this chapter, the opposition becomes lethal. John states it plainly: "This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God" (5:18). The healing at the Pool of Bethesda is the catalyst, but the discourse that follows is the real provocation. In it, Jesus makes the most explicit claims to divine authority found anywhere in the Gospels up to this point, claims that would have been unmistakable to any Jewish audience steeped in the theology of the Hebrew Scriptures.

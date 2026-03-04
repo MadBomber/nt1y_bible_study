@@ -12,6 +12,8 @@ tags: [phase-6, revelation, seven-churches, throne-room, lamb, vision, apocalypt
 
 ## Reading: Revelation 1
 
+Listen to: [Revelation chapter 1](https://www.biblegateway.com/audio/mclean/esv/Rev.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The book of Revelation opens with a declaration that sets its purpose and tone: this is "the revelation (apokalypsis) of Jesus Christ" (1:1). The Greek word apokalypsis means "unveiling" or "uncovering" — not concealment but disclosure. Despite the popular impression that Revelation is an impenetrable code, its stated purpose is to reveal, to pull back the curtain so that God's servants can see reality as it truly is. The book belongs to a well-established Jewish literary genre known as apocalyptic literature, which flourished between roughly 200 BC and 100 AD. Works like Daniel, 1 Enoch, 4 Ezra, and 2 Baruch used vivid imagery, symbolic numbers, cosmic battles, and heavenly visions to communicate theological truth about God's sovereignty over history, especially during times of intense persecution. The original audience would have recognized the conventions of this genre far more readily than modern readers do.

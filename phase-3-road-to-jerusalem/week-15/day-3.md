@@ -12,6 +12,8 @@ tags: [phase-3, triumphal-entry, temple-cleansing, authority, passion-week]
 
 ## Reading: Mark 11
 
+Listen to: [Mark chapter 11](https://www.biblegateway.com/audio/mclean/esv/Mark.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 11 covers much of the same ground as Matthew 21, but Mark's distinctive literary technique -- often called the "Markan sandwich" or intercalation -- dramatically reshapes the narrative's meaning. Mark is widely regarded as the earliest Gospel, and his account of the Passion Week carries the breathless, vivid quality that characterizes his entire narrative. Where Matthew compresses events into a single day, Mark carefully spreads them over two, and the arrangement is theologically deliberate.

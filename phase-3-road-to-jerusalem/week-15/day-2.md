@@ -12,6 +12,8 @@ tags: [phase-3, triumphal-entry, temple-cleansing, authority, passion-week]
 
 ## Reading: Matthew 21:23-46
 
+Listen to: [Matthew chapter 21](https://www.biblegateway.com/audio/mclean/esv/Matt.21){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The morning after the Temple cleansing, Jesus returns to the Temple courts and begins teaching. The chief priests and elders of the people -- the two groups that together constituted the Sanhedrin's leadership -- immediately confront him with the most fundamental question of the Passion Week: "By what authority are you doing these things, and who gave you this authority?" The question is both legal and theological. In Jewish tradition, a teacher's authority derived from his rabbinic lineage -- who ordained him, who authorized his teaching. Jesus had no such credentials. He had not studied under a recognized rabbi in the formal sense. His actions in the Temple the day before -- overturning tables, driving out merchants, halting the flow of commerce -- were acts of extraordinary public authority. The Temple authorities needed to know: Was he a prophet? A revolutionary? A self-appointed reformer? By what right did he presume to regulate the operations of the House of God?

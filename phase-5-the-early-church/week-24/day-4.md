@@ -12,6 +12,8 @@ tags: [phase-5, first-missionary-journey, antioch, paul, barnabas, gentile-missi
 
 ## Reading: Acts 14
 
+Listen to: [Acts chapter 14](https://www.biblegateway.com/audio/mclean/esv/Acts.14){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 14 takes us deep into the interior of first-century Asia Minor, a region that was culturally layered, linguistically diverse, and politically complex in ways that modern readers often fail to appreciate. The cities Paul and Barnabas visited -- Iconium, Lystra, and Derbe -- lay in the Roman province of Galatia, a vast administrative territory that bore little resemblance to the small Celtic kingdom from which it took its name. When Rome annexed the region in 25 BC after the death of its last king, Amyntas, the province was expanded to include portions of Pisidia, Phrygia, Lycaonia, and Isauria. This geographical complexity is relevant to the ongoing scholarly debate about the recipients of Paul's letter to the Galatians: did he write to these southern Galatian cities, or to ethnic Galatians further north? The evidence from Acts strongly supports the southern theory, placing the composition of Galatians in close proximity to the events of Acts 13-14.

@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, sacrifice, once-for-all, draw-near, perseverance, warni
 
 ## Reading: Hebrews 10
 
+Listen to: [Hebrews chapter 10](https://www.biblegateway.com/audio/mclean/esv/Heb.10){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 10 brings the theological argument of the letter to its climax and then pivots sharply into pastoral exhortation. The chapter divides naturally into two halves: verses 1-18 complete the comparison between the old sacrificial system and Christ's once-for-all offering, while verses 19-39 draw out the practical implications -- the three great exhortations (draw near, hold fast, spur one another) followed by the fourth major warning passage in Hebrews.

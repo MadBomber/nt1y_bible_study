@@ -12,6 +12,8 @@ tags: [phase-2, sabbath-controversy, beelzebul, kingdom-of-god, blasphemy, sign-
 
 ## Reading: Matthew 12
 
+Listen to: [Matthew chapter 12](https://www.biblegateway.com/audio/mclean/esv/Matt.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 12 represents the sharpest escalation of conflict yet between Jesus and the Pharisaic establishment. The chapter revolves around three confrontations -- two over the Sabbath and one over the source of Jesus' miraculous power -- and together they expose a fault line that will never heal. Understanding the depth of this conflict requires appreciating how central Sabbath observance was to Jewish identity in the first century. After the exile, Sabbath-keeping became one of the primary markers distinguishing Jews from their pagan neighbors, alongside circumcision and dietary laws. The Pharisees had developed an elaborate oral tradition (later codified in the Mishnah's tractate Shabbat) that specified thirty-nine categories of prohibited labor, each with numerous subcategories. These regulations were not mere legalism; they represented a sincere attempt to "build a fence around the Torah," protecting the commandment by prohibiting activities that might accidentally lead to violations.

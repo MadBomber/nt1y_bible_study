@@ -12,6 +12,8 @@ tags: [phase-6, colossians, philemon, prayer, wisdom, onesimus, slavery, reconci
 
 ## Reading: Colossians 4 and Philemon
 
+Listen to: [Colossians chapter 4](https://www.biblegateway.com/audio/mclean/esv/Col.4){:target="_blank" rel="noopener"} | [Philemon chapter 1](https://www.biblegateway.com/audio/mclean/esv/Phlm.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Today's reading pairs the closing chapter of Colossians with Paul's shortest letter, Philemon — and for good reason. These two documents are intimately connected. They were written at the same time, carried by the same messenger (Tychicus), and share the same cast of characters. Onesimus, the subject of Paul's letter to Philemon, is identified in Colossians 4:9 as "one of you" — a Colossian believer. Reading them together reveals how the lofty theology of Colossians plays out in the concrete, messy realities of human relationships.

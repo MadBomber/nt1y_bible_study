@@ -12,6 +12,8 @@ tags: [phase-5, athens, areopagus, unknown-god, resurrection, contextual-evangel
 
 ## Reading: Acts 17:16-34
 
+Listen to: [Acts chapter 17](https://www.biblegateway.com/audio/mclean/esv/Acts.17){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 17:16-34 records one of the most remarkable speeches in the New Testament and one of the most significant encounters between the gospel and philosophy in the history of Western civilization. Paul, waiting in Athens for Silas and Timothy to arrive from Macedonia, finds himself alone in the intellectual capital of the ancient world — a city whose golden age was five centuries past but whose cultural prestige still dominated the Mediterranean imagination. Athens was no longer a political power, but it remained the university city of the Roman Empire, the place where aspiring young Romans went to study rhetoric and philosophy, and the spiritual home of the philosophical traditions — Platonic, Aristotelian, Stoic, Epicurean — that shaped how educated people throughout the Empire understood reality. What Paul says to the Athenians on Mars Hill is not just a sermon; it is the New Testament's definitive example of contextual evangelism — the art of communicating the unchanging gospel in categories that a particular audience can comprehend, without compromising the gospel's essential content.

@@ -12,6 +12,8 @@ tags: [phase-6, 2-timothy, courage, unashamed, lois, eunice, holy-spirit, guard-
 
 ## Reading: 2 Timothy 1
 
+Listen to: [2 Timothy chapter 1](https://www.biblegateway.com/audio/mclean/esv/2Tim.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Timothy is the most emotionally intense letter in the New Testament. It is Paul's final correspondence — written from a Roman prison during his second imprisonment, almost certainly under the emperor Nero, and with the full expectation that execution is imminent. The tone is unmistakable from the opening verses: this is a dying man writing to his most beloved spiritual son, and every word carries the weight of a last testament. Where 1 Timothy was a manual for church administration and Titus was a guidebook for organizing churches on Crete, 2 Timothy is a deeply personal letter of encouragement, warning, and commissioning. Paul is passing the torch.

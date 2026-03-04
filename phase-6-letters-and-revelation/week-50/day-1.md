@@ -12,6 +12,8 @@ tags: [phase-6, 1-john, light, darkness, confession, fellowship, forgiveness]
 
 ## Reading: 1 John 1
 
+Listen to: [1 John chapter 1](https://www.biblegateway.com/audio/mclean/esv/1John.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The opening verses of 1 John are among the most deliberately crafted in the New Testament, and they cannot be properly understood apart from the crisis that provoked them. By the late first century, the Johannine community -- the network of churches associated with the apostle John, centered in Ephesus -- had suffered a devastating internal schism. A group of teachers had departed from the congregation (2:19), taking members with them and advancing a theology that John regarded as nothing less than the spirit of antichrist. The precise nature of their teaching has been debated for centuries, but the letter itself provides clear clues: they denied that Jesus Christ had come "in the flesh" (4:2), they claimed to be without sin (1:8, 10), and they apparently considered themselves to have achieved a spiritual enlightenment that elevated them above ordinary moral obligations.

@@ -12,6 +12,8 @@ tags: [phase-6, titus, mercy, rebirth, renewal, holy-spirit, good-works, controv
 
 ## Reading: Titus 3
 
+Listen to: [Titus chapter 3](https://www.biblegateway.com/audio/mclean/esv/Titus.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Titus 3 brings Paul's letter to its conclusion with a passage that ranks among the most theologically significant in the Pastoral Epistles. Verses 4-7 form what many scholars believe is an early Christian hymn or creedal statement — a condensed summary of salvation that moves from God's initiative, through the mechanism of rebirth and renewal by the Holy Spirit, to the inheritance of eternal life. The passage is remarkable for its trinitarian structure, its emphasis on divine mercy over human merit, and its insistence that saved people are devoted to good works.

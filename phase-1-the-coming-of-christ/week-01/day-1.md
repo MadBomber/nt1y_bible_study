@@ -12,6 +12,8 @@ tags: [john, prologue, logos, incarnation, divinity-of-christ, phase-1]
 
 ## Reading: John 1:1-18
 
+Listen to: [John chapter 1](https://www.biblegateway.com/audio/mclean/esv/John.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The Gospel of John was likely written between 85 and 95 AD, making it the last of the four Gospels to be composed. By the time John wrote, the church had been reflecting on the significance of Jesus for over half a century. The synoptic Gospels -- Matthew, Mark, and Luke -- were already in circulation, each telling the story of Jesus' life, death, and resurrection. John chose a radically different starting point. Where Matthew began with Abraham, Luke with the temple, and Mark with the wilderness, John reached back before creation itself. His opening words, "In the beginning" (*en arche*), are a deliberate echo of Genesis 1:1, signaling to every reader steeped in the Hebrew scriptures that what follows is nothing less than a new creation story.

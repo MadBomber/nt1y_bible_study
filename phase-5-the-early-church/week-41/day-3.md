@@ -12,6 +12,8 @@ tags: [phase-5, philippians, joy, partnership, gospel-advance, to-live-is-christ
 
 ## Reading: Philippians 1
 
+Listen to: [Philippians chapter 1](https://www.biblegateway.com/audio/mclean/esv/Phil.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Philippians 1 introduces us to the warmest and most personal of Paul's surviving letters. To understand its emotional depth, we must first understand the special relationship between Paul and the church at Philippi. The story begins in Acts 16, when Paul, responding to a vision of a man from Macedonia pleading "Come over and help us," crossed the Aegean Sea and arrived in Philippi -- becoming the first to bring the gospel to European soil. Philippi was a Roman colonia, a settlement of retired Roman soldiers established by Augustus after the Battle of Philippi in 42 BC (where Octavian and Antony defeated the forces of Brutus and Cassius). As a colony, Philippi operated under Roman law (ius Italicum), its citizens held Roman citizenship, and Latin was the language of public life. The city was fiercely proud of its Roman identity -- a detail that will become theologically significant when Paul speaks of heavenly "citizenship" (politeuma) in chapter 3.

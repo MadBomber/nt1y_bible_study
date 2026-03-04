@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, faith, wrath, righteousness, abraham, gos
 
 ## Reading: Acts 20:1-6
 
+Listen to: [Acts chapter 20](https://www.biblegateway.com/audio/mclean/esv/Acts.20){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 20:1-6 provides a brief but critically important narrative bridge in Luke's account of Paul's ministry. These six verses cover a period of approximately six to nine months and set the stage for one of the most consequential literary acts in human history: the writing of the letter to the Romans. Understanding the historical circumstances behind this compressed narrative illuminates both the pressures Paul was under and the theological vision that drove him forward.

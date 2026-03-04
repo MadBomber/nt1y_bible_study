@@ -12,6 +12,8 @@ tags: [phase-5, corinth, thessalonians, paul, second-coming, hope]
 
 ## Reading: 1 Thessalonians 1
 
+Listen to: [1 Thessalonians chapter 1](https://www.biblegateway.com/audio/mclean/esv/1Thess.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Thessalonians is almost certainly the earliest surviving letter of Paul and one of the oldest documents in the entire New Testament, written around 50-51 AD from Corinth. This means we are reading a letter composed barely two decades after the crucifixion and resurrection of Jesus -- a firsthand witness to what the earliest Christians actually believed and practiced. The letter predates the writing of any Gospel by at least a decade. When we open 1 Thessalonians, we are as close to the heartbeat of primitive Christianity as any surviving document allows.

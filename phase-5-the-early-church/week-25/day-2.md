@@ -12,6 +12,8 @@ tags: [phase-5, galatians, justification-by-faith, abraham, law, promise, guardi
 
 ## Reading: Galatians 3
 
+Listen to: [Galatians chapter 3](https://www.biblegateway.com/audio/mclean/esv/Gal.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Galatians 3 is the theological engine room of Paul's letter. Having established his apostolic credentials (chapters 1-2), Paul now turns to the Galatians themselves with an argument so tightly woven from Scripture, experience, and logic that it remains one of the most powerful theological demonstrations in the history of Christian thought. His goal is to prove that righteousness has always come through faith, that the Mosaic law was never designed to give life, and that the promise made to Abraham — not the law given to Moses — is the true foundation of the people of God. The implications are world-shaking: if Paul is right, then the ethnic, social, and gender distinctions that structure human society have been relativized by a new identity in Christ.

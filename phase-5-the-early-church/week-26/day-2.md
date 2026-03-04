@@ -12,6 +12,8 @@ tags: [phase-5, timothy, macedonian-call, lydia, philippi, holy-spirit-guidance]
 
 ## Reading: Acts 16:1-15
 
+Listen to: [Acts chapter 16](https://www.biblegateway.com/audio/mclean/esv/Acts.16){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 16:1-15 marks the beginning of Paul's second missionary journey and contains three episodes that together illustrate the sovereign guidance of the Holy Spirit in directing the church's mission: the recruitment of Timothy, the Macedonian vision that redirects Paul to Europe, and the conversion of Lydia at Philippi. Each episode reveals a different dimension of divine guidance — providential preparation, dramatic redirection, and quiet heart-opening — and together they demonstrate that the spread of the gospel is neither random nor entirely humanly planned but a collaboration between divine initiative and human responsiveness.

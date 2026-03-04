@@ -12,6 +12,8 @@ tags: [phase-5, romans, paul-to-jerusalem, gentile-inclusion, missionary-strateg
 
 ## Reading: Romans 15
 
+Listen to: [Romans chapter 15](https://www.biblegateway.com/audio/mclean/esv/Rom.15){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 15 is the practical and strategic conclusion to Paul's most carefully constructed letter. Having spent fourteen chapters laying the theological foundation for the gospel -- from universal sinfulness through justification by faith, union with Christ, life in the Spirit, God's purposes for Israel, and the ethical transformation of the renewed mind -- Paul now draws the threads together in a chapter that is simultaneously pastoral, missional, and deeply personal. The chapter reveals a Paul who is not merely a theologian but a missionary strategist thinking on a global scale, a pastor concerned about the fragile unity of a divided congregation, and a human being who longs for the fellowship and prayers of people he has never met.

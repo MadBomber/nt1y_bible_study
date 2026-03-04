@@ -12,6 +12,8 @@ tags: [phase-2, lords-prayer, persistence, beelzebul, woes, prayer]
 
 ## Reading: Luke 11
 
+Listen to: [Luke chapter 11](https://www.biblegateway.com/audio/mclean/esv/Luke.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 11 is a chapter of confrontations -- with the nature of prayer, with demonic power, with the demand for signs, and with the religious establishment itself. It begins in intimacy, with Jesus teaching his disciples how to pray, and ends in open warfare, with Jesus pronouncing woes on the Pharisees and lawyers. The theological trajectory is deliberate: those who learn to pray rightly will also learn to see clearly, and those who see clearly will recognize the difference between genuine faith and its dangerous counterfeits.

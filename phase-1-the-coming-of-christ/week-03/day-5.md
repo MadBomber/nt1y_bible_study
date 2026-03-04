@@ -12,6 +12,8 @@ phase: "The Coming of Christ"
 
 ## Reading: John 4
 
+Listen to: [John chapter 4](https://www.biblegateway.com/audio/mclean/esv/John.4){:target="_blank" rel="noopener"}
+
 > "Jesus said to her, 'Everyone who drinks of this water will be thirsty again, but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.'" -- John 4:13-14 (ESV)
 
 ---

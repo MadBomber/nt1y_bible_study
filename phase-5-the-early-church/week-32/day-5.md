@@ -12,6 +12,8 @@ tags: [phase-5, resurrection, corinthians, hope, new-covenant, comfort, glory]
 
 ## Reading: 2 Corinthians 3
 
+Listen to: [2 Corinthians chapter 3](https://www.biblegateway.com/audio/mclean/esv/2Cor.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 3 contains one of Paul's most theologically ambitious arguments: a sustained comparison between the ministry of the old covenant under Moses and the ministry of the new covenant under the Spirit. The chapter answers the question Paul posed at the end of chapter 2 -- "Who is sufficient for these things?" -- and it does so by redefining what apostolic ministry is, where its power comes from, and what it produces in those who receive it. The result is a chapter that has profoundly shaped Christian theology of the Spirit, the sacraments, and the relationship between the Old and New Testaments.

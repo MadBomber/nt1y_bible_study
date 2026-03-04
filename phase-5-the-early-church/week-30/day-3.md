@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, church-discipline, marriage, body-as-temple, christ
 
 ## Reading: 1 Corinthians 7
 
+Listen to: [1 Corinthians chapter 7](https://www.biblegateway.com/audio/mclean/esv/1Cor.7){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 7 is the earliest and most extensive Christian treatment of marriage, singleness, divorce, and sexual ethics in the New Testament. It is also one of the most frequently misunderstood chapters in Paul's letters, in part because Paul is responding to specific questions from the Corinthians -- questions we do not have. He signals this at the outset: "Now concerning the matters about which you wrote" (v. 1), introducing the formula *peri de* ("now concerning") that will structure the rest of the letter (7:1, 7:25, 8:1, 12:1, 16:1). We are hearing one side of a conversation, which makes interpretation challenging.

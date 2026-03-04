@@ -12,6 +12,8 @@ tags: [phase-5, ephesus, corinthians, divisions, wisdom, cross, spiritual-maturi
 
 ## Reading: 1 Corinthians 2
 
+Listen to: [1 Corinthians chapter 2](https://www.biblegateway.com/audio/mclean/esv/1Cor.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 2 continues and deepens the argument Paul began in chapter 1 about the relationship between divine wisdom and human wisdom. Having established that the cross overturns all human categories of wisdom and power, Paul now makes two further moves: first, he provides an autobiographical illustration of his own deliberate rejection of rhetorical sophistication (verses 1-5); second, he develops a theology of spiritual revelation, arguing that God's wisdom is inaccessible to human reason alone and can only be known through the Spirit (verses 6-16). The chapter is one of the most important treatments of epistemology -- how we know what we know about God -- in the entire New Testament.

@@ -12,6 +12,8 @@ tags: [phase-6, 2-peter, false-teachers, judgment, angels, flood, sodom, balaam,
 
 ## Reading: 2 Peter 2
 
+Listen to: [2 Peter chapter 2](https://www.biblegateway.com/audio/mclean/esv/2Pet.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Peter 2 is one of the most scorching denunciations in the New Testament -- a sustained exposure of false teachers who have infiltrated the Christian community. The chapter shares extensive material with the epistle of Jude (which we will read on Day 5), and most scholars believe either Peter drew on Jude's letter or both drew on a common source. Regardless of the literary relationship, the pastoral urgency is identical: false teachers are a mortal threat to the church, and they must be identified, exposed, and resisted.

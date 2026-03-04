@@ -12,6 +12,8 @@ tags: [phase-4, gethsemane, trial, anointing, passover, denial, betrayal]
 
 ## Reading: Mark 14
 
+Listen to: [Mark chapter 14](https://www.biblegateway.com/audio/mclean/esv/Mark.14){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 14 is the most concentrated chapter in what is widely regarded as the earliest written Gospel, and it covers the same ground as Matthew 26 with a rawness and urgency that are hallmarks of Mark's style. Ancient tradition, preserved by Papias (early second century) and cited by Eusebius, held that Mark recorded the preaching of Peter in Rome. If this is accurate, then Mark 14 carries the voice of an eyewitness -- and not just any eyewitness but the disciple who denied Jesus three times. The chapter's unsparing honesty about the disciples' failures may reflect Peter's own anguished retelling.

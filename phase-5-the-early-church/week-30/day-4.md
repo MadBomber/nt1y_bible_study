@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, church-discipline, marriage, body-as-temple, christ
 
 ## Reading: 1 Corinthians 8
 
+Listen to: [1 Corinthians chapter 8](https://www.biblegateway.com/audio/mclean/esv/1Cor.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The question of food offered to idols (*eidolothyton*) was among the most practically urgent and theologically complex issues facing early Christians in the Greco-Roman world. Paul introduces this topic with the formula "now concerning" (*peri de*), indicating that the Corinthians had specifically asked about it in their letter. The issue was not abstract. In a city like Corinth, virtually every aspect of social, economic, and civic life intersected with pagan religion. Meat sold in the public marketplace (*macellum*, referenced in 10:25) had often been sacrificed at a temple before being sold by the butchers. Business dinners, civic celebrations, guild meetings, and family events were regularly held in temple dining rooms adjacent to the altars of various gods. Archaeological excavations at Corinth have uncovered numerous such dining rooms, including the famous Asklepion (temple of the healing god Asclepius) with its small banquet halls. To refuse all meat associated with idols was to withdraw from the social and economic fabric of the city. To participate without qualm was to risk entanglement with paganism.

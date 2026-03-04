@@ -12,6 +12,8 @@ tags: [phase-3, repentance, parables, narrow-door, lament-over-jerusalem, luke]
 
 ## Reading: Luke 13
 
+Listen to: [Luke chapter 13](https://www.biblegateway.com/audio/mclean/esv/Luke.13){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 13 is situated within Luke's extensive travel narrative (9:51-19:44), the long section unique to this Gospel in which Jesus is steadily making his way toward Jerusalem. The chapter opens with a question about a current event: Pilate had apparently mingled the blood of some Galilean worshippers with their sacrifices. This incident is not recorded in any other historical source, but it fits perfectly with what we know of Pontius Pilate from Josephus and Philo -- a governor known for provocative and sometimes brutal actions. The people who bring this report to Jesus seem to be operating under a common theological assumption in first-century Judaism (and in many cultures today): that catastrophic suffering must be divine punishment for particularly grievous sin.

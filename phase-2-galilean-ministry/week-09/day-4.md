@@ -12,6 +12,8 @@ tags: [phase-2, bread-of-life, clean-unclean, faith, mark, healing]
 
 ## Reading: Mark 7
 
+Listen to: [Mark chapter 7](https://www.biblegateway.com/audio/mclean/esv/Mark.7){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 7 covers much of the same ground as Matthew 15 but with distinctive emphases that reflect Mark's audience and theological concerns. Mark is widely understood to be writing primarily for a Gentile (likely Roman) audience, and this shapes how he presents the material. Most notably, Mark includes a parenthetical explanation of Jewish hand-washing customs (vv. 3-4) that Matthew omits, since Matthew's Jewish-Christian readers would already be familiar with them. Mark explains that "the Pharisees and all the Jews do not eat unless they wash their hands properly, holding to the tradition of the elders, and when they come from the marketplace, they do not eat unless they wash." This editorial aside tells us that Mark's readers needed basic instruction about Jewish ritual practices -- they were culturally distant from the world in which Jesus operated.

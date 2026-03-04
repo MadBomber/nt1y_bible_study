@@ -12,6 +12,8 @@ tags: [phase-2, passion-prediction, servanthood, discipleship, salt]
 
 ## Reading: Mark 9:30-50
 
+Listen to: [Mark chapter 9](https://www.biblegateway.com/audio/mclean/esv/Mark.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 9:30-50 is one of the most searching passages in the Gospels -- a section where the distance between Jesus' understanding of his mission and the disciples' understanding of their role is exposed with painful clarity. Jesus speaks of his death; the disciples argue about who among them is the greatest. Jesus embraces a child as the model of kingdom citizenship; the disciples try to shut down an unauthorized exorcist. Jesus issues some of the most severe warnings in all of Scripture about the danger of causing others to stumble. The passage moves from prediction to correction to warning, and its cumulative effect is a comprehensive redefinition of what it means to follow Jesus.

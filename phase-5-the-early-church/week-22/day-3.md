@@ -12,6 +12,8 @@ tags: [phase-5, persecution, scattering, philip, samaria, ethiopian-eunuch, isai
 
 ## Reading: Acts 8
 
+Listen to: [Acts chapter 8](https://www.biblegateway.com/audio/mclean/esv/Acts.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 8 opens with a sentence that is simultaneously devastating and providential: "And Saul approved of his execution" (8:1). The Greek word syneudokeo means more than passive agreement; it implies active endorsement, hearty consent. Saul did not merely witness Stephen's death -- he sanctioned it. And on that day, Luke tells us, "a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria." The scattering (diaspora, the same word used for the Jewish diaspora) is one of the most consequential events in Christian history, because it accomplished precisely what Jesus had commanded in Acts 1:8: "You will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth." The Jerusalem church had been content to remain in Jerusalem. Now God used the violence of persecution to propel the gospel outward, fulfilling Christ's commission through the very opposition intended to destroy it.

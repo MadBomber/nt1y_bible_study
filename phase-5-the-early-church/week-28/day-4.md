@@ -12,6 +12,8 @@ tags: [phase-5, day-of-the-lord, eschatology, thessalonians, idleness, apollos]
 
 ## Reading: 2 Thessalonians 3
 
+Listen to: [2 Thessalonians chapter 3](https://www.biblegateway.com/audio/mclean/esv/2Thess.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Thessalonians 3 addresses a problem that Paul had already flagged in his first letter (1 Thessalonians 4:11-12, 5:14) but that has now intensified to the point of requiring a more forceful response. Some members of the Thessalonian community have become ataktoi -- a Greek word typically translated "idle" or "disorderly." The term originally came from military vocabulary, describing a soldier who breaks ranks or refuses to maintain formation. In Paul's usage, it describes believers who have abandoned their daily responsibilities and are living off the generosity of others while contributing nothing to the community.

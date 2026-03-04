@@ -12,6 +12,8 @@ tags: [phase-5, resurrection, corinthians, hope, new-covenant, comfort, glory]
 
 ## Reading: 1 Corinthians 16
 
+Listen to: [1 Corinthians chapter 16](https://www.biblegateway.com/audio/mclean/esv/1Cor.16){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 After the theological heights of chapter 15, Paul descends to the practical realities of church life in chapter 16 -- yet even these seemingly mundane matters carry profound theological significance. The chapter addresses three topics: the collection for the saints in Jerusalem (vv. 1-4), Paul's travel plans (vv. 5-12), and final exhortations and greetings (vv. 13-24). Together they reveal the social, financial, and relational networks that sustained the early church and demonstrate that for Paul, theology and logistics were never separable.

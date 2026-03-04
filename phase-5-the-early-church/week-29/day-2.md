@@ -12,6 +12,8 @@ tags: [phase-5, ephesus, corinthians, divisions, wisdom, cross, spiritual-maturi
 
 ## Reading: 1 Corinthians 1
 
+Listen to: [1 Corinthians chapter 1](https://www.biblegateway.com/audio/mclean/esv/1Cor.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians was written from Ephesus around 53-55 AD during Paul's extended stay there (Acts 19). The letter is Paul's response to multiple reports of problems in the Corinthian church. He has received oral information from "Chloe's people" (1:11) about divisions and factions, and he has also received a letter from the Corinthians asking questions about marriage, food offered to idols, spiritual gifts, and the resurrection (7:1). First Corinthians is therefore both a reactive and a responsive document -- Paul is addressing problems he has been told about and answering questions he has been asked.

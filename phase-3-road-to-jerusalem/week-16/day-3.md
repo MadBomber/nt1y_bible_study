@@ -12,6 +12,8 @@ tags: [phase-3, olivet-discourse, eschatology, second-coming, signs]
 
 ## Reading: Matthew 24
 
+Listen to: [Matthew chapter 24](https://www.biblegateway.com/audio/mclean/esv/Matt.24){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 24 is the heart of the Olivet Discourse, the longest sustained block of eschatological teaching attributed to Jesus in the Synoptic Gospels. The setting is carefully constructed by Matthew: as Jesus and his disciples leave the Temple, the disciples point out the magnificence of the buildings. Herod's Temple was a structure of breathtaking grandeur -- Josephus describes walls of white stone blocks measuring roughly 37 feet long, 12 feet high, and 18 feet wide, with the Temple's facade gleaming with gold plates that reflected the morning sun so brilliantly that observers had to look away (Jewish War 5.5.6). The rabbis said, "He who has not seen the Temple of Herod has never seen a beautiful building" (Baba Bathra 4a). When Jesus responds, "Truly, I say to you, there will not be left here one stone upon another that will not be thrown down" (24:2), the statement would have been as psychologically devastating to his disciples as predicting the total destruction of Washington, D.C., and the Vatican on the same day would be to a modern American Christian. The Temple was not merely a religious building; it was the axis of the Jewish world, the place where heaven and earth intersected, the dwelling of God's Name.

@@ -12,6 +12,8 @@ tags: [phase-5, romans, israel, olive-tree, living-sacrifice, ethics, love, chri
 
 ## Reading: Romans 12
 
+Listen to: [Romans chapter 12](https://www.biblegateway.com/audio/mclean/esv/Rom.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 12 is one of the most important transitional moments in all of Paul's letters. The word "therefore" (*oun*) in verse 1 carries the accumulated weight of everything Paul has argued in the preceding eleven chapters -- the universal condemnation of humanity, justification by faith, union with Christ, life in the Spirit, God's sovereign purposes for Israel, and the irrevocable nature of divine calling. All of that theology now presses toward a single practical conclusion: "I urge you, brothers and sisters, in view of God's mercy, to offer your bodies as a living sacrifice, holy and pleasing to God -- this is your true and proper worship" (v. 1). The word Paul uses for "urge" is *parakaleō*, which carries the warmth of pastoral exhortation rather than the coldness of command. Paul is not issuing orders; he is appealing on the basis of mercy already received.

@@ -12,6 +12,8 @@ tags: [phase-5, day-of-the-lord, eschatology, thessalonians, idleness, apollos]
 
 ## Reading: 1 Thessalonians 5
 
+Listen to: [1 Thessalonians chapter 5](https://www.biblegateway.com/audio/mclean/esv/1Thess.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Thessalonians 5 brings Paul's earliest letter to its climax, weaving together eschatological warning, ethical instruction, and liturgical exhortation into a single densely packed chapter. Having comforted the Thessalonians about their dead in chapter 4, Paul now turns to the timing of Christ's return and the kind of life it demands. The chapter can be divided into three movements: the Day of the Lord (verses 1-11), instructions for community life (verses 12-22), and a closing prayer and benediction (verses 23-28).

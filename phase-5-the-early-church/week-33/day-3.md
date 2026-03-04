@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, suffering, reconciliation, generosity, ministry]
 
 ## Reading: 2 Corinthians 6
 
+Listen to: [2 Corinthians chapter 6](https://www.biblegateway.com/audio/mclean/esv/2Cor.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 6 is a chapter of dramatic contrasts -- between suffering and commendation, between darkness and light, between the temples of idols and the temple of the living God. It falls into two major sections: Paul's extended catalog of apostolic credentials through hardship (vv. 1-10) and his passionate appeal for the Corinthians to separate from corrupting associations (vv. 11-18). Both sections are rooted in the same conviction: authentic ministry and authentic discipleship are demonstrated not by outward impressiveness but by costly faithfulness.

@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, sanctification, spirit, sovereignty, adam
 
 ## Reading: Romans 5
 
+Listen to: [Romans chapter 5](https://www.biblegateway.com/audio/mclean/esv/Rom.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 5 is the hinge of the entire letter. Paul has spent four chapters establishing that both Jews and Gentiles stand condemned before God (1:18-3:20) and that justification comes by faith apart from works of the law, as demonstrated by Abraham (3:21-4:25). Now he turns to the consequences of justification -- what it produces in the life of the believer and in the grand narrative of human history. The chapter divides naturally into two movements: verses 1-11 describe the present blessings of justification, and verses 12-21 present the Adam-Christ typology that explains how one man's act can affect the entire human race.

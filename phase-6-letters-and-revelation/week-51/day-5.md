@@ -12,6 +12,8 @@ tags: [phase-6, revelation, scroll, lamb, lion-of-judah, worthy, heavenly-worshi
 
 ## Reading: Revelation 5
 
+Listen to: [Revelation chapter 5](https://www.biblegateway.com/audio/mclean/esv/Rev.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Revelation 5 is the dramatic and theological climax of the book's opening movement. If chapter 4 established the setting — the throne room of heaven, the sovereignty of God, the ceaseless worship of the Creator — chapter 5 introduces the crisis and its resolution. A scroll appears in God's right hand, sealed with seven seals, and the question that reverberates through heaven and earth and under the earth is devastating in its simplicity: "Who is worthy to open the scroll and break its seals?" (5:2). The answer — the Lion who is also the Lamb — is the most important christological declaration in the book of Revelation and one of the most profound in all of Scripture. The paradox at the heart of chapter 5 — that the conquering Lion conquers precisely by being the slain Lamb — is the key that unlocks the entire book and, arguably, the entire biblical narrative.

@@ -12,6 +12,8 @@ tags: [phase-5, ephesians, armor-of-god, spiritual-warfare, family, prayer]
 
 ## Reading: Ephesians 6
 
+Listen to: [Ephesians chapter 6](https://www.biblegateway.com/audio/mclean/esv/Eph.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Ephesians 6 completes the household code that began in chapter 5 and then launches into the letter's dramatic climax: the Armor of God. The chapter divides naturally into three sections -- family relationships (6:1-4), the slave-master dynamic (6:5-9), and spiritual warfare (6:10-20) -- but the underlying logic is seamless. Paul has spent five chapters describing the cosmic scope of God's reconciling work in Christ; now he makes clear that this cosmic work is contested by cosmic powers, and every believer must be equipped for the battle.

@@ -12,6 +12,8 @@ tags: [phase-5, acts, malta, rome, house-arrest, kingdom-preaching, open-ending]
 
 ## Reading: Acts 28
 
+Listen to: [Acts chapter 28](https://www.biblegateway.com/audio/mclean/esv/Acts.28){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 28 is simultaneously a conclusion and a beginning. It concludes the most ambitious narrative in the New Testament -- Luke's two-volume history of salvation from the birth of John the Baptist to Paul's arrival in Rome -- yet it refuses to provide the closure that readers expect. We never learn the outcome of Paul's trial before Caesar. We never hear the verdict. Luke does not narrate Paul's death. Instead, Acts ends with an image of a man in chains preaching freely, and the last word of the book is akolytos -- "without hindrance." This is not sloppy editing; it is a theological statement. The story of the gospel does not end with Paul's story. The book of Acts has no proper ending because the acts of the risen Christ through his Spirit are still ongoing.

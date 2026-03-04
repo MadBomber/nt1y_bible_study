@@ -12,6 +12,8 @@ tags: [phase-6, 1-timothy, contentment, money, good-fight, stewardship]
 
 ## Reading: 1 Timothy 6
 
+Listen to: [1 Timothy chapter 6](https://www.biblegateway.com/audio/mclean/esv/1Tim.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Timothy 6 concludes Paul's first letter to Timothy with some of the most penetrating teaching on money and materialism in the New Testament. The chapter's warnings about wealth have resonated across two millennia because they address a temptation that transcends every culture and era — the seductive belief that financial security can satisfy the deepest human longings.

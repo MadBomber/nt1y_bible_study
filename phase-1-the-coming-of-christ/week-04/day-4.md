@@ -12,6 +12,8 @@ tags: [mark, kingdom, authority, healing, demons, leper, messianic-secret, phase
 
 ## Reading: Mark 1:14-45
 
+Listen to: [Mark chapter 1](https://www.biblegateway.com/audio/mclean/esv/Mark.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark's Gospel is widely regarded as the earliest written Gospel, likely composed between 65 and 70 AD, possibly in Rome during or shortly after the Neronian persecution. Its character is utterly distinctive. Where Matthew is systematic and didactic, and Luke is literary and cosmopolitan, Mark is urgent, visceral, and compressed. His Greek is rough and colloquial, his sentences are strung together with the conjunction *kai* ("and"), and his most characteristic word is *euthys* ("immediately"), which appears over forty times in this short Gospel. Mark does not stroll through the ministry of Jesus; he sprints. The effect is of a breathless eyewitness account -- tradition associates Mark with the apostle Peter, and many scholars see Peter's vivid, first-person perspective behind the narrative.

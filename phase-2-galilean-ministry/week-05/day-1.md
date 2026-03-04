@@ -12,6 +12,8 @@ tags: [phase-2, mark, twelve-apostles, beelzebul, authority, unforgivable-sin]
 
 ## Reading: Mark 3
 
+Listen to: [Mark chapter 3](https://www.biblegateway.com/audio/mclean/esv/Mark.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 3 is a chapter of decisive action and escalating conflict, and understanding its historical setting illuminates why these events mattered so deeply in their original context. The chapter opens with Jesus in a synagogue on the Sabbath, where a man with a withered hand is present. The Pharisees are watching closely -- not to see a miracle of compassion but to find grounds for accusation. The Greek verb *paratereō* ("they watched closely") carries the connotation of hostile surveillance. The question Jesus poses -- "Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?" -- is not merely rhetorical. It exposes the absurdity of a religious system that would prefer a man remain crippled rather than allow a healing on the holy day. Jesus' anger (*met' orgēs*) and grief (*syllypoumenos*) at their hardness of heart are among the most emotionally intense moments in the Gospels. Mark alone records this combination of anger and sorrow, giving us a window into the inner life of Jesus that the other evangelists do not.

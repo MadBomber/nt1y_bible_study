@@ -12,6 +12,8 @@ tags: [phase-5, corinth, thessalonians, paul, second-coming, hope]
 
 ## Reading: 1 Thessalonians 3
 
+Listen to: [1 Thessalonians chapter 3](https://www.biblegateway.com/audio/mclean/esv/1Thess.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Thessalonians 3 pulls back the curtain on a critical behind-the-scenes moment in the early Christian mission. After Paul was forced to flee Thessalonica by night (Acts 17:10), he traveled to Berea, where he again faced opposition and was sent away, this time to Athens. Silas and Timothy remained in Berea with instructions to join Paul as soon as possible (Acts 17:14-15). When Timothy arrived in Athens, Paul made an agonizing decision: though he was alone and could have used the companionship, he sent Timothy back to Thessalonica to check on the young church. Paul describes the decision with visceral language -- "when we could bear it no longer" (verse 1), repeated for emphasis in verse 5. The Greek word stego means to cover, endure, or contain, and here it conveys the sense of a dam about to break. Paul could no longer contain his anxiety about the Thessalonians.

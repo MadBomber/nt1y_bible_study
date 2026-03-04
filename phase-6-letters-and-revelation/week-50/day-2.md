@@ -12,6 +12,8 @@ tags: [phase-6, 1-john, advocate, obedience, love-of-world, antichrist, anointin
 
 ## Reading: 1 John 2
 
+Listen to: [1 John chapter 2](https://www.biblegateway.com/audio/mclean/esv/1John.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First John 2 is one of the most structurally layered chapters in the Johannine letters, moving through four major themes -- Christ as advocate, obedience as the test of knowing God, the danger of worldliness, and the emergence of antichrists -- each of which addresses a specific dimension of the crisis facing the Johannine community. The chapter reads like a pastoral triage operation: John is simultaneously comforting the faithful, exposing the fraudulent, and equipping the community to discern the difference.

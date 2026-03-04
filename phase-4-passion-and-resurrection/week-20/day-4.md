@@ -12,6 +12,8 @@ tags: [phase-4, resurrection, emmaus-road, ascension, luke, scripture-fulfilled]
 
 ## Reading: Luke 24
 
+Listen to: [Luke chapter 24](https://www.biblegateway.com/audio/mclean/esv/Luke.24){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 24 is one of the most beautifully constructed chapters in the New Testament -- a master storyteller's account of the most extraordinary day in human history. It begins at an empty tomb in the gray light before dawn, moves to a dusty road in the afternoon where hearts catch fire, gathers momentum in an upper room where a ghost eats fish, and ends under the open sky at Bethany where the risen Christ ascends into heaven with hands outstretched in blessing. The entire chapter unfolds within a single day, and by its end, everything has changed.

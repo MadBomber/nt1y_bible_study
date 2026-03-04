@@ -12,6 +12,8 @@ tags: [phase-6, colossians, christ-hymn, supremacy-of-christ, reconciliation, co
 
 ## Reading: Colossians 1
 
+Listen to: [Colossians chapter 1](https://www.biblegateway.com/audio/mclean/esv/Col.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Colossians introduces us to a church Paul never personally founded or visited. The Colossian church was established by Epaphras, one of Paul's converts and co-workers, during Paul's extended ministry in Ephesus (Acts 19:10 notes that "all the residents of Asia heard the word of the Lord"). Colossae was a small city in the Lycus Valley of the Roman province of Asia (modern western Turkey), situated along a major trade route between Ephesus and the East. Once a significant city, Colossae had declined in importance by the first century, overshadowed by its neighboring cities Laodicea and Hierapolis. It was, by all accounts, the least significant city to which Paul ever wrote a canonical letter — yet the theological content of this epistle stands among the highest in the New Testament.

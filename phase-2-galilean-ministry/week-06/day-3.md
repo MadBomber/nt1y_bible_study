@@ -12,6 +12,8 @@ tags: [phase-2, matthew, miracles, paralytic, calling, jairus, harvest, forgiven
 
 ## Reading: Matthew 9
 
+Listen to: [Matthew chapter 9](https://www.biblegateway.com/audio/mclean/esv/Matt.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 9 is a densely packed chapter that continues the sequence of miracle stories begun in chapter 8, but with an important escalation: the miracles now generate explicit theological controversy, and the question of Jesus' identity sharpens into outright conflict. The chapter also contains one of the most personally significant stories in the Gospel -- the calling of its author, Matthew the tax collector.

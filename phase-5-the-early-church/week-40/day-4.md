@@ -12,6 +12,8 @@ tags: [phase-5, ephesians, mystery, gentile-inclusion, prayer, power, love]
 
 ## Reading: Ephesians 3
 
+Listen to: [Ephesians chapter 3](https://www.biblegateway.com/audio/mclean/esv/Eph.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Ephesians 3 is the chapter where Paul reveals the secret that has been driving the entire letter. The word "mystery" (mysterion) appears three times in this chapter (verses 3, 4, 9), and its content is stated with unmistakable clarity: "the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel" (verse 6). In the ancient world, a mysterion was not a puzzle to be solved but a secret to be revealed -- something hidden that could only be known through divine disclosure. Paul is not speaking of esoteric knowledge available to an inner circle; he is describing a divine plan that has been unveiled for all to see.

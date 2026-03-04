@@ -12,6 +12,8 @@ tags: [phase-3, triumphal-entry, temple-cleansing, authority, passion-week]
 
 ## Reading: Mark 12:28-44
 
+Listen to: [Mark chapter 12](https://www.biblegateway.com/audio/mclean/esv/Mark.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 After the confrontational exchanges with the Pharisees, Herodians, and Sadducees, Mark now records an encounter of a completely different tone. A scribe -- a Torah scholar, a professional interpreter of Jewish law -- approaches Jesus with what appears to be a genuine question: "Which commandment is the most important of all?" In Matthew's parallel, this scribe is testing Jesus, but Mark presents him more sympathetically, as one who has observed Jesus' skill in debate and wants an honest answer. The question itself was a recognized topic of rabbinic discussion. The Torah contains 613 commandments (248 positive, 365 negative, according to later rabbinic reckoning), and Jewish teachers regularly debated which were "heavy" (fundamental) and which were "light" (derivative). The famous Rabbi Hillel, a generation before Jesus, had summarized the Torah with the negative Golden Rule: "What is hateful to you, do not do to your neighbor. That is the whole Torah; the rest is commentary."

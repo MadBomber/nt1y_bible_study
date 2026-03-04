@@ -12,6 +12,8 @@ tags: [phase-5, james, faith-and-works, favoritism, abraham, rahab]
 
 ## Reading: James 2
 
+Listen to: [James chapter 2](https://www.biblegateway.com/audio/mclean/esv/Jas.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 James 2 is one of the most debated chapters in the New Testament, largely because of a superficial reading that pits James against Paul on the question of justification. Martin Luther famously called the letter of James "an epistle of straw," though he later moderated this view. The chapter divides naturally into two sections -- the sin of favoritism (2:1-13) and the relationship between faith and works (2:14-26) -- but the two are more tightly connected than they first appear. Favoritism is precisely the kind of dead faith that James will attack in the second half: a faith that claims to believe God is no respecter of persons while actively respecting persons. The chapter moves from a concrete social problem to a theological principle, demonstrating that the theology is not abstract but lived.

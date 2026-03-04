@@ -12,6 +12,8 @@ tags: [phase-4, upper-room-discourse, farewell-discourse, holy-spirit, way-truth
 
 ## Reading: John 14
 
+Listen to: [John chapter 14](https://www.biblegateway.com/audio/mclean/esv/John.14){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 14 opens in an atmosphere of thick grief and confusion. Jesus has just predicted Judas' betrayal, Peter's denial, and his own imminent departure. The disciples are shaken to their core, and Jesus begins with words that have comforted the afflicted for two millennia: "Let not your hearts be troubled. Believe in God; believe also in me." The Greek verb for "troubled" (tarassein) is the same word John used earlier to describe Jesus' own emotional turmoil at Lazarus' tomb (11:33) and at the thought of his coming death (12:27). Jesus is not offering a platitude from a position of detachment; he is speaking as one who knows the full weight of the anguish he is asking them to bear.

@@ -12,6 +12,8 @@ phase: "The Coming of Christ"
 
 ## Reading: Luke 4:1-13
 
+Listen to: [Luke chapter 4](https://www.biblegateway.com/audio/mclean/esv/Luke.4){:target="_blank" rel="noopener"}
+
 > "Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit in the wilderness for forty days, being tempted by the devil." -- Luke 4:1-2a (ESV)
 
 ---

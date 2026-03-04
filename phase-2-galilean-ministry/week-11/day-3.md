@@ -12,6 +12,8 @@ tags: [phase-2, sending-72, good-samaritan, mary-martha, mission]
 
 ## Reading: Luke 10
 
+Listen to: [Luke chapter 10](https://www.biblegateway.com/audio/mclean/esv/Luke.10){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 10 is one of the richest chapters in the New Testament, weaving together three major episodes that collectively define the scope, ethic, and posture of kingdom life: the sending of the Seventy-Two, the parable of the Good Samaritan, and the encounter with Mary and Martha. Each episode builds on the previous one, creating a theological arc that moves from mission to mercy to devotion.

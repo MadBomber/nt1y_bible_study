@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, apostolic-authority, suffering, weakness, false-t
 
 ## Reading: 2 Corinthians 9
 
+Listen to: [2 Corinthians chapter 9](https://www.biblegateway.com/audio/mclean/esv/2Cor.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 9 continues and completes Paul's extended appeal for the collection for the Jerusalem church that began in chapter 8. Some scholars have suggested that chapter 9 was originally a separate letter because it seems to restart the discussion of the collection, but the most likely explanation is that Paul is addressing a different aspect of the same topic. In chapter 8, he held up the Macedonian churches as a model and laid the theological foundation of giving in the self-impoverishment of Christ. In chapter 9, he shifts to the practical logistics of readiness and the theological principle that God himself is the source and sustainer of all generosity.

@@ -12,6 +12,8 @@ tags: [phase-4, crucifixion, cross, trial, gethsemane, prayer, peter, denial, sa
 
 ## Reading: Luke 22:39-71
 
+Listen to: [Luke chapter 22](https://www.biblegateway.com/audio/mclean/esv/Luke.22){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The Mount of Olives rises to the east of Jerusalem, separated from the Temple Mount by the narrow Kidron Valley. On its lower western slope lay a garden called Gethsemane -- from the Aramaic gat shemanim, meaning "oil press." The irony is devastating: in the place where olives were crushed to yield their oil, the Messiah would be crushed under a burden no human being has ever borne. Luke tells us Jesus went there "as was his custom" (22:39), suggesting this was a regular place of retreat during his Jerusalem visits. Judas knew this. The routine that expressed Jesus' devotion became the intelligence that enabled his betrayal.

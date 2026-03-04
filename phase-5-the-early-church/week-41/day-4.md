@@ -12,6 +12,8 @@ tags: [phase-5, philippians, kenosis, christ-hymn, humility, exaltation, obedien
 
 ## Reading: Philippians 2
 
+Listen to: [Philippians chapter 2](https://www.biblegateway.com/audio/mclean/esv/Phil.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Philippians 2 contains what is widely regarded as the most important Christological passage in the Pauline corpus and one of the most significant theological texts in the entire New Testament. The Christ Hymn of 2:5-11 (sometimes called the Carmen Christi) has generated more scholarly discussion than perhaps any other paragraph Paul wrote. Whether Paul composed it himself or is quoting an earlier Christian hymn that was already in liturgical use, the passage represents the earliest sustained reflection on the identity of Christ that has survived from the apostolic age. It predates all four Gospels in its written form, and it makes claims about Jesus that are breathtaking in their scope.

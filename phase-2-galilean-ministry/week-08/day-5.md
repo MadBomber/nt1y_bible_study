@@ -12,6 +12,8 @@ tags: [phase-2, feeding-5000, walking-on-water, bread-of-life, signs]
 
 ## Reading: John 6:1-40
 
+Listen to: [John chapter 6](https://www.biblegateway.com/audio/mclean/esv/John.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 6 is one of the most theologically dense chapters in the New Testament, and the section we read today -- verses 1-40 -- moves from two of Jesus' most spectacular miracles to the opening salvo of his most controversial discourse. What the Synoptic Gospels narrate as acts of power, John interprets as signs (semeia) that point beyond themselves to the identity and mission of the one who performs them. The feeding of the five thousand and the walking on water are not merely demonstrations of supernatural ability; they are enacted parables of who Jesus is and what he offers to the world.

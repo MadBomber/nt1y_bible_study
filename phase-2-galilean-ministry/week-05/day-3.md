@@ -12,6 +12,8 @@ tags: [phase-2, matthew, sermon-on-mount, lords-prayer, fasting, anxiety, treasu
 
 ## Reading: Matthew 6
 
+Listen to: [Matthew chapter 6](https://www.biblegateway.com/audio/mclean/esv/Matt.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 6 forms the heart of the Sermon on the Mount, and its central concern is the interior life of the disciple -- the hidden world of motivation, devotion, and trust that lies beneath all outward behavior. The chapter divides into three major sections: the practice of piety (6:1-18), the orientation of the heart (6:19-24), and the antidote to anxiety (6:25-34). Together they form a coherent argument: authentic religion is practiced before an audience of One, the heart must be directed toward heavenly rather than earthly treasure, and the person whose heart is rightly oriented is freed from the tyranny of worry.

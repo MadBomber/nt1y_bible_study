@@ -12,6 +12,8 @@ tags: [phase-5, james, worldliness, humility, submission, judging, boasting]
 
 ## Reading: James 4
 
+Listen to: [James chapter 4](https://www.biblegateway.com/audio/mclean/esv/Jas.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 James 4 is one of the most confrontational chapters in the New Testament epistles. Where modern pastoral writing often softens its tone with caveats and qualifications, James speaks with the directness of an Old Testament prophet — diagnosing the root cause of conflict within the Christian community, prescribing the remedy of radical humility, and issuing stern warnings against judgmentalism and presumptuous planning. The chapter moves from diagnosis to prescription to warning with the logical force of a courtroom argument, and its central thesis is as uncomfortable as it is unavoidable: the fundamental human problem is not ignorance but idolatry — the displacement of God from the center of life by competing loves.

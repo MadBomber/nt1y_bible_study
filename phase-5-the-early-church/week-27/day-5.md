@@ -12,6 +12,8 @@ tags: [phase-5, corinth, thessalonians, paul, second-coming, hope]
 
 ## Reading: 1 Thessalonians 4
 
+Listen to: [1 Thessalonians chapter 4](https://www.biblegateway.com/audio/mclean/esv/1Thess.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Thessalonians 4 marks a transition in the letter from thanksgiving and personal reflection to direct ethical instruction and theological teaching. The chapter divides naturally into two major sections: a call to holy living, particularly in the area of sexual ethics (verses 1-12), and instruction about the fate of believers who have died before Christ's return (verses 13-18). Both sections address urgent pastoral needs in the Thessalonian community, and both are grounded in the eschatological expectation that pervades the entire letter.

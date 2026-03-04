@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, church-discipline, marriage, body-as-temple, christ
 
 ## Reading: 1 Corinthians 5
 
+Listen to: [1 Corinthians chapter 5](https://www.biblegateway.com/audio/mclean/esv/1Cor.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Paul opens his treatment of specific Corinthian problems with a case so scandalous that even the phrase he uses conveys shock: "It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans" (v. 1). The Greek word *porneia*, broadly covering all forms of sexual immorality, is here specified as a man "living with his father's wife" -- almost certainly his stepmother. Roman law explicitly prohibited such unions; the *Lex Iulia de adulteriis* of Augustus imposed severe penalties for incestuous relationships, and even the relatively permissive sexual culture of Corinth would have found this arrangement disgraceful. The Old Testament was equally unambiguous: Leviticus 18:8 declares, "You shall not uncover the nakedness of your father's wife," and Deuteronomy 22:30 pronounces a curse on anyone who violates this boundary. The father is not mentioned, suggesting he may have died or divorced, but the relationship remains prohibited in both Jewish and Roman legal frameworks.

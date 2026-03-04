@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, son-of-god, angels, christology, superiority, enthronem
 
 ## Reading: Hebrews 1
 
+Listen to: [Hebrews chapter 1](https://www.biblegateway.com/audio/mclean/esv/Heb.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 1 is one of the most theologically dense and exalted openings in all of ancient literature. Without preamble, greeting, or identification of author or audience -- features standard in every other New Testament epistle -- the author launches directly into a declaration about God's climactic self-revelation through His Son. The effect is like a symphony that begins not with a quiet introduction but with the full orchestra at fortissimo. The opening sentence (1:1-4) is a single, majestic period in the Greek that sweeps from the prophets of old to the enthroned Son at God's right hand in one breathless movement.

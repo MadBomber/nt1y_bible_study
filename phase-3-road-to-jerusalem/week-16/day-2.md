@@ -12,6 +12,8 @@ tags: [phase-3, olivet-discourse, eschatology, parables, judgment, woes]
 
 ## Reading: Matthew 23
 
+Listen to: [Matthew chapter 23](https://www.biblegateway.com/audio/mclean/esv/Matt.23){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 23 is the most sustained prophetic denunciation in the New Testament. Jesus, still in the Temple precincts, addresses both the crowds and his disciples about the scribes and Pharisees, then turns to address the leaders directly with seven "woes" -- formal prophetic curses that echo the covenant maledictions of Deuteronomy and the oracles of the Hebrew prophets. The chapter is difficult for modern readers because its language is severe, and centuries of Christian anti-Semitism have distorted its interpretation. It is essential to understand that Jesus speaks here as a Jewish prophet to Jewish leaders, within the prophetic tradition of Amos, Hosea, Isaiah, and Jeremiah, all of whom pronounced equally harsh judgments on Israel's unfaithful shepherds. This is an intra-Jewish prophetic critique, not an outsider's attack.

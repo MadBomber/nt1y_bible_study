@@ -12,6 +12,8 @@ tags: [phase-3, festival-of-tabernacles, i-am-sayings, division, john]
 
 ## Reading: John 7
 
+Listen to: [John chapter 7](https://www.biblegateway.com/audio/mclean/esv/John.7){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The Festival of Tabernacles (*Sukkot*) was the most joyous and popular of the three great pilgrimage festivals prescribed in the Torah, alongside Passover and Pentecost. Celebrated for seven days in the month of Tishri (September-October), it commemorated Israel's forty years of wilderness wandering, during which God sheltered his people in temporary booths (*sukkot*). By the first century, it had become the most attended festival in Jerusalem, with the city swelling to several times its normal population. Josephus called it "the holiest and greatest" of the Hebrew feasts (*Antiquities* 8.4.1). The pilgrims constructed makeshift shelters of branches and lived in them for the week, a tangible reminder of their dependence on God's provision and protection.

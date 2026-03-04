@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, spiritual-gifts, love-chapter, worship, lords-suppe
 
 ## Reading: 1 Corinthians 11
 
+Listen to: [1 Corinthians chapter 11](https://www.biblegateway.com/audio/mclean/esv/1Cor.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 11 addresses two distinct but related problems in Corinthian worship, both rooted in the same fundamental confusion about what it means to gather as the body of Christ. The first half (vv. 2-16) deals with the head-covering controversy, and the second half (vv. 17-34) with the scandalous abuse of the Lord's Supper. Both reveal a congregation that treated worship as an arena for self-assertion rather than mutual edification.

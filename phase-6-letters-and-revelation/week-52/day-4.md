@@ -12,6 +12,8 @@ tags: [phase-6, revelation, woman, dragon, beast, 666, michael, war-in-heaven, a
 
 ## Reading: Revelation 12-14
 
+Listen to: [Revelation chapter 12](https://www.biblegateway.com/audio/mclean/esv/Rev.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Revelation 12-14 forms the dramatic center of the book, pulling back the curtain on the cosmic conflict that lies behind all human history. If chapters 6-11 showed us judgment from the perspective of earth (seals, trumpets, the suffering of witnesses), chapters 12-14 show us the same struggle from the perspective of heaven. We see the protagonists and antagonists of the cosmic drama in their true identities: the woman who bears the Messiah, the dragon who seeks to destroy him, the beasts who exercise the dragon's authority on earth, and the Lamb who stands victorious on Mount Zion.

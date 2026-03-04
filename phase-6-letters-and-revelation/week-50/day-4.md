@@ -12,6 +12,8 @@ tags: [phase-6, 1-john, test-spirits, god-is-love, perfect-love, fear, incarnati
 
 ## Reading: 1 John 4
 
+Listen to: [1 John chapter 4](https://www.biblegateway.com/audio/mclean/esv/1John.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First John 4 contains what may be the most consequential theological declaration in all of Scripture: "God is love" (ho theos agape estin, 4:8, repeated in 4:16). This is not a casual observation but a statement about God's essential nature -- not merely that God loves, or that God is loving, but that love is the defining attribute of his being. Only two other "God is" statements appear in 1 John -- "God is light" (1:5) and "God is spirit" (John 4:24, from the Gospel) -- and together they constitute the Johannine portrait of the divine character. The placement of this declaration within the letter is strategic: it comes after the community has been shaken by false teachers, after the painful reality of schism, and after the call to sacrificial love in chapter 3. John grounds the ethical demand in an ontological reality -- we are called to love because love is what God is.

@@ -12,6 +12,8 @@ tags: [mark, paralytic, forgiveness, levi, sinners, fasting, sabbath, son-of-man
 
 ## Reading: Mark 2
 
+Listen to: [Mark chapter 2](https://www.biblegateway.com/audio/mclean/esv/Mark.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 2 opens a section that scholars often call the "conflict stories" or "controversy narratives" (Mark 2:1-3:6), a carefully arranged sequence of five episodes in which Jesus clashes with the religious authorities over increasingly fundamental questions. These are not random disagreements but a structured escalation: from the authority to forgive sins, to table fellowship with outcasts, to the practice of fasting, to Sabbath observance, and finally to the question of whether it is lawful to do good or harm on the Sabbath. By the end of this sequence (3:6), the Pharisees and Herodians -- normally bitter rivals -- will conspire together to destroy Jesus. Mark 2 contains the first four of these five conflict stories, and understanding their cultural and theological background is essential for hearing what Mark's original audience would have heard.

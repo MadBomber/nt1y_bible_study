@@ -12,6 +12,8 @@ tags: [phase-5, acts, peter, healing, temple, early-church, repentance]
 
 ## Reading: Acts 3
 
+Listen to: [Acts chapter 3](https://www.biblegateway.com/audio/mclean/esv/Acts.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 3 presents the first detailed miracle narrative in the life of the early church, and it follows a pattern that will recur throughout Acts: a dramatic sign is performed, a crowd gathers, and an apostle seizes the moment to proclaim the gospel. The setting is the temple in Jerusalem, and the time is "the hour of prayer, the ninth hour" (3:1) -- approximately 3:00 PM, the time of the evening tamid offering when incense was burned and prayers were offered. Peter and John are not breaking with Judaism; they are participating in its regular worship practices. This detail is important for understanding the earliest church: the first Christians did not see themselves as members of a new religion but as Jews who had recognized their Messiah. The temple remained their center of worship, and the rhythms of Jewish piety structured their daily life.

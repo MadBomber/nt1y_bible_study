@@ -12,6 +12,8 @@ tags: [phase-4, crucifixion, death, burial, atonement, matthew, judas, pilate]
 
 ## Reading: Matthew 27
 
+Listen to: [Matthew chapter 27](https://www.biblegateway.com/audio/mclean/esv/Matt.27){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 27 is the longest and most detail-rich crucifixion account in the New Testament, and it opens not at Golgotha but in the tortured conscience of a traitor. Judas, seeing that Jesus was condemned, "felt remorse" (27:3). The Greek word here is metamelomai -- a term denoting regret, a change of feeling, a wish that one had acted differently. It is critically distinct from metanoeo, the word used throughout the New Testament for genuine repentance -- a fundamental reorientation of the mind and will toward God. Judas experienced the anguish of consequences without the transformation of repentance. He returned the thirty pieces of silver to the chief priests, flung them into the temple sanctuary, and went out and hanged himself. The contrast with Peter is devastating and deliberate: both betrayed Jesus, both wept bitterly, but Peter turned back to the one he had denied while Judas turned in on himself. The difference between remorse and repentance is the difference between despair and restoration.

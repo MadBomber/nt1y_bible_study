@@ -12,6 +12,8 @@ tags: [phase-4, crucifixion, cross, burial, atonement, seven-last-words, temple-
 
 ## Reading: Luke 23:26-56
 
+Listen to: [Luke chapter 23](https://www.biblegateway.com/audio/mclean/esv/Luke.23){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The journey from Pilate's praetorium to Golgotha -- later commemorated as the Via Dolorosa -- was a Roman spectacle of deliberate humiliation. Condemned prisoners were forced to carry the horizontal beam of their cross (the patibulum, weighing roughly 75-125 pounds) through the most crowded streets of the city, preceded by a soldier carrying a titulus, a placard declaring the crime. The route was designed to maximize public visibility: Rome wanted every onlooker to understand the cost of defying its authority. Jesus, already weakened by a night of agonized prayer, the physical trauma of hematidrosis, multiple beatings during the Jewish and Roman trials, and the savage Roman scourging (which alone could be fatal), could not carry his crossbeam the full distance. The soldiers conscripted Simon of Cyrene, a man Luke identifies as coming "from the country" (23:26), likely a Jewish pilgrim who had traveled from the North African city of Cyrene (modern Libya) for Passover. Mark adds that Simon was "the father of Alexander and Rufus" (Mark 15:21), suggesting these sons later became known in the early church. Paul greets a Rufus in Romans 16:13, possibly the same man. If so, the Roman soldier's casual act of forced labor became the event that brought an entire family into the community of faith.

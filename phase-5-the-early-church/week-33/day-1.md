@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, suffering, reconciliation, generosity, ministry]
 
 ## Reading: 2 Corinthians 4
 
+Listen to: [2 Corinthians chapter 4](https://www.biblegateway.com/audio/mclean/esv/2Cor.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 4 is one of the richest chapters in all of Paul's writings, weaving together theology, autobiography, and pastoral exhortation into a single tapestry of breathtaking depth. To grasp its power, we must understand the crisis that provoked it. After Paul's founding visit to Corinth (Acts 18) and his first letter addressing their many problems, the situation deteriorated rather than improved. Rival teachers arrived in Corinth -- Paul calls them "super-apostles" (11:5) and "false apostles, deceitful workmen" (11:13) -- who dazzled the congregation with rhetorical skill, letters of recommendation, and claims to spiritual superiority. They attacked Paul on every front: his speech was "of no account" (10:10), his physical presence was "weak" (10:10), he lacked proper credentials, and his suffering proved that God was not truly with him.

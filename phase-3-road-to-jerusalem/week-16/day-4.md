@@ -12,6 +12,8 @@ tags: [phase-3, olivet-discourse, eschatology, parables, readiness, stewardship,
 
 ## Reading: Matthew 25:1-30
 
+Listen to: [Matthew chapter 25](https://www.biblegateway.com/audio/mclean/esv/Matt.25){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 25:1-30 continues the Olivet Discourse with two parables that press the theme of readiness from different angles. The first -- the Ten Virgins -- addresses the question of preparedness for the bridegroom's arrival. The second -- the Talents -- addresses the question of faithful stewardship during the bridegroom's absence. Together they form a comprehensive vision of what it means to live between the times: the ascension of Jesus and his return. The disciple who takes these parables seriously will be both watchful and industrious, both expectant and productive.

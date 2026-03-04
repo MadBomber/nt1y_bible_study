@@ -12,6 +12,8 @@ tags: [phase-3, lazarus, resurrection-and-life, i-am-sayings, death, miracle, te
 
 ## Reading: John 11:1-44
 
+Listen to: [John chapter 11](https://www.biblegateway.com/audio/mclean/esv/John.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The raising of Lazarus is the seventh and greatest of the signs in John's Gospel, the climactic miracle toward which the entire Book of Signs (chapters 1-12) has been building. Each preceding sign has escalated in scope and significance: turning water to wine (chapter 2), healing a royal official's son at a distance (chapter 4), healing a man paralyzed for thirty-eight years (chapter 5), feeding five thousand (chapter 6), walking on water (chapter 6), and giving sight to a man born blind (chapter 9). Now Jesus confronts the ultimate enemy -- death itself -- and demonstrates his authority over it with a command that reverberates through the ages: "Lazarus, come out!" (v. 43).

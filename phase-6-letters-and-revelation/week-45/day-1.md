@@ -12,6 +12,8 @@ tags: [phase-6, 2-timothy, endurance, approved-workman, discipline, perseverance
 
 ## Reading: 2 Timothy 2
 
+Listen to: [2 Timothy chapter 2](https://www.biblegateway.com/audio/mclean/esv/2Tim.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 When Paul wrote 2 Timothy chapter 2, he was almost certainly confined in Rome for the second and final time, probably around 66-67 AD. His circumstances had deteriorated dramatically since his first Roman imprisonment described at the end of Acts, when he enjoyed the relative freedom of a rented house under guard. Now, according to ancient Christian tradition, Paul was held in what later generations called the Mamertine Prison -- a dark, underground stone chamber near the Roman Forum, accessible only through a hole in the ceiling. Whether or not the traditional identification is exact, Paul's own words confirm that he was chained like a criminal (2 Timothy 2:9), a stark contrast to his earlier experience. The emperor Nero's persecution of Christians had intensified, particularly after the Great Fire of Rome in July 64 AD, which Nero blamed on the Christian community to deflect suspicion from himself. The Roman historian Tacitus describes how Christians were arrested, covered in animal skins and torn apart by dogs, crucified, or set ablaze as human torches to light Nero's gardens. In this atmosphere of state-sponsored terror, merely being associated with Paul was dangerous, which explains why many of his former companions had abandoned him.

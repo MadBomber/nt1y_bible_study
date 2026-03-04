@@ -12,6 +12,8 @@ tags: [phase-5, first-missionary-journey, antioch, paul, barnabas, gentile-missi
 
 ## Reading: Acts 11
 
+Listen to: [Acts chapter 11](https://www.biblegateway.com/audio/mclean/esv/Acts.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 11 opens with a crisis that threatened to fracture the early church before it had barely begun to grow. Peter has returned to Jerusalem from Caesarea, where he had entered the home of Cornelius, a Roman centurion, eaten with uncircumcised Gentiles, and baptized them after witnessing the Holy Spirit fall upon them in unmistakable power. The "circumcision party" -- Jewish believers who insisted that full conversion to Judaism was a prerequisite for fellowship -- immediately challenged Peter. Their objection was not trivial. For a devout Jew, entering a Gentile home and sharing a meal violated deeply held purity codes that had been reinforced through centuries of exile, persecution, and cultural resistance. The food laws and purity boundaries were not mere customs; they were the very markers of covenant identity that had preserved the Jewish people through Babylonian exile, Hellenistic pressure, and Roman domination. To abandon them was, in the eyes of many, to abandon the covenant itself.

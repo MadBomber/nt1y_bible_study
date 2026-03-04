@@ -12,6 +12,8 @@ tags: [phase-4, crucifixion, cross, trial, pilate, herod, barabbas, injustice]
 
 ## Reading: Luke 23:1-25
 
+Listen to: [Luke chapter 23](https://www.biblegateway.com/audio/mclean/esv/Luke.23){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 With the dawn of Friday morning, the Sanhedrin's nighttime verdict required formal ratification and, more critically, Roman authorization for execution. The Jewish council under Roman occupation did not possess the independent authority to carry out capital punishment (John 18:31), so Jesus was brought before Pontius Pilate, the Roman prefect of Judea. An inscription discovered at Caesarea Maritima in 1961 -- the so-called Pilate Stone -- confirmed his title as praefectus, providing the first archaeological corroboration of this figure who would become the most famous judge in human history. Philo of Alexandria and Josephus both describe Pilate as obstinate and ruthless, a governor who had already provoked Jewish outrage by introducing Roman standards bearing the emperor's image into Jerusalem and by funding an aqueduct with temple treasury money. He was no friend of the Jewish leadership, which makes his eventual capitulation to their demands all the more damning.

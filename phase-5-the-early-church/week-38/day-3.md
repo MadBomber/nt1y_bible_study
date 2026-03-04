@@ -12,6 +12,8 @@ tags: [phase-5, acts, eutychus, miletus, ephesian-elders, farewell, pastoral-cha
 
 ## Reading: Acts 20:7-38
 
+Listen to: [Acts chapter 20](https://www.biblegateway.com/audio/mclean/esv/Acts.20){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 20:7-38 contains two of the most memorable scenes in Luke's narrative: the tragicomic episode of Eutychus falling from a window during Paul's sermon, and the deeply moving farewell address to the Ephesian elders at Miletus. These two scenes, set side by side, reveal the full range of Luke's artistry and theological purpose. The first is almost humorous -- a young man nodding off during an all-night sermon and tumbling three stories to his apparent death. The second is the most emotionally intense speech in Acts -- a pastor saying goodbye to the leaders he has trained, knowing he will never see their faces again. Together they capture the earthiness and the gravity of the Christian life: a community that breaks bread, preaches till midnight, witnesses miracles, and weeps on the beach.

@@ -12,6 +12,8 @@ tags: [phase-2, transfiguration, faith, temple-tax]
 
 ## Reading: Matthew 17
 
+Listen to: [Matthew chapter 17](https://www.biblegateway.com/audio/mclean/esv/Matt.17){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 17 covers the same ground as Mark 9:1-29 -- the Transfiguration and the exorcism of the epileptic boy -- but adds significant material that reflects Matthew's distinctive theological interests, particularly his concern with the fulfillment of Old Testament prophecy, the nature of faith, and the unique episode of the temple tax. Reading Matthew's account alongside Mark's reveals how the same events can be narrated with different emphases to illuminate different facets of the truth, and Matthew's additions to the Transfiguration and healing narratives repay close attention.

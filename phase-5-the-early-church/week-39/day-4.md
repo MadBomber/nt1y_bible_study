@@ -12,6 +12,8 @@ tags: [phase-5, acts, paul-trials, agrippa, conversion, damascus-road, almost-pe
 
 ## Reading: Acts 26
 
+Listen to: [Acts chapter 26](https://www.biblegateway.com/audio/mclean/esv/Acts.26){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 26 contains the third and most fully developed account of Paul's conversion in the book of Acts, set within the most dramatic courtroom scene Luke narrates. The setting itself is spectacular: Festus has arranged a grand audience in the "audience hall" (akroaterion) of Caesarea's praetorium -- a formal reception hall designed for such occasions. King Agrippa II and Bernice enter "with great pomp" (meta polles phantasias) -- Luke's word choice is deliberately theatrical, using the Greek root from which we derive "fantasy" and "phantasm." The military tribunes and prominent citizens of Caesarea fill the room. Into this glittering assembly of worldly power, a prisoner in chains is brought to speak.

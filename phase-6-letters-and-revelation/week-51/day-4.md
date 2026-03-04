@@ -12,6 +12,8 @@ tags: [phase-6, revelation, throne-room, twenty-four-elders, four-living-creatur
 
 ## Reading: Revelation 4
 
+Listen to: [Revelation chapter 4](https://www.biblegateway.com/audio/mclean/esv/Rev.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Revelation 4 marks one of the most dramatic transitions in all of Scripture. The scene shifts from the churches of Asia Minor — with their particular struggles, compromises, and faithfulness — to the throne room of heaven, where the fundamental reality of the universe is revealed. If chapters 2-3 showed the church as it appears from within — flawed, struggling, sometimes failing — chapter 4 shows the cosmos as it appears from above: governed, ordered, and saturated with the worship of the God who sits on the throne. The theological function of this vision is to provide the interpretive framework for everything that follows in Revelation. Before the seals are opened, before the trumpets sound, before the bowls are poured out, the reader must see the throne. Whatever chaos unfolds on earth, heaven's throne is occupied.

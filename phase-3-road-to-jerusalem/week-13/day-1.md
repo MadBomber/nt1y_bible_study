@@ -12,6 +12,8 @@ tags: [phase-3, parables, wealth, stewardship, rich-man-lazarus, luke]
 
 ## Reading: Luke 16
 
+Listen to: [Luke chapter 16](https://www.biblegateway.com/audio/mclean/esv/Luke.16){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 16 contains two of Jesus' most provocative parables about wealth, framed by sayings that tie them together into a sustained meditation on the relationship between earthly possessions and eternal destiny. This chapter sits within Luke's distinctive emphasis on economic justice -- a theme that runs from Mary's Magnificat ("He has filled the hungry with good things, and the rich he has sent away empty," 1:53) through the Sermon on the Plain ("Woe to you who are rich," 6:24) to the encounter with Zacchaeus (19:1-10). Luke's Jesus talks about money more than any other topic except the Kingdom of God, and in this chapter the two converge.

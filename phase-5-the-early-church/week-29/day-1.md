@@ -12,6 +12,8 @@ tags: [phase-5, ephesus, corinthians, divisions, wisdom, cross, spiritual-maturi
 
 ## Reading: Acts 19
 
+Listen to: [Acts chapter 19](https://www.biblegateway.com/audio/mclean/esv/Acts.19){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Ephesus was among the most magnificent cities of the ancient Mediterranean. Located near the western coast of Asia Minor (modern Turkey), at the mouth of the Cayster River, it served as the de facto capital of the Roman province of Asia. Its population has been estimated at 200,000 to 250,000, making it the third or fourth largest city in the Roman Empire. The city boasted a massive theater capable of seating 25,000, an impressive library (the Library of Celsus, built slightly later), elaborate bath complexes, a stadium, and a sophisticated system of aqueducts. But its most famous feature was the Temple of Artemis (Artemision), one of the Seven Wonders of the Ancient World. This enormous structure, approximately four times the size of the Parthenon in Athens, served not only as a religious center but as a bank, a place of political asylum, and the heart of Ephesian civic identity. The cult of Artemis (the Roman Diana) was deeply intertwined with the city's economy, its politics, and its self-understanding.

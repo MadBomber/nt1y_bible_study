@@ -12,6 +12,8 @@ tags: [phase-5, ephesians, grace, salvation, jew-gentile-unity, new-humanity]
 
 ## Reading: Ephesians 2
 
+Listen to: [Ephesians chapter 2](https://www.biblegateway.com/audio/mclean/esv/Eph.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Ephesians 2 contains what may be the most important two-word phrase in the Bible: "But God" (ho de theos, 2:4). The chapter divides into two halves, each describing a rescue so dramatic that only divine intervention could accomplish it. In the first half (2:1-10), humanity is rescued from spiritual death through grace. In the second half (2:11-22), Gentiles are rescued from exclusion through Christ's work on the cross. Both movements share the same structure: a hopeless "then" followed by a transformative "but God" or "but now." The chapter is the theological heart of Ephesians and one of the clearest statements of the gospel in all of Scripture.

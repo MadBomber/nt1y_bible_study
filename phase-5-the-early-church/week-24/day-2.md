@@ -12,6 +12,8 @@ tags: [phase-5, first-missionary-journey, antioch, gentile-mission, peter, herod
 
 ## Reading: Acts 12
 
+Listen to: [Acts chapter 12](https://www.biblegateway.com/audio/mclean/esv/Acts.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 12 is one of the most dramatic chapters in the New Testament, weaving together political violence, divine intervention, dark comedy, and the terrifying judgment of God within a single narrative. The chapter centers on Herod Agrippa I, grandson of Herod the Great and the last ruler to govern a reunited Jewish kingdom. Agrippa had grown up in Rome as a companion of the imperial family, and through a combination of political shrewdness and fortunate friendships -- particularly with the emperors Caligula and Claudius -- he had accumulated territories until by 41 AD he ruled over virtually the same domain his grandfather had held. Unlike Herod the Great, who was Idumean and widely despised by the Jewish populace, Agrippa presented himself as a devout Jew. The Mishnah records that he wept while reading Deuteronomy 17:15 ("You may not put a foreigner over you"), and the crowd reassured him, "You are our brother!" (Mishnah, Sotah 7:8). Agrippa cultivated Jewish support assiduously, and persecuting the church was a politically expedient way to win favor with the religious establishment.

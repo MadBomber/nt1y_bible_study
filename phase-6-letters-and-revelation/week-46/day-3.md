@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, melchizedek, high-priest, obedience, suffering, maturit
 
 ## Reading: Hebrews 5
 
+Listen to: [Hebrews chapter 5](https://www.biblegateway.com/audio/mclean/esv/Heb.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 5 stands at a critical juncture in the letter's argument. The author has established that Jesus is superior to angels (chapters 1-2) and to Moses (chapter 3), and has just described Jesus as "a great high priest who has passed through the heavens" (4:14). Now he must explain what kind of high priest Jesus is -- and in doing so, he introduces a theme that will dominate the central section of Hebrews: the priesthood of Melchizedek. But before the argument can reach full height, the author pauses to deliver a stinging rebuke to his audience for their spiritual immaturity -- a rebuke that sets up the urgent warning of chapter 6.

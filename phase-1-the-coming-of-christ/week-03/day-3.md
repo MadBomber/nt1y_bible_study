@@ -12,6 +12,8 @@ phase: "The Coming of Christ"
 
 ## Reading: John 2
 
+Listen to: [John chapter 2](https://www.biblegateway.com/audio/mclean/esv/John.2){:target="_blank" rel="noopener"}
+
 > "This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him." -- John 2:11 (ESV)
 
 ---

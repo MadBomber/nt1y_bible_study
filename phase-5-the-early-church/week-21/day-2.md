@@ -12,6 +12,8 @@ tags: [phase-5, acts, pentecost, holy-spirit, peter, community, early-church]
 
 ## Reading: Acts 2
 
+Listen to: [Acts chapter 2](https://www.biblegateway.com/audio/mclean/esv/Acts.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 2 records what is arguably the most transformative single day in the history of the church. The Day of Pentecost -- Shavuot in Hebrew -- was one of the three great pilgrimage festivals of Judaism, alongside Passover and Tabernacles. Occurring fifty days after Passover (hence the Greek name Pentekoste, meaning "fiftieth"), it originally celebrated the wheat harvest (Exodus 23:16; Leviticus 23:15-21). By the first century, Jewish tradition had also associated Pentecost with the giving of the Torah at Mount Sinai, since the Israelites arrived at Sinai approximately fifty days after leaving Egypt. This dual significance -- harvest and covenant -- provides the theological backdrop for what happens in Acts 2. The Holy Spirit's coming represents both a new covenant and the firstfruits of a great spiritual harvest.

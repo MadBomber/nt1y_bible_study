@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, spiritual-gifts, love-chapter, worship, lords-suppe
 
 ## Reading: 1 Corinthians 10
 
+Listen to: [1 Corinthians chapter 10](https://www.biblegateway.com/audio/mclean/esv/1Cor.10){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Paul opens chapter 10 with one of the most striking typological arguments in the New Testament, drawing a direct line from Israel's wilderness experience to the Corinthian congregation. "For I do not want you to be unaware, brothers, that our fathers were all under the cloud, and all passed through the sea, and all were baptized into Moses in the cloud and in the sea, and all ate the same spiritual food, and all drank the same spiritual drink" (vv. 1-4). The repetition of "all" is deliberate and devastating. Every Israelite without exception participated in the saving acts of God -- the cloud of divine guidance (Exodus 13:21-22), the passage through the Red Sea (Exodus 14:22), the manna from heaven (Exodus 16:4-35), and the water from the rock (Numbers 20:7-11). Yet "with most of them God was not pleased, for they were overthrown in the wilderness" (v. 5). The Greek word *katestrothēsan* ("overthrown" or "struck down") vividly evokes corpses scattered across the desert floor. An entire generation perished despite their unparalleled spiritual privileges.

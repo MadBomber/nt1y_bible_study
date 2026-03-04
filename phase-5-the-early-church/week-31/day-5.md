@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, spiritual-gifts, love-chapter, worship, lords-suppe
 
 ## Reading: 1 Corinthians 14
 
+Listen to: [1 Corinthians chapter 14](https://www.biblegateway.com/audio/mclean/esv/1Cor.14){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Having established in chapter 12 that all gifts come from the same Spirit and in chapter 13 that love is the supreme criterion by which all gifts must be exercised, Paul now turns to the practical application: how should the Corinthians actually conduct their worship services? The answer occupies the whole of chapter 14, and it is driven by a single overarching principle: edification. The word *oikodomē* (building up) and its cognates appear seven times in this chapter alone. Everything in worship must build up the body. Whatever fails to build up the community, however impressive it may be to the individual, must be restrained, regulated, or replaced by something more constructive.

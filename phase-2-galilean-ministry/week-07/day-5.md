@@ -12,6 +12,8 @@ tags: [phase-2, parables, miracles, women-followers, storm, legion, jairus, heal
 
 ## Reading: Luke 8
 
+Listen to: [Luke chapter 8](https://www.biblegateway.com/audio/mclean/esv/Luke.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 8 is a masterfully constructed chapter that moves from the proclamation of the kingdom in parables to the demonstration of the kingdom in power. Luke accomplishes something the other Gospels distribute across multiple chapters: he weaves together teaching, nature miracle, exorcism, and resurrection into a single narrative arc, showing that the kingdom of God is not a theoretical concept but a force that restructures every dimension of reality. The chapter opens with a detail unique to Luke that illuminates the social revolution occurring within Jesus' movement.

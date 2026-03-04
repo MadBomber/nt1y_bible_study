@@ -12,6 +12,8 @@ tags: [phase-3, sanhedrin, caiaphas, plot, prophecy, political-calculation]
 
 ## Reading: John 11:45-57
 
+Listen to: [John chapter 11](https://www.biblegateway.com/audio/mclean/esv/John.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 11:45-57 is one of the most theologically layered passages in the Fourth Gospel. It records the immediate aftermath of the raising of Lazarus -- an event so public and so undeniable that it forces every witness to a decision. The passage splits into two responses: many Jews who witnessed the miracle believe in Jesus (v. 45), while others go directly to the Pharisees to report what has happened (v. 46). The result is a formal meeting of the Sanhedrin -- the supreme religious and judicial body of Second Temple Judaism -- where the decision to kill Jesus is made. The supreme irony of the passage is that the greatest sign in John's Gospel, the gift of life to a dead man, becomes the direct trigger for the plot to take Jesus' life. John wants his readers to see this irony clearly: the one who raises the dead is condemned to death precisely because he raised the dead.

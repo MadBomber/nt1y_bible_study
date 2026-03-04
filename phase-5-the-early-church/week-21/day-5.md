@@ -12,6 +12,8 @@ tags: [phase-5, acts, ananias-sapphira, apostles, signs-wonders, gamaliel, early
 
 ## Reading: Acts 5
 
+Listen to: [Acts chapter 5](https://www.biblegateway.com/audio/mclean/esv/Acts.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 5 presents two dramatically contrasting scenes that together define the character of the early church: an act of divine judgment within the community and an escalation of external persecution. The chapter opens with the disturbing story of Ananias and Sapphira, a married couple who sell a piece of property and bring a portion of the proceeds to the apostles while claiming to have brought the full amount. This story has troubled readers for centuries -- the punishment seems disproportionate, even cruel. But to understand its significance, we must read it in its literary and theological context.

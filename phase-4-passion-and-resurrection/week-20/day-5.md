@@ -12,6 +12,8 @@ tags: [phase-4, resurrection, thomas, mary-magdalene, peter-restored, john, peac
 
 ## Reading: John 20-21
 
+Listen to: [John chapter 20](https://www.biblegateway.com/audio/mclean/esv/John.20){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John's resurrection narrative is the most intimate, the most theologically layered, and the most deliberately structured of the four Gospel accounts. Where Matthew emphasizes cosmic signs and commission, Mark emphasizes the empty tomb and the call to proclamation, and Luke emphasizes the opened Scriptures and the journey from despair to joy, John focuses on individual encounters with the risen Christ -- encounters so personal that they read like scenes witnessed from three feet away. And they were. The author identifies himself as the disciple "whom Jesus loved," and his testimony bears the marks of someone who was there.

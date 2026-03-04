@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, tabernacle, blood, once-for-all, mediator, purification
 
 ## Reading: Hebrews 9
 
+Listen to: [Hebrews chapter 9](https://www.biblegateway.com/audio/mclean/esv/Heb.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 9 plunges into the most detailed comparison in the letter: the earthly tabernacle and its rituals set side by side with the heavenly sanctuary and Christ's once-for-all sacrifice. To grasp the force of this chapter, we must understand the elaborate system it describes -- a system that defined Jewish worship for over a millennium.

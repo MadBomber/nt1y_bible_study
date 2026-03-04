@@ -12,6 +12,8 @@ tags: [phase-5, philippians, knowing-christ, pressing-on, citizenship-heaven, ri
 
 ## Reading: Philippians 3
 
+Listen to: [Philippians chapter 3](https://www.biblegateway.com/audio/mclean/esv/Phil.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Philippians 3 is Paul's most intensely personal chapter, a spiritual autobiography compressed into twenty-one verses that moves from the heights of Jewish privilege through the crucible of conversion to the forward-leaning posture of a runner straining toward the finish line. The chapter addresses a specific threat -- the influence of Judaizing teachers who insisted that Gentile converts must be circumcised and observe the Mosaic law to be fully saved -- but Paul's response transcends the immediate controversy to become one of the New Testament's most powerful statements about the nature of Christian identity and the surpassing worth of knowing Christ.

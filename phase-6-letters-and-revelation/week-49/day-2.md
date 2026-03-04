@@ -12,6 +12,8 @@ tags: [phase-6, 2-peter, virtue, transfiguration, eyewitness, prophecy, scriptur
 
 ## Reading: 2 Peter 1
 
+Listen to: [2 Peter chapter 1](https://www.biblegateway.com/audio/mclean/esv/2Pet.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Peter is widely regarded as one of the last New Testament documents to be written, a final testament from the apostle who knows his death is imminent: "I know that I will soon put aside the tent of my body, as our Lord Jesus Christ has made clear to me" (1:14). Whether this refers to Jesus' words in John 21:18-19 about Peter's death or a more general awareness of approaching martyrdom, this letter carries the weight of a dying man's last words. Early church tradition placed Peter's execution in Rome under Nero, likely in 64-67 AD, and the letter reads as a conscious attempt to ensure that the apostolic testimony will outlast the apostle.

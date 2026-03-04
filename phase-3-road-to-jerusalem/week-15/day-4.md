@@ -12,6 +12,8 @@ tags: [phase-3, triumphal-entry, temple-cleansing, authority, passion-week]
 
 ## Reading: Mark 12:1-27
 
+Listen to: [Mark chapter 12](https://www.biblegateway.com/audio/mclean/esv/Mark.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 12 opens with the Parable of the Wicked Tenants, the same parable we encountered in Matthew 21 but here in Mark's characteristically terse style. The parable is set against the backdrop of first-century Galilean and Judean agriculture, where absentee landlordism was a common and deeply resented reality. Wealthy landowners -- often living in Jerusalem, Tiberias, or even Rome -- would lease their estates to tenant farmers under sharecropping agreements. The tenants worked the land; the owner received a portion of the harvest. Resentment between tenants and absentee landlords was a genuine social tension, and Jesus exploits this familiar scenario to devastating theological effect.

@@ -12,6 +12,8 @@ tags: [phase-3, olivet-discourse, eschatology, judgment, compassion, least-of-th
 
 ## Reading: Matthew 25:31-46, Luke 21
 
+Listen to: [Matthew chapter 25](https://www.biblegateway.com/audio/mclean/esv/Matt.25){:target="_blank" rel="noopener"} | [Luke chapter 21](https://www.biblegateway.com/audio/mclean/esv/Luke.21){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 25:31-46 brings the Olivet Discourse to its stunning climax with a scene of final judgment that has shaped Christian ethics, art, and social teaching for two millennia. Unlike the parables that precede it -- the Ten Virgins and the Talents -- this passage is not strictly a parable but an apocalyptic vision of the Son of Man on his throne, separating the nations as a shepherd separates sheep from goats. It is the only extended description of the Last Judgment attributed to Jesus in the Gospels, and its criterion for judgment -- how one has treated "the least of these my brothers" -- has been both a comfort to the poor and a provocation to the comfortable throughout Christian history.

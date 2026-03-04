@@ -12,6 +12,8 @@ tags: [phase-3, triumphal-entry, temple-cleansing, authority, passion-week]
 
 ## Reading: Matthew 21:1-22
 
+Listen to: [Matthew chapter 21](https://www.biblegateway.com/audio/mclean/esv/Matt.21){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 21 opens what scholars call the Passion Narrative, the extended account of Jesus' final week in Jerusalem that occupies a disproportionate share of each Gospel -- roughly one-third of Matthew, Mark, and Luke, and nearly half of John. This literary weight reflects the theological conviction of the early church: the death and resurrection of Jesus are not merely the conclusion of his story but its very purpose.

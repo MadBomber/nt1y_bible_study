@@ -12,6 +12,8 @@ tags: [phase-2, peter-confession, passion-prediction, discipleship, mark]
 
 ## Reading: Mark 8:27-38
 
+Listen to: [Mark chapter 8](https://www.biblegateway.com/audio/mclean/esv/Mark.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 8:27-38 is the structural and theological center of the Gospel of Mark. Everything before this passage has been building toward the question Jesus now poses; everything after it will be shaped by the answer he gives. The geographical setting is loaded with significance. Caesarea Philippi lies about twenty-five miles north of the Sea of Galilee, at the base of Mount Hermon, near one of the sources of the Jordan River. It was a thoroughly pagan place. The city had been rebuilt and renamed by Philip the Tetrarch (son of Herod the Great) in honor of Caesar Augustus and himself. Before that, it was known as Paneas, after the Greek god Pan, whose shrine was carved into the massive rock cliff at the city's edge. A cave in the rock face was believed to be an entrance to the underworld. Niches for statues of Pan and other deities are still visible in the rock today. It is in this setting -- surrounded by the monuments of imperial power and pagan religion -- that Jesus asks the most important question in human history.

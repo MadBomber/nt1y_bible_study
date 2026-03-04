@@ -12,6 +12,8 @@ tags: [phase-4, upper-room-discourse, farewell-discourse, holy-spirit, grief-to-
 
 ## Reading: John 16
 
+Listen to: [John chapter 16](https://www.biblegateway.com/audio/mclean/esv/John.16){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 16 is the final movement of the Farewell Discourse before the great High Priestly Prayer of chapter 17, and it brings together the themes of the preceding chapters into a climactic crescendo. The chapter opens with a warning and closes with a declaration of triumph, and between them lies some of the most profound pneumatology (theology of the Holy Spirit) in the New Testament. Jesus speaks with the urgency of a man who knows he has only hours left with his closest friends, and every sentence carries the weight of that impending separation.

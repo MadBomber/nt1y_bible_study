@@ -12,6 +12,8 @@ tags: [phase-6, 1-peter, living-hope, tested-faith, holiness, born-again, inheri
 
 ## Reading: 1 Peter 1
 
+Listen to: [1 Peter chapter 1](https://www.biblegateway.com/audio/mclean/esv/1Pet.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Peter opens with one of the most theologically rich introductions in the New Testament, and to appreciate its power we must understand both its author and its audience. The letter identifies its author as "Peter, an apostle of Jesus Christ" (1:1), and the voice that comes through is unmistakably shaped by decades of pastoral experience since those dramatic early days by the Sea of Galilee. This is Peter the restored -- the man who denied Christ three times by a charcoal fire and was recommissioned three times beside another charcoal fire (John 21). When Peter writes about "tested faith" and "living hope," he writes as one who experienced the catastrophic failure of his own faith and the miraculous reality of restoration through the risen Christ.

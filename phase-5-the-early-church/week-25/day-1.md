@@ -12,6 +12,8 @@ tags: [phase-5, galatians, jerusalem, peter-confronted, justification, antioch]
 
 ## Reading: Galatians 2
 
+Listen to: [Galatians chapter 2](https://www.biblegateway.com/audio/mclean/esv/Gal.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Galatians 2 is one of the most autobiographically revealing and theologically explosive chapters Paul ever wrote. In it, he recounts two pivotal episodes that together establish the authenticity and authority of his gospel: his private meeting with the Jerusalem apostles, who formally endorsed his Gentile mission, and his public confrontation with Peter at Antioch, where the gospel of grace was threatened not by outsiders but by the inconsistency of a fellow apostle. The chapter is simultaneously a defense of Paul's apostolic authority, a narrative of early church politics at their most intense, and the birthplace of the doctrine of justification by faith that would transform Western civilization.

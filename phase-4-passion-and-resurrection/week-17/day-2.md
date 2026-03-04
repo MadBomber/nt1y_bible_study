@@ -12,6 +12,8 @@ tags: [phase-4, last-supper, upper-room-discourse, farewell-discourse, foot-wash
 
 ## Reading: John 13
 
+Listen to: [John chapter 13](https://www.biblegateway.com/audio/mclean/esv/John.13){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 13 marks one of the great structural hinges of the Fourth Gospel. The first twelve chapters -- often called the "Book of Signs" -- have been addressed to the world at large as Jesus performed public miracles and engaged in public discourse. Beginning with chapter 13, John turns inward to what scholars call the "Book of Glory," a sustained private revelation directed exclusively to the disciples. The transition is marked by one of John's most theologically loaded sentences: "Having loved his own who were in the world, he loved them to the end" (13:1). The Greek phrase eis telos means both "to the end" in the temporal sense (to the very last moment) and "to the uttermost" in the qualitative sense (to the fullest possible extent). What follows in chapters 13 through 17 is the demonstration of that uttermost love.

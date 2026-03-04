@@ -12,6 +12,8 @@ tags: [phase-6, 2-timothy, farewell, preach-the-word, crown, paul-death, perseve
 
 ## Reading: 2 Timothy 4
 
+Listen to: [2 Timothy chapter 4](https://www.biblegateway.com/audio/mclean/esv/2Tim.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Timothy 4 is the most emotionally charged chapter Paul ever wrote. It is his last will and testament, the final recorded words of the greatest missionary in Christian history, and every sentence carries the weight of a man who knows he is about to die. When Paul writes, "The time of my departure has come" (4:6), he uses the Greek word analusis, a term with rich metaphorical associations. In military usage, it meant to strike camp and move on. In nautical language, it meant to loose a ship from its moorings and set sail. In philosophical writing, it described the release of the soul from the body. Paul chose a word that captures all three images simultaneously: he is breaking camp from this earthly life, setting sail for his heavenly homeland, and being released from the prison of mortal existence. The verb for "being poured out" (spendomai) in the same verse is a sacrificial term -- it describes the drink offering poured out on top of a sacrifice at the temple altar. Paul views his entire life and ministry as a sacrifice to God, and now the final libation is being poured out.

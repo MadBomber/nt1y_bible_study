@@ -12,6 +12,8 @@ tags: [phase-5, romans, israel, olive-tree, living-sacrifice, ethics, love, chri
 
 ## Reading: Romans 10
 
+Listen to: [Romans chapter 10](https://www.biblegateway.com/audio/mclean/esv/Rom.10){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 10 stands at the center of Paul's three-chapter treatment of Israel's place in God's redemptive plan (chapters 9-11). Having established in chapter 9 that God's sovereign election operates independently of human merit, Paul now addresses the human side of the equation: Israel's own responsibility for their rejection of the Messiah. The chapter is a masterpiece of pastoral theology, holding together divine sovereignty and human accountability without flattening either truth. Paul begins not with an accusation but with a prayer: "Brothers and sisters, my heart's desire and prayer to God for the Israelites is that they may be saved" (v. 1). The word for "desire" is *eudokia*, expressing deep personal longing. Paul's anguish from chapter 9 has not dissipated; it has become intercession.

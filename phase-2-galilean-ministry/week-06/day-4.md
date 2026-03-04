@@ -12,6 +12,8 @@ tags: [phase-2, mark, parables, sower, mustard-seed, kingdom, storm, faith]
 
 ## Reading: Mark 4
 
+Listen to: [Mark chapter 4](https://www.biblegateway.com/audio/mclean/esv/Mark.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 4 is the great parable chapter of the Second Gospel, and it marks a significant shift in Jesus' teaching method. Up to this point in Mark, Jesus has taught in synagogues, healed the sick, and debated with religious authorities. Now he turns to parables -- the distinctive, enigmatic form of teaching that will characterize much of his ministry from this point forward. The chapter opens with a vivid scene: Jesus sits in a boat on the Sea of Galilee, teaching a crowd gathered on the shore. This natural amphitheater, with the water carrying his voice to the curving shoreline, was a practical solution to crowd management. But it was also symbolically rich -- the teacher of Israel is literally positioned between the sea (a symbol of chaos in the Hebrew imagination) and the land (the ordered, inhabited world), mediating the word of God to the people gathered on the boundary.

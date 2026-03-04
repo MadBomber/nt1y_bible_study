@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, church-discipline, marriage, body-as-temple, christ
 
 ## Reading: 1 Corinthians 9
 
+Listen to: [1 Corinthians chapter 9](https://www.biblegateway.com/audio/mclean/esv/1Cor.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 9 is Paul's most extended defense of his apostleship and simultaneously his most powerful demonstration of the principle he has just articulated in chapter 8: love voluntarily limits liberty. The chapter functions as a personal illustration -- Paul is Exhibit A of the ethic he demands of the Corinthians regarding idol-meat. He has rights he does not exercise, freedoms he willingly surrenders, and privileges he forfeits for the sake of the gospel.

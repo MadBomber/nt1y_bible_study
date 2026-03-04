@@ -12,6 +12,8 @@ tags: [phase-6, titus, grace, blessed-hope, sound-teaching, self-control, appear
 
 ## Reading: Titus 2
 
+Listen to: [Titus chapter 2](https://www.biblegateway.com/audio/mclean/esv/Titus.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Titus 2 contains what many scholars regard as the most theologically compressed summary of the Christian gospel in the entire New Testament. Sandwiched between practical instructions for various groups within the congregation, verses 11-14 accomplish in four verses what Paul took chapters to develop in Romans — the past appearing of grace, its present transformative power, and the future hope of Christ's return. The passage is so rich that the early church used it as a baptismal text, and it continues to feature prominently in Christmas liturgies because of its proclamation that "the grace of God has appeared."

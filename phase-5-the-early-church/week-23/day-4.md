@@ -12,6 +12,8 @@ tags: [phase-5, acts, paul-conversion, damascus, ananias, barnabas, transformati
 
 ## Reading: Acts 9
 
+Listen to: [Acts chapter 9](https://www.biblegateway.com/audio/mclean/esv/Acts.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 9 records one of the most consequential events in the history of the world. The conversion of Saul of Tarsus — the Pharisee who had "breathed threats and murder against the disciples of the Lord" (9:1) — into Paul the apostle to the Gentiles is an event whose reverberations are still felt in every corner of global Christianity. Luke considers this story so important that he tells it three times in Acts (chapters 9, 22, and 26), each time from a different perspective and for a different audience. No other event in Acts, not even Pentecost, receives this kind of repetition. The story is not merely biographical; it is paradigmatic. In Saul's conversion, Luke shows his readers what God's grace looks like when it encounters the most determined opposition — and overwhelms it.

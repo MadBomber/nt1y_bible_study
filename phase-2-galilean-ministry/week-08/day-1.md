@@ -12,6 +12,8 @@ tags: [phase-2, miracles, legion, jairus, hemorrhage, exorcism, healing, resurre
 
 ## Reading: Mark 5
 
+Listen to: [Mark chapter 5](https://www.biblegateway.com/audio/mclean/esv/Mark.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 5 is one of the most dramatically narrated chapters in the New Testament, a triptych of miracles that displays Jesus' authority over the three great enemies of human existence: demonic oppression, chronic disease, and death itself. Mark's account is characteristically vivid, packed with eyewitness detail that scholars have long attributed to Peter's influence on Mark's Gospel. The pace is breathless, the descriptions are visceral, and the theological implications are staggering.

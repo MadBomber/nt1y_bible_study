@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, apostolic-authority, suffering, weakness, false-t
 
 ## Reading: 2 Corinthians 11
 
+Listen to: [2 Corinthians chapter 11](https://www.biblegateway.com/audio/mclean/esv/2Cor.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 11 is one of the most extraordinary chapters Paul ever wrote -- a passage of biting irony, raw vulnerability, and devastating rhetorical power. Paul launches into what scholars call the "Fool's Speech" (11:1-12:10), a sustained exercise in paradoxical self-commendation where he "boasts" in the very things Greco-Roman culture considered shameful. The chapter has no parallel in ancient literature: a man of genuine authority deliberately playing the fool to expose the fraudulence of those who take themselves with deadly seriousness.

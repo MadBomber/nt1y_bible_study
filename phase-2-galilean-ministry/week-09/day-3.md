@@ -12,6 +12,8 @@ tags: [phase-2, bread-of-life, clean-unclean, feeding-miracles, faith]
 
 ## Reading: Matthew 15
 
+Listen to: [Matthew chapter 15](https://www.biblegateway.com/audio/mclean/esv/Matt.15){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 15 is structured around three encounters that together compose a theological argument about the nature of purity, the scope of God's mercy, and the abundance of God's provision. The chapter opens with a delegation of Pharisees and scribes who have come "from Jerusalem" (v. 1), a detail that signals escalation. These are not local critics; they represent the religious establishment of the capital city, likely dispatched to investigate the growing movement around Jesus. Their complaint is specific: "Why do your disciples break the tradition of the elders? For they do not wash their hands when they eat" (v. 2).

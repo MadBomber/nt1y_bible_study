@@ -12,6 +12,8 @@ tags: [phase-5, romans, israel, olive-tree, living-sacrifice, ethics, love, chri
 
 ## Reading: Romans 11
 
+Listen to: [Romans chapter 11](https://www.biblegateway.com/audio/mclean/esv/Rom.11){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 11 is the climax and resolution of Paul's three-chapter wrestling match with Israel's unbelief. Having established God's sovereign right to choose (chapter 9) and Israel's culpable refusal to believe (chapter 10), Paul now asks the question that hangs over everything: "Did God reject his people?" The answer comes with characteristic Pauline force: *mē genoito* -- "By no means!" (v. 1). This emphatic denial is the strongest negation available in Greek, and Paul reinforces it with personal testimony: he himself is an Israelite, a descendant of Abraham, from the tribe of Benjamin. If God had rejected Israel entirely, Paul's own conversion would be inexplicable.

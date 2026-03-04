@@ -12,6 +12,8 @@ phase: "The Coming of Christ"
 
 ## Reading: Luke 2:21-52
 
+Listen to: [Luke chapter 2](https://www.biblegateway.com/audio/mclean/esv/Luke.2){:target="_blank" rel="noopener"}
+
 > *"For my eyes have seen your salvation that you have prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to your people Israel."* -- Luke 2:30-32 (ESV)
 
 ---

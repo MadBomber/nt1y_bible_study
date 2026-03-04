@@ -12,6 +12,8 @@ tags: [phase-5, thessalonica, berea, scripture-searching, persecution, apologeti
 
 ## Reading: Acts 17:1-15
 
+Listen to: [Acts chapter 17](https://www.biblegateway.com/audio/mclean/esv/Acts.17){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 17:1-15 traces Paul's journey from Philippi to two major Macedonian cities — Thessalonica and Berea — and provides a case study in two very different responses to the gospel. In Thessalonica, Paul's synagogue preaching produces converts and a violent riot; in Berea, the same message is met with eager examination of the Scriptures and widespread belief. The contrast between the two cities is one of the most memorable in Acts, and the Bereans' example has become a byword in Christian tradition for the faithful, critical engagement with Scripture that every believer is called to practice.

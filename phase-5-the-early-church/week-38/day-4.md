@@ -12,6 +12,8 @@ tags: [phase-5, acts, agabus, jerusalem, arrest, temple, nazarite-vow, prophecy]
 
 ## Reading: Acts 21
 
+Listen to: [Acts chapter 21](https://www.biblegateway.com/audio/mclean/esv/Acts.21){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 21 is one of the most dramatically structured chapters in Luke's narrative, building inexorably from prophetic warnings through pastoral compromise to explosive violence. The chapter reads like a Greek tragedy in which the audience knows the outcome before the protagonist reaches the stage -- Paul himself knows that chains await him in Jerusalem (20:23), the disciples along the route confirm it, and the prophet Agabus dramatizes it with a belt -- yet Paul walks forward anyway, not in defiance of the Spirit but in obedience to a deeper call. The parallels to Jesus' final journey to Jerusalem are unmistakable and almost certainly intentional: like Jesus, Paul "sets his face" toward the city (cf. Luke 9:51), is warned of what awaits him, declares his willingness to die, and is met with violence at the Temple.

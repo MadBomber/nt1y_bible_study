@@ -12,6 +12,8 @@ tags: [phase-5, first-missionary-journey, antioch, galatians, paul, gentile-miss
 
 ## Reading: Galatians 1
 
+Listen to: [Galatians chapter 1](https://www.biblegateway.com/audio/mclean/esv/Gal.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Galatians 1 is the opening salvo in what may be the most emotionally charged letter Paul ever wrote. The epistle to the Galatians is widely regarded as one of the earliest Pauline letters, likely composed around 48-49 AD from Antioch in Syria, shortly after Paul and Barnabas returned from their first missionary journey through southern Galatia (Acts 13-14) and before the Jerusalem Council described in Acts 15. If this dating is correct -- and it fits the evidence well, since Paul mentions no Jerusalem Council decree, which would have been his strongest argument if it had already occurred -- then Galatians represents Paul's first written articulation of the doctrine of justification by faith that he had been preaching orally since his conversion.

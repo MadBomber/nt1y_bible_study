@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, maturity, warning, falling-away, anchor, oath, hope, pe
 
 ## Reading: Hebrews 6
 
+Listen to: [Hebrews chapter 6](https://www.biblegateway.com/audio/mclean/esv/Heb.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 6 contains the most debated and controversial passage in the entire letter -- and arguably one of the most disputed in the New Testament. The warning in verses 4-8 about the impossibility of restoring those who have "fallen away" has generated centuries of theological argument about the nature of apostasy, the security of believers, and the limits of divine patience. But this warning passage must be read within its larger context: it is framed by a call to maturity (6:1-3) and followed by one of the most magnificent statements of hope in all of Scripture (6:9-20). The chapter moves from warning to encouragement, from the precipice of apostasy to the anchor of hope, and understanding both movements is essential.

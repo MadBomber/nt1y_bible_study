@@ -12,6 +12,8 @@ tags: [phase-5, resurrection, corinthians, hope, new-covenant, comfort, glory]
 
 ## Reading: 2 Corinthians 1
 
+Listen to: [2 Corinthians chapter 1](https://www.biblegateway.com/audio/mclean/esv/2Cor.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians is the most emotionally raw letter Paul ever wrote. It was composed from Macedonia (probably Philippi) around 55-56 AD, after a period of excruciating personal suffering and relational strain with the Corinthian church. To understand 2 Corinthians 1, one must reconstruct the events between the two letters. After sending 1 Corinthians, Paul apparently made a brief, unplanned visit to Corinth -- a visit he later describes as "painful" (2:1). During this visit, someone in the congregation publicly insulted or challenged Paul's authority (2:5-8, 7:12). Paul left humiliated and, rather than returning immediately, wrote a "severe letter" (now likely lost, though some scholars identify it with 2 Corinthians 10-13) delivered by Titus. Paul then waited anxiously in Troas and Macedonia for Titus's report. When Titus finally arrived with good news -- the Corinthians had repented and reaffirmed their loyalty -- Paul wrote 2 Corinthians in a flood of relief, gratitude, and still-raw vulnerability.

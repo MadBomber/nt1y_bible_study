@@ -12,6 +12,8 @@ tags: [phase-5, acts, ascension, holy-spirit, matthias, early-church]
 
 ## Reading: Acts 1
 
+Listen to: [Acts chapter 1](https://www.biblegateway.com/audio/mclean/esv/Acts.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 1 is one of the most pivotal chapters in the Bible, serving as the hinge between the ministry of Jesus and the ministry of the church. Luke, the physician-historian who authored both the Gospel bearing his name and the book of Acts, addresses both volumes to a figure named Theophilus -- likely a Roman patron of high social standing whose name means "lover of God." Luke's prologue to Acts explicitly connects the two works: "In the first book, O Theophilus, I dealt with all that Jesus began to do and teach" (1:1). The implication is profound -- the Gospel records what Jesus *began*; Acts records what Jesus *continues* to do through his Spirit-empowered people.

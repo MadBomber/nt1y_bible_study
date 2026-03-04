@@ -12,6 +12,8 @@ tags: [phase-6, 1-john, 2-john, 3-john, overcoming, assurance, eternal-life, tru
 
 ## Reading: 1 John 5 + 2 John + 3 John
 
+Listen to: [1 John chapter 5](https://www.biblegateway.com/audio/mclean/esv/1John.5){:target="_blank" rel="noopener"} | [2 John chapter 1](https://www.biblegateway.com/audio/mclean/esv/2John.1){:target="_blank" rel="noopener"} | [3 John chapter 1](https://www.biblegateway.com/audio/mclean/esv/3John.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Today's reading completes the Johannine Epistles -- the final written legacy of the last surviving apostle. First John 5 brings the letter to its climactic conclusion with declarations about overcoming faith, the testimony of God, and the assurance of eternal life. Second and Third John then offer two brief but revealing glimpses into the practical challenges facing late first-century house churches: how to handle false teachers (2 John) and how to navigate conflicts over hospitality and leadership (3 John).

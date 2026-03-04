@@ -12,6 +12,8 @@ tags: [phase-2, rejection, nazareth, twelve-apostles, mission, john-the-baptist,
 
 ## Reading: Mark 6:1-29
 
+Listen to: [Mark chapter 6](https://www.biblegateway.com/audio/mclean/esv/Mark.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 6:1-29 contains three distinct episodes -- Jesus' rejection at Nazareth, the sending of the Twelve, and the death of John the Baptist -- that Mark weaves together with deliberate thematic intent. Rejection, mission, and martyrdom are not separate subjects but dimensions of the same reality: the kingdom of God advances through vulnerability, faces opposition from the powerful, and costs everything. The narrative structure itself carries meaning: Mark inserts the account of John's death between the sending of the Twelve (6:7-13) and their return (6:30), creating a "sandwich" that forces the reader to interpret the disciples' mission in light of John's fate. If the forerunner was killed, what awaits those who follow the one he announced?

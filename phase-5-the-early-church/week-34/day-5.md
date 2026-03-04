@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, apostolic-authority, suffering, weakness, false-t
 
 ## Reading: 2 Corinthians 13
 
+Listen to: [2 Corinthians chapter 13](https://www.biblegateway.com/audio/mclean/esv/2Cor.13){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 13 brings Paul's most emotionally complex letter to a close with a combination of stern warning, pastoral appeal, and one of the most theologically significant benedictions in all of Scripture. The chapter is brief -- only fourteen verses -- but its density and importance are enormous. Paul is preparing for his third visit to Corinth, and he wants the church to be ready. The warnings, the call to self-examination, and the trinitarian blessing together form a fitting conclusion to a letter that has traversed the full range of human and divine experience.

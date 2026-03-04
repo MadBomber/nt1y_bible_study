@@ -12,6 +12,8 @@ tags: [phase-6, revelation, seven-churches, sardis, philadelphia, laodicea, door
 
 ## Reading: Revelation 3
 
+Listen to: [Revelation chapter 3](https://www.biblegateway.com/audio/mclean/esv/Rev.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Revelation 3 completes the seven letters to the churches of Asia Minor with three of the most penetrating diagnoses of spiritual condition in all of Scripture. Sardis is the church that has a reputation for being alive but is actually dead. Philadelphia is the church with little power but great faithfulness, which receives an open door no one can shut. Laodicea is the church that is neither hot nor cold — the lukewarm congregation to which Christ stands outside, knocking. Together, these three letters confront the full spectrum of spiritual danger: the complacency of reputation, the temptation to underestimate the value of faithfulness, and the self-deception of affluence. Each letter, like the four before it, is rooted in the specific circumstances of its city, and each contains promises to "the one who conquers" that reveal dimensions of the future hope that sustains the church through its present struggles.

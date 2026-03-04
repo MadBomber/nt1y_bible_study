@@ -12,6 +12,8 @@ tags: [phase-5, james, tongue, speech, wisdom, teachers]
 
 ## Reading: James 3
 
+Listen to: [James chapter 3](https://www.biblegateway.com/audio/mclean/esv/Jas.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 James 3 addresses two subjects that are intimately connected in the Jewish wisdom tradition: the power of speech and the nature of true wisdom. For first-century Jewish Christians steeped in the Proverbs, the Psalms, and the teaching of Jesus, the link between tongue and wisdom would have been immediately obvious. The wise person speaks carefully; the fool speaks recklessly. But James pushes this ancient insight far beyond conventional moralizing into a penetrating theological analysis of what the tongue reveals about the human heart and what kind of wisdom genuinely comes from God.

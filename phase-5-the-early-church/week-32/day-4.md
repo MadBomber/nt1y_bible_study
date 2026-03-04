@@ -12,6 +12,8 @@ tags: [phase-5, resurrection, corinthians, hope, new-covenant, comfort, glory]
 
 ## Reading: 2 Corinthians 2
 
+Listen to: [2 Corinthians chapter 2](https://www.biblegateway.com/audio/mclean/esv/2Cor.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 2 bridges two of Paul's most powerful pastoral concerns: the restoration of a disciplined offender and the nature of apostolic ministry. Both themes emerge from the painful history between Paul and the Corinthian church, and both illuminate the gospel's transformative logic -- that victory comes through apparent defeat, and that Christ's fragrance rises most powerfully from broken vessels.

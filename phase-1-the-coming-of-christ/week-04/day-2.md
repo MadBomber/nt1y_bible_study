@@ -12,6 +12,8 @@ tags: [luke, nazareth, rejection, capernaum, synagogue, authority, demons, heali
 
 ## Reading: Luke 4:14-44
 
+Listen to: [Luke chapter 4](https://www.biblegateway.com/audio/mclean/esv/Luke.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 4:14-44 is one of the most carefully constructed passages in the entire Gospel. Luke, the literary artist and historian, has arranged this material to serve as a programmatic introduction to Jesus' entire ministry -- a thesis statement in narrative form. The passage moves from triumph to rejection to astonishing displays of power, establishing the themes that will govern Luke's two-volume work (Luke-Acts) from beginning to end.

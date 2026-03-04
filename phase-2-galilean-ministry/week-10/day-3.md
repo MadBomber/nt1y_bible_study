@@ -12,6 +12,8 @@ tags: [phase-2, transfiguration, glory, faith, exorcism]
 
 ## Reading: Mark 9:1-29
 
+Listen to: [Mark chapter 9](https://www.biblegateway.com/audio/mclean/esv/Mark.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Mark 9:1-29 presents the greatest contrast in the Gospels: the mountain of glory and the valley of human misery, the unveiled radiance of Christ's divine nature and the convulsive anguish of a demon-possessed boy. The juxtaposition is not accidental. Mark places these two scenes in immediate succession because the Transfiguration without the exorcism would be escapist mysticism, and the exorcism without the Transfiguration would be mere power encounter. Together, they reveal the full shape of Jesus' ministry: he descends from glory into the wreckage of the fallen world, and he brings the power of heaven into the pit of human suffering. The pattern will reach its climax at the cross, where the one who was transfigured in light will be disfigured in darkness, and the power displayed on the mountain will be hidden in death -- only to be revealed again in resurrection.

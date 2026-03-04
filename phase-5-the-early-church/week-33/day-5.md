@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, suffering, reconciliation, generosity, ministry]
 
 ## Reading: 2 Corinthians 8
 
+Listen to: [2 Corinthians chapter 8](https://www.biblegateway.com/audio/mclean/esv/2Cor.8){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 8 marks a significant shift in the letter, from Paul's defense of his ministry and his joy at the Corinthians' repentance to a practical matter of enormous theological and political significance: the collection for the Jerusalem church. This offering, which Paul organized across his Gentile churches, was far more than a charitable project. It was a concrete expression of the unity between Jewish and Gentile believers, a tangible demonstration that the gospel creates a new humanity that transcends ethnic and economic boundaries, and a fulfillment of the agreement Paul made with the Jerusalem pillars -- James, Peter, and John -- who asked him to "remember the poor" (Galatians 2:10).

@@ -12,6 +12,8 @@ tags: [phase-6, 1-john, children-of-god, love, action, assurance, righteousness,
 
 ## Reading: 1 John 3
 
+Listen to: [1 John chapter 3](https://www.biblegateway.com/audio/mclean/esv/1John.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First John 3 opens with one of the most emotionally charged exclamations in the New Testament: "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!" (3:1). The Greek word translated "lavished" (dedoken) literally means "given" -- God has given us this love as a gift. But the word translated "what great" (potapen) is even more striking. Originally it meant "from what country?" -- it was used to describe something so extraordinary that one had to ask where it came from, as though it belonged to another world entirely. John is saying that God's love is so astonishing, so alien to normal human experience, that we must stand back and marvel at it as at something from another realm.

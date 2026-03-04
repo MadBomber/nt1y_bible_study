@@ -12,6 +12,8 @@ tags: [phase-6, 1-timothy, overseers, deacons, qualifications, church-leadership
 
 ## Reading: 1 Timothy 3
 
+Listen to: [1 Timothy chapter 3](https://www.biblegateway.com/audio/mclean/esv/1Tim.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Timothy 3 provides the earliest and most detailed qualifications for church leadership in the New Testament — a passage that has shaped the ordination and selection of Christian leaders for two millennia. To grasp its significance, we need to understand both the development of church offices in the first century and the specific leadership crisis Timothy faced in Ephesus.

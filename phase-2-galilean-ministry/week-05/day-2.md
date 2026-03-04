@@ -12,6 +12,8 @@ tags: [phase-2, matthew, sermon-on-mount, beatitudes, salt-light, law, ethics]
 
 ## Reading: Matthew 5
 
+Listen to: [Matthew chapter 5](https://www.biblegateway.com/audio/mclean/esv/Matt.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 5 opens the most extended block of Jesus' teaching in the New Testament -- the Sermon on the Mount, which runs through chapters 5-7. Matthew has carefully arranged this material to present Jesus as the new and greater Moses. Just as Moses ascended Mount Sinai to receive the Law and deliver it to Israel, Jesus ascends a mountain and sits down (the posture of an authoritative rabbi) to deliver the definitive interpretation of God's will for his people. The parallel is intentional, but the contrast is even more significant. Moses was a mediator who received the Law from God. Jesus speaks on his own authority: "You have heard that it was said... but I say to you." This formula (*ego de legō hymin*) is without precedent in Jewish teaching. No rabbi would dare place his own authority alongside -- let alone above -- the Torah. Jesus is not contradicting Moses; he is revealing the fullness of meaning that the Law always contained but that human tradition had obscured or diminished.

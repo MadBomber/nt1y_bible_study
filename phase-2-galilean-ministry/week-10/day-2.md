@@ -12,6 +12,8 @@ tags: [phase-2, peter-confession, passion-prediction, discipleship, matthew, kin
 
 ## Reading: Matthew 16
 
+Listen to: [Matthew chapter 16](https://www.biblegateway.com/audio/mclean/esv/Matt.16){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 16 presents the same pivotal moment as Mark 8:27-38 -- Peter's confession at Caesarea Philippi -- but with substantial additional material that reflects Matthew's distinctive theological interests, particularly his concern with ecclesiology (the nature and structure of the church) and with Peter's unique role among the apostles. Understanding Matthew's additions requires attention to his Jewish-Christian audience and to the debates about authority and community structure that shaped the early church.

@@ -12,6 +12,8 @@ tags: [phase-5, ephesians, love, spirit-filled, marriage, christ-and-church, lig
 
 ## Reading: Ephesians 5
 
+Listen to: [Ephesians chapter 5](https://www.biblegateway.com/audio/mclean/esv/Eph.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Ephesians 5 marks a turning point in the letter where Paul's soaring theology of cosmic reconciliation descends into the gritty details of daily life. The chapter opens with a command that echoes Jesus's own teaching: "Walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God" (5:2). The phrase "fragrant offering" (osmē euōdias) is drawn directly from the Levitical sacrificial system (Leviticus 1:9, 13, 17), where the aroma of a burnt offering ascending to God signified divine acceptance. Paul is declaring that Christ's self-giving death is the ultimate sacrifice that all the temple offerings foreshadowed, and that the believer's life of love is a participation in that same sacrificial fragrance.

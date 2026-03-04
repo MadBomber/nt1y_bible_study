@@ -12,6 +12,8 @@ tags: [phase-4, last-supper, upper-room-discourse, farewell-discourse, passover,
 
 ## Reading: Luke 22:1-38
 
+Listen to: [Luke chapter 22](https://www.biblegateway.com/audio/mclean/esv/Luke.22){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 22 opens with the Feast of Unleavened Bread "drawing near," a phrase that in the original Greek carries the force of a predator closing in on its prey. And indeed, predators are at work. The chief priests and scribes -- the guardians of Israel's religious life -- are actively seeking how to put Jesus to death. Luke notes with chilling matter-of-factness that "Satan entered into Judas," linking the betrayal not merely to human ambition or disillusionment but to the cosmic conflict that has been building since the temptation in the wilderness (Luke 4:1-13). Luke had noted at the end of that earlier episode that the devil departed from Jesus "until an opportune time." That time has now arrived.

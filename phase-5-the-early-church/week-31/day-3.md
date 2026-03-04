@@ -12,6 +12,8 @@ tags: [phase-5, corinthians, spiritual-gifts, love-chapter, worship, lords-suppe
 
 ## Reading: 1 Corinthians 12
 
+Listen to: [1 Corinthians chapter 12](https://www.biblegateway.com/audio/mclean/esv/1Cor.12){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Corinthians 12 opens the most sustained treatment of spiritual gifts in the New Testament, a three-chapter unit (12-14) that has profoundly shaped the church's understanding of the Holy Spirit's work in the gathered community. Paul's introduction signals the gravity of the topic: "Now concerning spiritual gifts, brothers, I do not want you to be uninformed" (v. 1). The Greek phrase *peri tōn pneumatikōn* can be translated either "concerning spiritual gifts" or "concerning spiritual persons" -- and the ambiguity may be intentional, since the Corinthian problem was precisely that certain individuals were claiming superior spiritual status on the basis of their possession of spectacular gifts, particularly tongues.

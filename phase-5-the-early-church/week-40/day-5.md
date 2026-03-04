@@ -12,6 +12,8 @@ tags: [phase-5, ephesians, unity, spiritual-gifts, new-self, maturity, holy-spir
 
 ## Reading: Ephesians 4
 
+Listen to: [Ephesians chapter 4](https://www.biblegateway.com/audio/mclean/esv/Eph.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Ephesians 4 marks the great pivot of the letter. The first three chapters have been almost entirely indicative -- declarations of what God has done in Christ. Now, with the word "therefore" (oun) in verse 1, Paul turns to the imperative -- how believers should live in response. But the relationship between indicative and imperative in Ephesians is crucial: ethics is never the ground of salvation but always its fruit. Paul does not say "do these things so that God will accept you." He says "God has done all of this; therefore, walk worthy of it." The entire ethical section of Ephesians (chapters 4-6) is powered by the grace of chapters 1-3.

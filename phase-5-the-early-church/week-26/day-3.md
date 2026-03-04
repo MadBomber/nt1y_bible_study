@@ -12,6 +12,8 @@ tags: [phase-5, philippi, imprisonment, worship, earthquake, jailer-converted, r
 
 ## Reading: Acts 16:16-40
 
+Listen to: [Acts chapter 16](https://www.biblegateway.com/audio/mclean/esv/Acts.16){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 16:16-40 is one of the most dramatic narratives in the entire Bible. In the span of twenty-five verses, Luke recounts the exorcism of a slave girl, the economic rage of her owners, the beating and imprisonment of Paul and Silas, their midnight worship in the inner cell, an earthquake that shakes the prison to its foundations, the conversion and baptism of the Philippian jailer and his household, and a confrontation with Roman magistrates over the illegal beating of Roman citizens. The passage reads like a compressed novel, but every detail serves Luke's theological purpose: to show that the gospel disrupts every dimension of human life — economic, spiritual, legal, and social — and that the power of God is never more visible than when his servants are in chains.

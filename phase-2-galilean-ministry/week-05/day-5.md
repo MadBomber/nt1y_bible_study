@@ -12,6 +12,8 @@ tags: [phase-2, luke, sermon-on-plain, beatitudes, woes, love-enemies, golden-ru
 
 ## Reading: Luke 6
 
+Listen to: [Luke chapter 6](https://www.biblegateway.com/audio/mclean/esv/Luke.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 6 presents what scholars commonly call the "Sermon on the Plain," a block of teaching that shares substantial overlap with Matthew's Sermon on the Mount but also displays significant differences. Whether these represent the same sermon recorded from different perspectives, or two separate but thematically related occasions of teaching (itinerant teachers in the ancient world routinely repeated and adapted their core messages), is debated. For our purposes, reading Luke's version after Matthew's allows us to hear the distinctive emphases of each evangelist and gain a richer, more stereoscopic view of Jesus' teaching.

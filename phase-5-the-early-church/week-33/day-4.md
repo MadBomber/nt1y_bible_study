@@ -12,6 +12,8 @@ tags: [phase-5, 2-corinthians, suffering, reconciliation, generosity, ministry]
 
 ## Reading: 2 Corinthians 7
 
+Listen to: [2 Corinthians chapter 7](https://www.biblegateway.com/audio/mclean/esv/2Cor.7){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Corinthians 7 is a chapter of emotional resolution. After the theological heights of chapters 4-5 and the passionate appeal of chapter 6, Paul now returns to the narrative thread he left dangling in 2:12-13 -- his anxious wait for Titus and the news from Corinth. This resumption of the narrative after a long theological digression (2:14-7:4) has led some scholars to propose that 2 Corinthians is actually a composite of multiple letters stitched together by a later editor. While this theory has significant scholarly support, the text as it stands also makes excellent sense as a single letter in which Paul, writing with intense emotion, moves freely between theological reflection and personal narrative -- much as any passionate speaker might digress and then circle back to the original point.

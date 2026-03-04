@@ -12,6 +12,8 @@ tags: [phase-4, resurrection, great-commission, authority, mission, matthew]
 
 ## Reading: Matthew 28
 
+Listen to: [Matthew chapter 28](https://www.biblegateway.com/audio/mclean/esv/Matt.28){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 28 is among the most consequential chapters in all of Scripture. It opens in the predawn darkness of the first day of the week and closes with a commission that has sent men and women to every corner of the earth for two thousand years. Between those two poles stands the event upon which the entire Christian faith rises or falls: the bodily resurrection of Jesus of Nazareth from the dead.

@@ -12,6 +12,8 @@ tags: [phase-3, gospel-of-john, healing, blindness, synagogue-expulsion, light]
 
 ## Reading: John 9
 
+Listen to: [John chapter 9](https://www.biblegateway.com/audio/mclean/esv/John.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 9 is one of the most carefully constructed narratives in all four Gospels -- a story that operates simultaneously as historical account, theological argument, and dramatic masterpiece. It follows directly from Jesus' declaration "I am the light of the world" in John 8:12 and serves as a lived demonstration of that claim. The chapter traces the journey of a man born blind from darkness to sight, from ignorance to faith, from social invisibility to courageous confession -- while simultaneously tracing the religious authorities' journey in the opposite direction, from claimed sight to exposed blindness, from confidence to confusion, from judgment to condemnation. The irony is exquisite and relentless: the blind man sees more clearly with every scene, while the sighted Pharisees become progressively more blind.

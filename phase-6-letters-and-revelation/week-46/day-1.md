@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, moses, warning, unbelief, hardened-hearts, psalm-95]
 
 ## Reading: Hebrews 3
 
+Listen to: [Hebrews chapter 3](https://www.biblegateway.com/audio/mclean/esv/Heb.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 If Hebrews 1-2 made the audacious claim that the Son is superior to angels, chapter 3 raises the stakes even further by comparing Jesus to Moses -- and declaring Jesus greater. For the original Jewish-Christian audience, this was not merely a theological proposition but a deeply personal challenge. Moses was not just a historical figure; he was the defining personality of Jewish identity. He was the liberator who brought Israel out of Egypt, the lawgiver who received the Torah on Sinai, the intercessor who stood between God's wrath and the people, the prophet to whom God spoke "face to face, as a man speaks to his friend" (Exodus 33:11). No other human figure in the Hebrew Scriptures occupied a comparable position. When the rabbis needed the highest possible commendation, they said a person was "faithful like Moses." Numbers 12:7 records God's own testimony: "My servant Moses is faithful in all my house." To claim that anyone was greater than Moses was to claim supremacy over the entire old covenant system he represented.

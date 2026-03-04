@@ -12,6 +12,8 @@ tags: [phase-6, jude, false-teachers, contend, judgment, doxology, kept, stumbli
 
 ## Reading: Jude
 
+Listen to: [Jude chapter 1](https://www.biblegateway.com/audio/mclean/esv/Jude.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The epistle of Jude is one of the shortest books in the New Testament -- just twenty-five verses -- yet it packs extraordinary theological density and rhetorical force. Its author identifies himself as "Jude, a servant of Jesus Christ and a brother of James" (v. 1). This James is almost certainly James the Just, leader of the Jerusalem church, making Jude a half-brother of Jesus himself (Mark 6:3; Matthew 13:55). That Jude calls himself not "brother of Jesus" but "servant of Jesus Christ" is a remarkable testament to the resurrection's transforming power: the one who grew up alongside Jesus now bows before him as Lord.

@@ -12,6 +12,8 @@ tags: [phase-6, 2-peter, second-coming, scoffers, patience, new-creation, day-of
 
 ## Reading: 2 Peter 3
 
+Listen to: [2 Peter chapter 3](https://www.biblegateway.com/audio/mclean/esv/2Pet.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Second Peter 3 addresses one of the most pressing challenges facing the early church in its second generation: the delay of Christ's return. Jesus had promised to come again, and the earliest Christians expected his return within their lifetimes. As decades passed and the apostles began to die, scoffers -- both external critics and disillusioned insiders -- seized on the delay as evidence that the promise was empty. Peter's response is one of the most theologically rich treatments of eschatology in the New Testament.

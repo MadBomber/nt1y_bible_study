@@ -12,6 +12,8 @@ tags: [matthew, temptation, calling-disciples, galilee, capernaum, kingdom, phas
 
 ## Reading: Matthew 4
 
+Listen to: [Matthew chapter 4](https://www.biblegateway.com/audio/mclean/esv/Matt.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 4 is a pivotal chapter that transitions from Jesus' private preparation to his public proclamation. The chapter opens with the temptation narrative -- Jesus led by the Spirit into the Judean wilderness for forty days of fasting and testing by the devil -- and then moves swiftly to Galilee, where his ministry explodes onto the public stage. Understanding the geography and culture of first-century Galilee is essential for grasping why Matthew frames the story as he does.

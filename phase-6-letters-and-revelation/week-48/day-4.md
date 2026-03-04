@@ -12,6 +12,8 @@ tags: [phase-6, 1-peter, marriage, inner-beauty, suffering-for-good, spirits-in-
 
 ## Reading: 1 Peter 3
 
+Listen to: [1 Peter chapter 3](https://www.biblegateway.com/audio/mclean/esv/1Pet.3){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Peter 3 is one of the most pastorally sensitive and theologically mysterious chapters in the New Testament. It moves from intimate instruction about marriage to a robust theology of suffering for righteousness, and then plunges into one of the most debated passages in all of Scripture — Christ preaching to "the spirits in prison." The chapter's range is astonishing, but its coherence lies in a single thread: the power of Christlike behavior to transform hostile environments, whether in a household, a community, or even the cosmic realm of the dead.

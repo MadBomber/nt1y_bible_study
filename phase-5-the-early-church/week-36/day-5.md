@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, sanctification, spirit, sovereignty, adam
 
 ## Reading: Romans 9
 
+Listen to: [Romans chapter 9](https://www.biblegateway.com/audio/mclean/esv/Rom.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 After the soaring triumph of Romans 8, the reader might expect Paul to move directly to practical exhortation. Instead, he turns to the most agonizing question of his apostolic life: Why has Israel, God's chosen people, largely rejected their own Messiah? Romans 9-11 forms a self-contained unit within the letter, often called Paul's "theodicy of Israel" -- his defense of God's justice in the face of Israel's unbelief. This question was not academic for Paul. It was deeply personal, and the opening verses of chapter 9 reveal a man in genuine anguish.

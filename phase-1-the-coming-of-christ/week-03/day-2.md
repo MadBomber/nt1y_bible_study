@@ -12,6 +12,8 @@ phase: "The Coming of Christ"
 
 ## Reading: John 1:19-51
 
+Listen to: [John chapter 1](https://www.biblegateway.com/audio/mclean/esv/John.1){:target="_blank" rel="noopener"}
+
 > "The next day he saw Jesus coming toward him, and said, 'Behold, the Lamb of God, who takes away the sin of the world!'" -- John 1:29 (ESV)
 
 ---

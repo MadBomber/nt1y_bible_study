@@ -12,6 +12,8 @@ tags: [phase-5, romans, israel, olive-tree, living-sacrifice, ethics, love, chri
 
 ## Reading: Romans 13
 
+Listen to: [Romans chapter 13](https://www.biblegateway.com/audio/mclean/esv/Rom.13){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 13 is arguably the most politically consequential chapter Paul ever wrote, and its interpretation has shaped the relationship between church and state for two millennia. The chapter divides into three distinct sections -- submission to governing authorities (vv. 1-7), love as the fulfillment of the law (vv. 8-10), and the urgency of the eschatological hour (vv. 11-14) -- but they are more deeply connected than they first appear. All three concern how believers should live in the overlap between the present age and the age to come.

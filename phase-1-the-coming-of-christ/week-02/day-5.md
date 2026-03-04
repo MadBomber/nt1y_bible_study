@@ -12,6 +12,8 @@ parallel_passages: ["Mark 1:1-11", "Luke 3:1-22", "John 1:29-34", "Isaiah 11:2",
 
 ## Reading: Matthew 3
 
+Listen to: [Matthew chapter 3](https://www.biblegateway.com/audio/mclean/esv/Matt.3){:target="_blank" rel="noopener"}
+
 > *"And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; and behold, a voice from heaven said, 'This is my beloved Son, with whom I am well pleased.'"* -- Matthew 3:16-17 (ESV)
 
 ---

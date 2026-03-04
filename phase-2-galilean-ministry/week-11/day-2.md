@@ -12,6 +12,8 @@ tags: [phase-2, kingdom-ethics, discipleship, transfiguration, peter-confession,
 
 ## Reading: Luke 9
 
+Listen to: [Luke chapter 9](https://www.biblegateway.com/audio/mclean/esv/Luke.9){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 9 is one of the most densely packed chapters in the Gospels, covering an enormous sweep of events that together form the hinge between Jesus' Galilean ministry and his journey toward Jerusalem. The chapter moves at breakneck speed through the sending of the Twelve, the feeding of the five thousand, Peter's confession, the Transfiguration, an exorcism failure, the second passion prediction, a dispute about greatness, and a series of encounters about the cost of following Jesus. Luke compresses material that Matthew and Mark spread across several chapters, creating a literary crescendo that builds toward the momentous announcement in verse 51: "When the days drew near for him to be taken up, he set his face to go to Jerusalem." Everything in this chapter is preparation for that journey.

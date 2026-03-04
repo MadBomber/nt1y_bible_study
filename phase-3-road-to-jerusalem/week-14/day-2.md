@@ -12,6 +12,8 @@ tags: [phase-3, parable, vineyard-workers, passion-prediction, servanthood, grac
 
 ## Reading: Matthew 20
 
+Listen to: [Matthew chapter 20](https://www.biblegateway.com/audio/mclean/esv/Matt.20){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 20 continues the journey toward Jerusalem and intensifies both the radical nature of grace and the cost of discipleship. The chapter opens with a parable that shatters every merit-based calculation, moves through the most detailed passion prediction yet, and closes with a confrontation about the nature of true greatness that cuts to the heart of the disciples' ongoing struggle for position.

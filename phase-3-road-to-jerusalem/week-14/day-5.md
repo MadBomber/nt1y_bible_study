@@ -12,6 +12,8 @@ tags: [phase-3, zacchaeus, salvation, tax-collector, parable, minas, stewardship
 
 ## Reading: Luke 19:1-27
 
+Listen to: [Luke chapter 19](https://www.biblegateway.com/audio/mclean/esv/Luke.19){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 19:1-27 presents two episodes that together form the final scene before Jesus' entry into Jerusalem: the encounter with Zacchaeus the tax collector and the Parable of the Ten Minas. Both passages address themes that have pervaded Luke's Gospel from the beginning -- the inclusion of the excluded, the transformation that follows encounter with Jesus, and the proper use of resources during the time before the kingdom's full arrival. Together they provide a fitting conclusion to the long journey narrative that began in Luke 9:51 when Jesus "set his face to go to Jerusalem."

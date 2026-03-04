@@ -12,6 +12,8 @@ tags: [phase-3, prodigal-son, parables-of-grace, lost-sheep, lost-coin, luke]
 
 ## Reading: Luke 15
 
+Listen to: [Luke chapter 15](https://www.biblegateway.com/audio/mclean/esv/Luke.15){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Luke 15 is widely regarded as the theological heart of Luke's Gospel and one of the most important chapters in the entire New Testament. The setting Luke provides is crucial: "Now the tax collectors and sinners were all gathering around to hear Jesus. But the Pharisees and the teachers of the law muttered, 'This man welcomes sinners and eats with them'" (15:1-2). In the ancient Near East, sharing a meal was not a casual social act but a declaration of acceptance and solidarity. To eat with someone was to identify with them, to say publicly, "This person belongs at my table." The Pharisees' complaint is not merely that Jesus tolerates sinners but that he actively welcomes them into fellowship. This is the occasion for three parables that form a carefully constructed crescendo, each one revealing more deeply the heart of God toward the lost.

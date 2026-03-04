@@ -12,6 +12,8 @@ tags: [phase-6, titus, crete, elders, overseers, false-teachers, qualifications]
 
 ## Reading: Titus 1
 
+Listen to: [Titus chapter 1](https://www.biblegateway.com/audio/mclean/esv/Titus.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 The letter to Titus transports us from the sophisticated metropolis of Ephesus to the rugged island of Crete, a dramatically different mission field with its own distinctive challenges. Crete is the largest of the Greek islands, stretching approximately 160 miles from east to west, mountainous and culturally distinct from the mainland. Its ancient Minoan civilization had once been among the most advanced in the Mediterranean, but by the first century AD, Crete had a decidedly mixed reputation. The island was known for its fierce independence, its resistance to centralized authority, and — according to widespread ancient testimony — for the untrustworthiness of its inhabitants. The Cretans' reputation for lying was so pervasive that the Greeks coined the verb kretizein ("to Cretanize") meaning "to lie" or "to cheat." This cultural backdrop is essential for understanding the letter's tone and emphasis.

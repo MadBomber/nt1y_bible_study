@@ -12,6 +12,8 @@ tags: [phase-5, romans, justification, faith, wrath, righteousness, abraham, gos
 
 ## Reading: Romans 1
 
+Listen to: [Romans chapter 1](https://www.biblegateway.com/audio/mclean/esv/Rom.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 1 is simultaneously the most magnificent opening in all of Paul's letters and one of the most debated chapters in the Bible. It introduces the great themes of the epistle -- the gospel, the righteousness of God, faith, and divine wrath -- with a rhetorical power that has shaped Christian theology for two millennia. Paul writes to a church he has never visited, in the capital of an empire that would eventually execute him, and he begins by declaring that he is "not ashamed of the gospel, because it is the power of God for salvation to everyone who believes" (v. 16). This thesis statement, compact and explosive, drives the entire letter.

@@ -12,6 +12,8 @@ tags: [luke, magnificat, benedictus, mary, zechariah, elizabeth, john-the-baptis
 
 ## Reading: Luke 1:39-80
 
+Listen to: [Luke chapter 1](https://www.biblegateway.com/audio/mclean/esv/Luke.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 This passage contains two of the most celebrated hymns in the history of Christian worship: the Magnificat (Mary's song, verses 46-55) and the Benedictus (Zechariah's song, verses 68-79). For two thousand years these canticles have been sung daily in monastic communities, chanted in cathedrals, and set to music by composers from Palestrina to Bach to Arvo Part. But to understand their original force, we must first grasp the scene Luke constructs around them.

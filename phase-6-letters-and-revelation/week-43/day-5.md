@@ -12,6 +12,8 @@ tags: [phase-6, 1-timothy, widows, elders, church-care, purity, family]
 
 ## Reading: 1 Timothy 5
 
+Listen to: [1 Timothy chapter 5](https://www.biblegateway.com/audio/mclean/esv/1Tim.5){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Timothy 5 may be the most practically detailed chapter in the Pastoral Epistles, providing specific instructions for how the church should care for its most vulnerable members and honor its leaders. The chapter reveals that by the early 60s AD, the church in Ephesus had developed organized systems of congregational care that were sophisticated enough to require written guidelines — and complex enough to generate problems that needed apostolic correction.

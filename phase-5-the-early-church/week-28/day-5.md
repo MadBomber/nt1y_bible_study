@@ -12,6 +12,8 @@ tags: [phase-5, day-of-the-lord, eschatology, thessalonians, idleness, apollos]
 
 ## Reading: Acts 18:18-28
 
+Listen to: [Acts chapter 18](https://www.biblegateway.com/audio/mclean/esv/Acts.18){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 18:18-28 is one of Luke's characteristically compressed travel narratives, covering an enormous geographical and theological distance in just eleven verses. This passage marks the end of Paul's second missionary journey, his brief but strategically important visit to Ephesus, his return to Antioch and Jerusalem, the beginning of his third missionary journey, and the introduction of Apollos -- a figure who will play a significant role in the Corinthian church. Each of these elements deserves careful attention.

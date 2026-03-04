@@ -12,6 +12,8 @@ tags: [phase-6, philippians, joy, contentment, peace, prayer, generosity]
 
 ## Reading: Philippians 4
 
+Listen to: [Philippians chapter 4](https://www.biblegateway.com/audio/mclean/esv/Phil.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Philippians 4 brings to a climax the most personal and warmly affectionate of all Paul's letters. To appreciate the extraordinary power of this chapter, we must remember where Paul is writing from and what he is writing to. Paul is under house arrest in Rome, chained to a Roman soldier, awaiting a trial that could end in his execution. The Philippian church — his first European church plant, founded roughly a decade earlier when Lydia, the jailer, and others came to faith (Acts 16) — has sent Epaphroditus with a financial gift and personal encouragement. Epaphroditus nearly died from illness during the journey, adding another layer of anxiety to the situation.

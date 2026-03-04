@@ -12,6 +12,8 @@ tags: [phase-5, romans, israel, olive-tree, living-sacrifice, ethics, love, chri
 
 ## Reading: Romans 14
 
+Listen to: [Romans chapter 14](https://www.biblegateway.com/audio/mclean/esv/Rom.14){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Romans 14 addresses what may have been the single most practical source of conflict in the Roman house churches: how should believers with different convictions about food, drink, and holy days live together in the same community? The issue was not hypothetical. When Claudius expelled Jews from Rome in 49 AD, the house churches became entirely Gentile in composition. When Jewish believers returned after Claudius's death in 54 AD, they found communities that had developed without Jewish customs -- communities that ate whatever they pleased and observed no special days. The returning Jewish believers, many of whom still observed kosher dietary laws and the Sabbath, found themselves in a minority position within churches they had originally founded. The resulting tension was not merely cultural but theological: it touched questions of identity, holiness, and faithfulness to God's covenant.

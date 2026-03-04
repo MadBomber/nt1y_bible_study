@@ -12,6 +12,8 @@ tags: [phase-2, bread-of-life, feeding-miracles, faith, john, discipleship]
 
 ## Reading: John 6:41-71
 
+Listen to: [John chapter 6](https://www.biblegateway.com/audio/mclean/esv/John.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 6 is one of the longest sustained discourses in the Fourth Gospel, and today's passage brings it to its climactic -- and devastating -- conclusion. To understand the full force of what happens here, we must remember what has preceded it. Jesus has just fed five thousand men (plus women and children) with five barley loaves and two fish on the northeastern shore of the Sea of Galilee, near Bethsaida. The crowd, recognizing the obvious parallel to Moses providing manna in the wilderness, attempted to seize Jesus and make him king by force (John 6:15). Jesus withdrew to the mountain alone, then walked across the sea to rejoin his disciples. The next day, the crowd tracked him down in Capernaum, and Jesus began his bread of life discourse, which unfolds in several stages of escalating provocation.

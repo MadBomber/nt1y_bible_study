@@ -12,6 +12,8 @@ tags: [phase-2, matthew, sermon-on-mount, judgment, golden-rule, two-ways, wise-
 
 ## Reading: Matthew 7
 
+Listen to: [Matthew chapter 7](https://www.biblegateway.com/audio/mclean/esv/Matt.7){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Matthew 7 brings the Sermon on the Mount to its conclusion, and like any great sermon, it ends with a call to decision. The chapter moves from instruction to warning to ultimatum: How will you respond to what you have heard? The stakes could not be higher. Jesus presents two gates, two roads, two trees, two builders, and two outcomes. There is no third option, no neutral ground. The Sermon that began with the gentle cadences of the Beatitudes ends with the crash of a house falling in a great storm.

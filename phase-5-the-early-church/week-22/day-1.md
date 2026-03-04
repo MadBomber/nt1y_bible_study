@@ -12,6 +12,8 @@ tags: [phase-5, acts, stephen, deacons, servant-leadership, persecution, early-c
 
 ## Reading: Acts 6
 
+Listen to: [Acts chapter 6](https://www.biblegateway.com/audio/mclean/esv/Acts.6){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 6 opens a new chapter in the life of the Jerusalem church -- a chapter marked by internal growing pains that lead to structural innovation and by external opposition that escalates to lethal violence. The issue that surfaces is deceptively mundane: "The Hellenists murmured against the Hebrews because their widows were being neglected in the daily distribution" (6:1). Behind this simple complaint lies a complex social reality that illuminates the composition of the earliest Christian community.

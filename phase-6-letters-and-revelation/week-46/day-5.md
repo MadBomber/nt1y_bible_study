@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, melchizedek, priesthood, abraham, intercession, permane
 
 ## Reading: Hebrews 7
 
+Listen to: [Hebrews chapter 7](https://www.biblegateway.com/audio/mclean/esv/Heb.7){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 7 is one of the most theologically ambitious chapters in the entire New Testament. Here the author finally develops the Melchizedek argument that was introduced in chapter 5 but interrupted by the maturity warning of chapters 5-6. The argument proceeds with the rigor of a legal brief: if Jesus is a priest after the order of Melchizedek (as Psalm 110:4 declares), then the entire Levitical priesthood -- and with it the Mosaic law that authorized it -- has been superseded by something fundamentally superior. For the Jewish-Christian audience of Hebrews, this conclusion was both liberating and terrifying: liberating because it confirmed their faith in Jesus as the ultimate mediator, terrifying because it meant there was no going back to the old system as a safety net.

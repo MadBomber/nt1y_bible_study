@@ -12,6 +12,8 @@ tags: [phase-3, good-shepherd, i-am-sayings, festival-of-dedication, deity-of-ch
 
 ## Reading: John 10
 
+Listen to: [John chapter 10](https://www.biblegateway.com/audio/mclean/esv/John.10){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 10 contains some of the most beloved and most controversial words Jesus ever spoke. The Good Shepherd discourse is simultaneously one of the tenderest images in the Gospels and one of the most explosive theological claims Jesus ever made, culminating in the statement that provoked an immediate attempt to stone him: "I and the Father are one" (10:30). The chapter divides into two major sections: the shepherd and sheep discourse (10:1-21), which continues directly from the healing of the blind man in chapter 9, and the confrontation at the Festival of Dedication (10:22-42), set some two to three months later. Together they form a sustained meditation on who Jesus is, who belongs to him, and the nature of the security he offers.

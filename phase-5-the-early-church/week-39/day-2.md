@@ -12,6 +12,8 @@ tags: [phase-5, acts, paul-trials, felix, caesarea, roman-law, righteousness]
 
 ## Reading: Acts 24
 
+Listen to: [Acts chapter 24](https://www.biblegateway.com/audio/mclean/esv/Acts.24){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Acts 24 transports us into the Roman legal system at its most revealing -- and its most corrupt. Five days after Paul's transfer to Caesarea, the Jewish authorities arrive with their case, bringing along a professional Roman advocate named Tertullus to present the prosecution. The choice to hire a trained orator tells us much about the seriousness with which the Sanhedrin viewed this case and about the cultural dynamics of the Roman courtroom. Tertullus would know the conventions of Roman forensic rhetoric, the legal categories that might persuade a Roman governor, and the flattery that such officials expected.

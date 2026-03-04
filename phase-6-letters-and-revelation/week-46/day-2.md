@@ -12,6 +12,8 @@ tags: [phase-6, hebrews, sabbath-rest, living-word, high-priest, sympathy, thron
 
 ## Reading: Hebrews 4
 
+Listen to: [Hebrews chapter 4](https://www.biblegateway.com/audio/mclean/esv/Heb.4){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Hebrews 4 is one of the richest single chapters in the New Testament, moving seamlessly from the theology of divine rest to one of Scripture's most powerful descriptions of God's word, and culminating in the tender revelation of a high priest who sympathizes with human weakness. Each section builds upon the previous, and together they form a pastoral argument of extraordinary beauty and precision.

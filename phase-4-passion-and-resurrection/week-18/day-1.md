@@ -12,6 +12,8 @@ tags: [phase-4, high-priestly-prayer, unity, glory, intercession]
 
 ## Reading: John 17
 
+Listen to: [John chapter 17](https://www.biblegateway.com/audio/mclean/esv/John.17){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 John 17 has been called "the Holy of Holies of the New Testament" by scholars from the Reformation to the present, and the title is fitting. On the Day of Atonement, the high priest of Israel entered the Most Holy Place -- the innermost sanctum of the temple -- to intercede for the people before the very presence of God. Only one person could enter, only once a year, and only with sacrificial blood (Leviticus 16). In John 17, Jesus assumes the role of the true High Priest, but instead of entering a sanctuary made with hands, he lifts his eyes to heaven and speaks directly to the Father in the hearing of his disciples. There is no veil between them. The intimacy is staggering. And unlike the Levitical high priest, who interceded for Israel's sins with the blood of goats and bulls, Jesus intercedes with the offering of his own life, which he is about to surrender on the cross.

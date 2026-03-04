@@ -12,6 +12,8 @@ tags: [phase-5, ephesians, spiritual-blessings, election, holy-spirit, prayer]
 
 ## Reading: Ephesians 1
 
+Listen to: [Ephesians chapter 1](https://www.biblegateway.com/audio/mclean/esv/Eph.1){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 Ephesians 1 is one of the most theologically dense chapters in the New Testament. It opens with a "eulogy" -- a blessing of God (eulogetos ho theos, 1:3) -- that in the original Greek constitutes a single sentence spanning verses 3 through 14. This 202-word sentence is the longest in the Pauline corpus and possibly the longest sentence in ancient Greek literature. It is not rambling; it is symphonic. Paul's thought spirals outward from the eternal purpose of the Father (vv. 3-6) through the redemptive work of the Son (vv. 7-12) to the sealing ministry of the Spirit (vv. 13-14), each movement ending with the refrain "to the praise of his glory" (vv. 6, 12, 14). The Trinitarian structure is not imposed from outside; it emerges naturally from Paul's reflection on the fullness of salvation.

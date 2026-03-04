@@ -12,6 +12,8 @@ tags: [phase-6, 1-peter, living-stones, royal-priesthood, submission, christ-exa
 
 ## Reading: 1 Peter 2
 
+Listen to: [1 Peter chapter 2](https://www.biblegateway.com/audio/mclean/esv/1Pet.2){:target="_blank" rel="noopener"}
+
 ## Historical Context
 
 First Peter 2 is one of the most theologically dense and practically challenging chapters in the New Testament. It accomplishes three monumental tasks in a single sweep: it redefines the identity of the church as the new temple and royal priesthood, it addresses the relationship of believers to governing authorities in a hostile empire, and it presents Christ's suffering as the paradigm for Christian endurance. Each of these themes draws deeply from the Old Testament while transforming its imagery in light of the resurrection, and together they provide a comprehensive vision for what it means to be God's people living as foreigners in a world that does not share their values.
