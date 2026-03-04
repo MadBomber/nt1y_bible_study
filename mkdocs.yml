@@ -32,6 +32,8 @@ extra_javascript:
 
 plugins:
   - search
+  - tags:
+      tags_file: tags.md
 
 exclude_docs: |
   LICENSE
@@ -465,3 +467,4 @@ nav:
         - Discussion Guide: phase-6-letters-and-revelation/week-52/discussion.md
   - How to Use: how-to-use.md
   - Why Chronological?: chronological-overview.md
+  - Tags: tags.md
