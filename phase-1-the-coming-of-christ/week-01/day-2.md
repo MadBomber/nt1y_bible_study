@@ -51,4 +51,4 @@ Mary's question -- "How will this be, since I am a virgin?" -- is notably differ
 Lord God, you spoke through Gabriel to an aging priest and a young woman, and through them you set in motion the fulfillment of your ancient promises. Give us the faith of Mary -- the willingness to say "let it be" even when we cannot see the path ahead. Where we are tempted to doubt like Zechariah, silence our objections and open our hearts to your word. We thank you that your plans are not thwarted by our weakness but accomplished through it. In Jesus' name. Amen.
 
 ---
-*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md) -- Tomorrow's Reading: Luke 1:39-80*
+*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md)*

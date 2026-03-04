@@ -76,4 +76,4 @@ Ask God to give you the bold humility of John the Baptist -- pointing others to 
 
 ---
 
-*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md) -- Tomorrow's Reading: John 2*
+*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md)*

@@ -72,4 +72,4 @@ Praise God for the radical, initiative-taking love described in John 3:16-17. As
 
 ---
 
-*Previous: [day-3](day-3.md) | Next: [day-5](day-5.md) -- Tomorrow's Reading: John 4*
+*Previous: [day-3](day-3.md) | Next: [day-5](day-5.md)*

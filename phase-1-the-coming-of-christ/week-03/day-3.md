@@ -72,4 +72,4 @@ Ask God to transform the "water" of your routine faith into the "wine" of deep, 
 
 ---
 
-*Previous: [day-2](day-2.md) | Next: [day-4](day-4.md) -- Tomorrow's Reading: John 3*
+*Previous: [day-2](day-2.md) | Next: [day-4](day-4.md)*

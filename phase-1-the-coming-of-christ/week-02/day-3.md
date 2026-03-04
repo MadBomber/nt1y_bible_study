@@ -59,4 +59,4 @@ The literary structure is carefully crafted. John's self-deprecation -- "the str
 
 ---
 
-*Previous: [day-2](day-2.md) | Next: [day-4](day-4.md) -- Tomorrow's Reading: Luke 3:1-22*
+*Previous: [day-2](day-2.md) | Next: [day-4](day-4.md)*
