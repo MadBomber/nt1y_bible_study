@@ -4,6 +4,7 @@ day: 3
 title: "John the Baptist's Ministry"
 reading: "Mark 1:1-8"
 tags: [phase-1, john-the-baptist, wilderness, repentance, baptism]
+phase: "The Coming of Christ"
 parallel_passages: ["Isaiah 40:3", "Malachi 3:1", "Malachi 4:5-6", "2 Kings 1:8", "Luke 3:1-18", "Matthew 3:1-12", "John 1:19-28"]
 ---
 

@@ -51,4 +51,4 @@ Regardless of which reading one adopts, the theological point is clear: the law,
 Holy God, your law is good, righteous, and worthy of our love. Yet we confess that we cannot keep it in our own strength. Like Paul, we find ourselves doing what we hate and failing to do what we desire. We are grateful that the cry "Who will rescue me?" has an answer -- Jesus Christ our Lord. Deliver us from the tyranny of sin that operates in our members, and lead us into the freedom of chapter 8, where your Spirit gives life and power. In Jesus' name, amen.
 
 ---
-*[Week 36 Overview](overview.md) | Previous: [Day 2 - Dead to Sin Alive in Christ](day-2.md) | Next: [Day 4 - No Condemnation, Life in the Spirit](day-4.md) | [Discussion Guide](discussion.md)*
+*Previous: [day-2](day-2.md) | Next: [day-4](day-4.md)*

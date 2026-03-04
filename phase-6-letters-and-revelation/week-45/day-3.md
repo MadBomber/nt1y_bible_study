@@ -47,4 +47,4 @@ According to early Christian tradition, Paul was beheaded on the Ostian Way outs
 Lord Jesus, righteous Judge, we stand in awe of Your servant Paul, who fought the good fight, finished the race, and kept the faith to the very end. Give us the same resolve. When companions desert us and the world turns hostile, help us to say with Paul, "The Lord stood by me and strengthened me." Deliver us from every evil deed and bring us safely into Your heavenly kingdom. May we preach Your word in season and out of season, and may we love Your appearing with all our hearts. Until that day, grant us grace to endure. Amen.
 
 ---
-*Nav: [< Day 2](day-2.md) | [Overview](overview.md) | [Day 4 >](day-4.md)*
+*Previous: [day-2](day-2.md) | Next: [day-4](day-4.md)*

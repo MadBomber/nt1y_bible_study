@@ -51,4 +51,4 @@ The chapter's closing argument is masterful: "Since you died with Christ to the 
 Father, we thank you that in Christ we have been brought to fullness. Deliver us from every system — whether philosophical, religious, or cultural — that would add to what Christ has already accomplished. Help us to live in the freedom of the cross, where our debt has been cancelled and the powers that once held us captive have been publicly disarmed. Root us deeply in the reality of Christ and free us from clinging to shadows. Amen.
 
 ---
-*[← Day 2](./day-2.md) | [Overview](./overview.md) | [Day 4 →](./day-4.md)*
+*Previous: [day-2](day-2.md) | Next: [day-4](day-4.md)*

@@ -5,6 +5,7 @@ reading: "John 2"
 title: "Wedding at Cana, First Temple Cleansing"
 parallel_passages: ["Matthew 21:12-13", "Mark 11:15-17", "Luke 19:45-46"]
 tags: [phase-1, signs, cana, temple, wedding, new-creation, week-3]
+phase: "The Coming of Christ"
 ---
 
 # Day 3: Wedding at Cana, First Temple Cleansing — John 2
