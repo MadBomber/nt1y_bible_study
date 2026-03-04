@@ -59,4 +59,4 @@ John's Gospel adds theological depth to the miraculous events, recording Jesus' 
 > -- John 6:35
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 7](../week-07/overview.md) | Next: [Week 9](../week-09/overview.md)*
+*Previous: [Week 7 Discussion](../week-07/discussion.md) | [Day 1](day-1.md) | Next: [Week 9](../week-09/overview.md)*

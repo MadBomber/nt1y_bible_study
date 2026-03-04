@@ -54,4 +54,4 @@ The arrest, trials, and denials that follow expose the worst of human nature in 
 > -- John 17:3
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 17](../week-17/overview.md) | Next: [Week 19](../week-19/overview.md)*
+*Previous: [Week 17 Discussion](../week-17/discussion.md) | [Day 1](day-1.md) | Next: [Week 19](../week-19/overview.md)*

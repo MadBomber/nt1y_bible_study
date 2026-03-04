@@ -53,4 +53,4 @@ These five chapters form the theological backbone not only of Romans but of the 
 > -- Romans 8:38-39
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 35](../week-35/overview.md) | Next: [Week 37](../week-37/overview.md)*
+*Previous: [Week 35 Discussion](../week-35/discussion.md) | [Day 1](day-1.md) | Next: [Week 37](../week-37/overview.md)*

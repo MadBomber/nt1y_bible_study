@@ -53,4 +53,4 @@ Then comes the sea. Luke's account of the voyage to Rome in Acts 27 is the most 
 > -- Acts 26:28-29
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 38](../week-38/overview.md) | Next: [Week 40](../week-40/overview.md)*
+*Previous: [Week 38 Discussion](../week-38/discussion.md) | [Day 1](day-1.md) | Next: [Week 40](../week-40/overview.md)*

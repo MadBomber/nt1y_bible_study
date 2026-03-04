@@ -54,4 +54,4 @@ The opening chapters of 1 Corinthians (1-4) lay the theological foundation for e
 > -- 1 Corinthians 1:18
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 28](../week-28/overview.md) | Next: [Week 30](../week-30/overview.md)*
+*Previous: [Week 28 Discussion](../week-28/discussion.md) | [Day 1](day-1.md) | Next: [Week 30](../week-30/overview.md)*

@@ -57,4 +57,4 @@ The week's narratives extend this boundary-crossing logic into practice. Jesus h
 > -- John 6:68
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 8](../week-08/overview.md) | Next: [Week 10](../week-10/overview.md)*
+*Previous: [Week 8 Discussion](../week-08/discussion.md) | [Day 1](day-1.md) | Next: [Week 10](../week-10/overview.md)*

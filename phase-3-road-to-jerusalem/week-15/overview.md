@@ -54,4 +54,4 @@ The religious leaders respond immediately. They challenge Jesus' authority, aski
 > -- Mark 12:30-31
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 14](../week-14/overview.md) | Next: [Week 16](../week-16/overview.md)*
+*Previous: [Week 14 Discussion](../week-14/discussion.md) | [Day 1](day-1.md) | Next: [Week 16](../week-16/overview.md)*

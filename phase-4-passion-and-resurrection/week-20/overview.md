@@ -60,4 +60,4 @@ What strikes the careful reader is the diversity of these accounts within their 
 > "And Jesus came up and spoke to them, saying, 'All authority has been given to Me in heaven and on earth. Go therefore and make disciples of all the nations, baptizing them in the name of the Father and the Son and the Holy Spirit, teaching them to observe all that I commanded you; and lo, I am with you always, even to the end of the age.'" -- Matthew 28:18-20 (NASB)
 
 ---
-*Previous: [Week 19](../week-19/overview.md) | [Weekly Discussion Guide](discussion.md) | Next: [Week 21](../../phase-5-the-early-church/week-21/overview.md)*
+*Previous: [Week 19 Discussion](../week-19/discussion.md) | [Day 1](day-1.md) | Next: [Week 21](../../phase-5-the-early-church/week-21/overview.md)*

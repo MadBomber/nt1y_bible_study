@@ -52,4 +52,4 @@ Romans 1-4 constitutes the first major section of the letter, and its argument i
 *Note: Romans was written from Corinth approximately 57 AD, during Paul's three-month stay recorded in Acts 20:2-3.*
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 34](../week-34/overview.md) | Next: [Week 36](../week-36/overview.md)*
+*Previous: [Week 34 Discussion](../week-34/discussion.md) | [Day 1](day-1.md) | Next: [Week 36](../week-36/overview.md)*

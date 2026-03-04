@@ -51,4 +51,4 @@ Chapter 4 then pivots with a single word: "therefore." Everything that follows -
 > -- Ephesians 2:8-9
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 39](../week-39/overview.md) | Next: [Week 41](../week-41/overview.md)*
+*Previous: [Week 39 Discussion](../week-39/discussion.md) | [Day 1](day-1.md) | Next: [Week 41](../week-41/overview.md)*

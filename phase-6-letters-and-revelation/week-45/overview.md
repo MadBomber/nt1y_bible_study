@@ -53,4 +53,4 @@ These five days take us from Paul's deathbed to the theological heights of Hebre
 > "I have fought the good fight, I have finished the race, I have kept the faith." -- 2 Timothy 4:7
 
 ---
-*Nav: [< Week 44](../week-44/overview.md) | [Week 46 >](../week-46/overview.md)*
+*Previous: [Week 44 Discussion](../week-44/discussion.md) | [Day 1](day-1.md) | Next: [Week 46](../week-46/overview.md)*

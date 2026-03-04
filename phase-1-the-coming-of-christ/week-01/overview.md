@@ -58,4 +58,4 @@ Matthew adds his own essential perspective, tracing Jesus' lineage through the r
 > "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth." -- John 1:14 (ESV)
 
 ---
-*[Weekly Discussion Guide](discussion.md) | Next: [Week 2](../week-02/overview.md)*
+*[Day 1](day-1.md) | Next: [Week 2](../week-02/overview.md)*

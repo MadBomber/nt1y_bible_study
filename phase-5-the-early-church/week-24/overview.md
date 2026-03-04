@@ -58,4 +58,4 @@ The week concludes with the opening chapter of Galatians, likely written from An
 > -- Acts 13:47
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 23](../week-23/overview.md) | Next: [Week 25](../week-25/overview.md)*
+*Previous: [Week 23 Discussion](../week-23/discussion.md) | [Day 1](day-1.md) | Next: [Week 25](../week-25/overview.md)*

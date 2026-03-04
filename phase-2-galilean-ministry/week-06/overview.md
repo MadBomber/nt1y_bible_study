@@ -56,4 +56,4 @@ The week culminates with Jesus sending out the Twelve on their first mission. Ha
 > "Then he said to his disciples, 'The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.'" -- Matthew 9:37-38 (ESV)
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 5](../week-05/overview.md) | Next: [Week 7](../week-07/overview.md)*
+*Previous: [Week 5 Discussion](../week-05/discussion.md) | [Day 1](day-1.md) | Next: [Week 7](../week-07/overview.md)*

@@ -52,4 +52,4 @@ The Farewell Discourse also introduces the Paraclete -- the Holy Spirit whom the
 > -- John 15:5
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 16](../../phase-3-road-to-jerusalem/week-16/overview.md) | Next: [Week 18](../week-18/overview.md)*
+*Previous: [Week 16 Discussion](../../phase-3-road-to-jerusalem/week-16/discussion.md) | [Day 1](day-1.md) | Next: [Week 18](../week-18/overview.md)*

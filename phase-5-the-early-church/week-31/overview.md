@@ -51,4 +51,4 @@ These chapters are among the most debated in Pauline scholarship, touching on qu
 > -- 1 Corinthians 13:4-7
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 30](../week-30/overview.md) | Next: [Week 32](../week-32/overview.md)*
+*Previous: [Week 30 Discussion](../week-30/discussion.md) | [Day 1](day-1.md) | Next: [Week 32](../week-32/overview.md)*

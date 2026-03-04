@@ -51,4 +51,4 @@ Chapters 12-14 then translate Paul's theology into a comprehensive ethic for the
 > -- Romans 12:1-2
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 36](../week-36/overview.md) | Next: [Week 38](../week-38/overview.md)*
+*Previous: [Week 36 Discussion](../week-36/discussion.md) | [Day 1](day-1.md) | Next: [Week 38](../week-38/overview.md)*

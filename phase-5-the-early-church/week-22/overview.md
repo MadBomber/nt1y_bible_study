@@ -52,4 +52,4 @@ The scattering that follows Stephen's death is one of the great ironies of redem
 > -- James 1:22
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 21](../week-21/overview.md) | Next: [Week 23](../week-23/overview.md)*
+*Previous: [Week 21 Discussion](../week-21/discussion.md) | [Day 1](day-1.md) | Next: [Week 23](../week-23/overview.md)*

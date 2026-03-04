@@ -49,4 +49,4 @@ This week traverses an extraordinary range of pastoral territory. First Timothy 
 > "For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline." — 2 Timothy 1:7
 
 ---
-*[← Week 43](../week-43/overview.md) | [Day 1 →](./day-1.md) | [Week 45 →](../week-45/overview.md)*
+*Previous: [Week 43 Discussion](../week-43/discussion.md) | [Day 1](day-1.md) | Next: [Week 45](../week-45/overview.md)*

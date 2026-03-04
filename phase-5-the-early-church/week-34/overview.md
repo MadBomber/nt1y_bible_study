@@ -53,4 +53,4 @@ Chapter 12 contains the astonishing account of Paul's visionary experience -- ca
 > -- 2 Corinthians 12:9
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 33](../week-33/overview.md) | Next: [Week 35](../week-35/overview.md)*
+*Previous: [Week 33 Discussion](../week-33/discussion.md) | [Day 1](day-1.md) | Next: [Week 35](../week-35/overview.md)*

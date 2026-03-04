@@ -54,4 +54,4 @@ What emerges across these readings is a portrait of a community utterly unlike t
 > -- Luke 10:27
 
 ---
-*[Discussion Guide](discussion.md) | Previous: [Week 10](../week-10/overview.md) | Next: [Week 12](../../phase-3-road-to-jerusalem/week-12/overview.md)*
+*Previous: [Week 10 Discussion](../week-10/discussion.md) | [Day 1](day-1.md) | Next: [Week 12](../../phase-3-road-to-jerusalem/week-12/overview.md)*

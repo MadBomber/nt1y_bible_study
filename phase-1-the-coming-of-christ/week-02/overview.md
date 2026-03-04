@@ -56,4 +56,4 @@ From the quiet reverence of the temple, we are thrust into political danger. Mat
 > "For my eyes have seen your salvation that you have prepared in the presence of all peoples, a light for revelation to the Gentiles, and for glory to your people Israel." -- Luke 2:30-32 (ESV)
 
 ---
-*[Weekly Discussion Guide](discussion.md) | Previous: [Week 1](../week-01/overview.md) | Next: [Week 3](../week-03/overview.md)*
+*Previous: [Week 1 Discussion](../week-01/discussion.md) | [Day 1](day-1.md) | Next: [Week 3](../week-03/overview.md)*
