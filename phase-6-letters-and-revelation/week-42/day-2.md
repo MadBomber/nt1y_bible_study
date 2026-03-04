@@ -51,4 +51,4 @@ The relationship between Colossians and Ephesians deserves attention. The two le
 Lord Jesus Christ, image of the invisible God, firstborn over all creation — we worship you as the one in whom, through whom, and for whom all things exist. Forgive us when we diminish your supremacy by placing other things alongside you as necessary for fullness. Open our eyes to the magnificent scope of who you are, that every rival claim and every lesser allegiance might fall away. Amen.
 
 ---
-*[← Day 1](./day-1.md) | [Overview](./overview.md) | [Day 3 →](./day-3.md)*
+*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md)*

@@ -5,6 +5,7 @@ reading: "John 1:19-51"
 title: "John the Baptist's Witness, First Disciples Called"
 parallel_passages: ["Matthew 3:11-12", "Mark 1:7-8", "Luke 3:15-18"]
 tags: [phase-1, john-the-baptist, disciples, lamb-of-god, testimony, week-3]
+phase: "The Coming of Christ"
 ---
 
 # Day 2: John the Baptist's Witness, First Disciples Called — John 1:19-51

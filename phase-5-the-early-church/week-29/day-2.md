@@ -49,4 +49,4 @@ Paul clinches the argument by pointing to the Corinthians themselves as evidence
 God of the cross, forgive us for importing the world's value system into your church. We confess that we are drawn to power, prestige, and eloquence -- and that we often evaluate your work by the same criteria the world uses. Break our addiction to human wisdom. Show us again the stunning foolishness of the cross, which is wiser than all our philosophies. Let no one among us boast except in you -- the God who chose the weak, the low, and the despised to display your glory. Unite us around the crucified Christ, the only foundation worth building on. Amen.
 
 ---
-*[Week 29 Overview](overview.md) | Previous: [Day 1 - Ephesus](day-1.md) | Next: [Day 3 - God's Wisdom Revealed by the Spirit](day-3.md) | [Discussion Guide](discussion.md)*
+*Previous: [day-1](day-1.md) | Next: [day-3](day-3.md)*

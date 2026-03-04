@@ -4,6 +4,7 @@ day: 2
 title: "Magi Visit, Flight to Egypt, Return to Nazareth"
 reading: "Matthew 2"
 tags: [phase-1, birth-narratives, magi, herod, egypt, prophecy-fulfillment]
+phase: "The Coming of Christ"
 parallel_passages: ["Numbers 24:17", "Micah 5:2", "Hosea 11:1", "Jeremiah 31:15", "Isaiah 11:1"]
 ---
 
