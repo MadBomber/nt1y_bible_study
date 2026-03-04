@@ -26,6 +26,10 @@ markdown_extensions:
   - tables
   - admonition
 
+extra_javascript:
+  - https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js
+  - js/bglinks-config.js
+
 plugins:
   - search
 
