@@ -51,4 +51,4 @@ The apostles' response to the beating is one of the most extraordinary statement
 Holy God, your presence among your people demands truth and integrity. Search our hearts for the places where we perform generosity while harboring deception. Give us the apostles' boldness to obey you rather than fear human consequences, and give us their strange, Spirit-born joy in suffering for your name. May nothing -- not threats, not punishment, not the approval of the powerful -- silence our witness to the risen Jesus. Amen.
 
 ---
-*Previous: [day-4](day-4.md) | Next: [../week-22/day-1](../week-22/day-1.md)*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md)*

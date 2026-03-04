@@ -51,4 +51,4 @@ The passage concludes with its pastoral purpose: "Therefore encourage one anothe
 Holy God, you call us to live lives worthy of the gospel in a world that pulls us in every other direction. Strengthen us to honor you with our bodies, our relationships, and our daily work. For those who grieve the loss of loved ones who died in Christ, let the hope of resurrection be more than words -- let it be the solid ground beneath our feet. We wait for the shout, the trumpet, and the rising. Until that day, help us encourage one another with these words. Amen.
 
 ---
-*[Week 27 Overview](overview.md) | Previous: [Day 4 - Timothy's Encouraging Report](day-4.md) | [Discussion Guide](discussion.md)*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md)*

@@ -49,4 +49,4 @@ When Jesus arrives at Jairus' house, the mourners are already wailing. Professio
 Lord Jesus, you command the wind and waves, you liberate the tormented, you heal the outcast, and you raise the dead. Nothing is beyond your authority, and no one is beyond your compassion. Give us the faith to reach out and touch your garment, the courage to welcome your disruptive power, and the patience to hold fast to your word until it bears fruit. Amen.
 
 ---
-*Previous: [day-4](day-4.md) | Next: [../week-08/day-1](../week-08/day-1.md)*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md)*

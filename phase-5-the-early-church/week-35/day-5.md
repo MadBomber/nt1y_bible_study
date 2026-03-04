@@ -51,4 +51,4 @@ The chapter's climax is Paul's description of Abraham's faith in the face of imp
 God of Abraham, you called a childless old man to look at the stars and believe that his descendants would outnumber them. You credited his faith -- not his works, not his circumcision, not his obedience -- as righteousness. And now you call us to the same faith: faith in the God who justifies the ungodly, who gives life to the dead, who calls into existence the things that do not exist. Forgive us for trying to earn what you freely give. Forgive us for adding conditions to a gospel that runs on grace. Like Abraham, may we not waver in unbelief but grow strong in faith, fully convinced that you are able to do what you have promised. Credit our faith as righteousness -- not because our faith is worthy, but because the One we trust is faithful. Through Jesus Christ, who was delivered up for our trespasses and raised for our justification. Amen.
 
 ---
-*Previous: [day-4](day-4.md) | Next: [Week 36, Day 1](../week-36/day-1.md)*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md)*

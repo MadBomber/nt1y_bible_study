@@ -5,6 +5,7 @@ reading: "John 4"
 title: "Samaritan Woman at the Well, Official's Son Healed"
 parallel_passages: ["Matthew 4:12", "Mark 1:14", "Luke 4:14"]
 tags: [phase-1, samaritan-woman, living-water, worship, signs, week-3]
+phase: "The Coming of Christ"
 ---
 
 # Day 5: Samaritan Woman at the Well, Official's Son Healed — John 4

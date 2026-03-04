@@ -53,4 +53,4 @@ The chapter closes with the ultimate motivation for the new life: "Be kind to on
 One God and Father of all, one Lord Jesus Christ, one Holy Spirit who binds us together -- we worship you as the source of the unity we so desperately need. Forgive us for the ways we have fractured what you have made one. Teach us the counter-cultural virtues of humility, gentleness, patience, and bearing with one another in love. Equip us through the gifts you have given to the church, so that every member grows toward the mature stature of Christ. Help us to put off the old self with its bitterness and malice, and to put on the new self created in your likeness. Above all, keep us from grieving your Holy Spirit, who has sealed us for the day of redemption. Make us kind, tenderhearted, and forgiving -- as you in Christ have forgiven us. Amen.
 
 ---
-*[Week 40 Overview](overview.md) | Previous: [Day 4 - The Mystery Revealed, Prayer for Power](day-4.md) | Next: [Week 41, Day 1](../week-41/day-1.md) | [Discussion Guide](discussion.md)*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md)*

@@ -4,6 +4,7 @@ day: 5
 title: "Matthew's Baptism Account"
 reading: "Matthew 3"
 tags: [phase-1, john-the-baptist, baptism, righteousness, pharisees, sadducees]
+phase: "The Coming of Christ"
 parallel_passages: ["Mark 1:1-11", "Luke 3:1-22", "John 1:29-34", "Isaiah 11:2", "Psalm 2:7", "Isaiah 42:1"]
 ---
 

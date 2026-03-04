@@ -51,4 +51,4 @@ Paul's hermeneutical principle also has profound implications for how Christians
 Lord of glory, you who spoke from the burning bush and descended on Sinai in fire and cloud -- your glory was real, but it was only a shadow of what was to come. Thank you for the new covenant, written not on stone but on our hearts by your Spirit. Thank you that the veil has been removed, that we can behold your face with unveiled eyes, and that even now you are transforming us from one degree of glory to another. We confess that the process is slow, that we resist the Spirit's shaping hand, and that we sometimes long for the old familiar patterns of the letter rather than the risky freedom of the Spirit. Renew us. Transform us. Make us living letters, read by all, written by Christ, carried by the Spirit. Until we see you face to face and the transformation is complete. Amen.
 
 ---
-*Previous: [day-4](day-4.md) | Next: [Week 33, Day 1](../week-33/day-1.md)*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md)*

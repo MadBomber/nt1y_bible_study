@@ -51,4 +51,4 @@ The worship then expands in concentric circles. First, the innumerable angels jo
 Worthy is the Lamb who was slain! We join the song of heaven — the song of every tribe and language and people and nation, the song of angels beyond number, the song of every creature under your sovereign reign. You are the Lion who conquered by becoming the Lamb. You are the sacrifice who is also the sovereign. You took the scroll from the Father's hand because you alone were worthy — worthy because you were slain, worthy because your blood ransomed the world, worthy because you made us a kingdom and priests to our God. We cast our crowns before your throne. To you who sit on the throne and to the Lamb be blessing and honor and glory and might forever and ever. Amen.
 
 ---
-*[← Day 4](./day-4.md) | [Overview](./overview.md) | [Week 52, Day 1 →](../week-52/day-1.md)*
+*Previous: [day-4](day-4.md) | Next: [discussion](discussion.md)*
