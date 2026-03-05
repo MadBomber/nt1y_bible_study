@@ -26,6 +26,9 @@ markdown_extensions:
   - tables
   - admonition
 
+extra_css:
+  - css/print-overrides.css
+
 extra_javascript:
   - https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js
   - js/bglinks-config.js
@@ -34,6 +37,11 @@ plugins:
   - search
   - tags:
       tags_file: tags.md
+  - print-site:
+      add_cover_page: true
+      add_table_of_contents: false
+      enumerate_headings: false
+      add_full_urls: true
 
 exclude_docs: |
   LICENSE

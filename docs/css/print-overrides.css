@@ -1,0 +1,20 @@
+@media print {
+    /* Hide the h1 headings inside nav-only wrapper sections */
+    #print-site-page section.print-page.md-section > h1 {
+        display: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        height: 0 !important;
+    }
+
+    /* Override the plugin's page-break-before: always for wrapper sections */
+    #print-site-page section.print-page.md-section {
+        padding: 0 !important;
+        margin: 0 !important;
+        page-break-before: avoid !important;
+        page-break-after: avoid !important;
+        page-break-inside: avoid !important;
+        break-before: avoid !important;
+        break-after: avoid !important;
+    }
+}
