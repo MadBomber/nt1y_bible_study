@@ -7,8 +7,21 @@ use_directory_urls: true
 theme:
   name: material
   palette:
-    primary: deep purple
-    accent: purple
+    - scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Merriweather
+    code: Roboto Mono
   features:
     - navigation.tabs
     - navigation.indexes

@@ -1,4 +1,43 @@
+/* Reduce excessive table row spacing from Material theme default */
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th {
+    padding: 0.25em 1.25em;
+}
+
+@page {
+    size: letter portrait;
+    margin: 1.5cm 1.5cm 2cm 1.5cm;
+
+    @bottom-center {
+        content: counter(page);
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 9pt;
+    }
+}
+
 @media print {
+    /* Use Georgia for print — a classic print serif, slightly smaller for page economy */
+    .md-typeset {
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: 0.68rem;
+        line-height: 1.5;
+    }
+
+    .md-typeset h1 {
+        font-size: 1.5em;
+        margin: 0.4em 0 0.2em;
+    }
+
+    .md-typeset h2 {
+        font-size: 1.2em;
+        margin: 0.35em 0 0.15em;
+    }
+
+    .md-typeset h3 {
+        font-size: 1.05em;
+        margin: 0.3em 0 0.1em;
+    }
+
     /* Hide the h1 headings inside nav-only wrapper sections */
     #print-site-page section.print-page.md-section > h1 {
         display: none !important;
